@@ -1,8 +1,14 @@
 import {Server} from "./deps.js";
+import {test} from "./controllers/api.js";
 
 class MyServer extends Server {
   api(path) {
-    return path;
+    switch(path) {
+      case "/api/test":
+        return test(path);
+      default:
+        return;
+    }
   }
 }
 
