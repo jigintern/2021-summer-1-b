@@ -6,31 +6,35 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
   <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+  <script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
 </head>
 <body>
-  <main class="grid gap-y-5 py-5">
-    <section id="place" class="w-2/6 bg-gray-100 rounded-lg p-3 mx-auto ring-4 ring-gray-200">
-      <h1 class="text-3xl">name</h1>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum possimus harum velit eligendi sunt libero accusantium ab odio numquam molestiae!</p>
-      <img class="p-3" src="https://images.unsplash.com/photo-1578408618091-2a8f234152b5" alt="sample image" />
-    </section>
-    <section id="place" class="w-2/6 bg-gray-100 rounded-lg p-3 mx-auto ring-4 ring-gray-200">
-      <h1 class="text-3xl">name</h1>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum possimus harum velit eligendi sunt libero accusantium ab odio numquam molestiae!</p>
-      <img class="p-3" src="https://images.unsplash.com/photo-1578408618091-2a8f234152b5" alt="sample image" />
-    </section>
-    <section id="place" class="w-2/6 bg-gray-100 rounded-lg p-3 mx-auto ring-4 ring-gray-200">
-      <h1 class="text-3xl">name</h1>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum possimus harum velit eligendi sunt libero accusantium ab odio numquam molestiae!</p>
-      <img class="p-3" src="https://images.unsplash.com/photo-1578408618091-2a8f234152b5" alt="sample image" />
-    </section>
-    <section id="place" class="w-2/6 bg-gray-100 rounded-lg p-3 mx-auto ring-4 ring-gray-200">
-      <h1 class="text-3xl">name</h1>
-      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum possimus harum velit eligendi sunt libero accusantium ab odio numquam molestiae!</p>
-      <img class="p-3" src="https://images.unsplash.com/photo-1578408618091-2a8f234152b5" alt="sample image" />
-    </section>
-  </main>
-  <script type="module">
-  </script>
+  <div x-data="app" class="flex flex-col h-screen"> 
+    <header class="h-1/6"></header>
+    <main id="places" class="grid gap-y-5 py-3">
+      <template x-for="place in places" :key="place.id">
+          <section class="w-2/6 bg-gray-100 rounded-lg p-3 mx-auto ring-4 ring-gray-200">
+            <h1 class="text-3xl" x-text="place.name"></h1>
+            <p x-text="place.description"></p>
+            <img class="p-3" :src="place.thumbnails[0]" alt="sample image" />
+          </section>
+      </template>
+    </main>
+    <footer class="h-1/6"></footer>
+  </div>
+  <script>
+    document.addEventListener('alpine:init', () => {
+        Alpine.data('app', () => ({
+            places: [],
+            async reloadPlaces() {
+              const data = await fetch('api/places');
+              this.places = await data.json();
+            },
+            async init() {
+              await this.reloadPlaces();
+            },
+        }))
+    });
+    </script>
 </body>
 </html>
