@@ -1,3 +1,5 @@
+import {shuffle} from "../utils/utils.js";
+
 export const test = (path) => {
   return path
 }
@@ -11,7 +13,7 @@ export const getPlaces = () => {
   try {
     const places = JSON.parse(Deno.readTextFileSync("./_data/places.json"));
     if(places) {
-      return places;
+      return shuffle(places);
     }
     
   } catch (err) {
