@@ -1,12 +1,45 @@
 [
   {
+    "id": "1",
     "name": "test1",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum possimus harum velit eligendi sunt libero accusantium ab odio numquam molestiae!",
-    "thumbnails": "https://images.unsplash.com/photo-1578408618091-2a8f234152b5" 
+    "thumbnails": [
+      "https://images.unsplash.com/photo-1578408618091-2a8f234152b5"
+    ]
   },
   {
+    "id": "2",
     "name": "test2",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum possimus harum velit eligendi sunt libero accusantium ab odio numquam molestiae!",
-    "thumbnails": "https://images.unsplash.com/photo-1578408618091-2a8f234152b5" 
+    "thumbnails": [
+      "https://images.unsplash.com/photo-1578408618091-2a8f234152b5",
+      "https://images.unsplash.com/photo-1578408618091-2a8f234152b5"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "test2",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum possimus harum velit eligendi sunt libero accusantium ab odio numquam molestiae!",
+    "thumbnails": [
+      "https://images.unsplash.com/photo-1578408618091-2a8f234152b5",
+      "https://images.unsplash.com/photo-1578408618091-2a8f234152b5",
+      "https://images.unsplash.com/photo-1578408618091-2a8f234152b5"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "test2",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum possimus harum velit eligendi sunt libero accusantium ab odio numquam molestiae!",
+    "thumbnails": [
+      "https://images.unsplash.com/photo-1578408618091-2a8f234152b5"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "test2",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum possimus harum velit eligendi sunt libero accusantium ab odio numquam molestiae!",
+    "thumbnails": [
+      "https://images.unsplash.com/photo-1578408618091-2a8f234152b5"
+    ]
   }
 ]
