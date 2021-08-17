@@ -1,3 +1,9 @@
-import {Server} from "./deps";
+import {Server} from "./deps.js";
 
-new Server(8000);
+class MyServer extends Server {
+  api(path) {
+    return path;
+  }
+}
+
+new MyServer(8000);
