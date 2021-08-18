@@ -1,15 +1,16 @@
 <script>
-  import BtnDislike from "./components/BtnDislike.svelte";
-  import BtnLike from "./components/BtnLike.svelte";
+  import ReviewPane from "./components/ReviewPane.svelte";
+  import Detail from "./components/Detail.svelte";
 
   let places = [];
   let curIdx = 0;
   let success = false;
+  let revealDetail = false;
 
   const like = () => {
-    // unimplemented
+    revealDetail = true;
   };
-  const dislike = () => {
+  const nextPlace = () => {
     const len = places.length;
     curIdx = (curIdx + 1) % (len === 0 ? 1 : len);
   };
@@ -23,38 +24,40 @@
 </script>
 
 <div class="grid grid-rows-8 h-screen">
-  <header class="bg-gray-200" />
+  <header class="bg-gray-200 z-10" />
   <main
     id="place"
-    class="row-span-6 grid grid-rows-5 gap-y-3 p-3 md:w-2/5 md:mx-auto "
+    class="row-span-6 {revealDetail
+      ? 'flex flex-col'
+      : 'grid grid-rows-5 gap-y-3'} p-3 md:w-2/5 md:mx-auto overflow-y-scroll"
   >
     {#await loadPlaces()}
-      <p>Loading...</p>
+      <div class="row-span-5 text-center">Loading...</div>
     {:then}
       {#if success}
-        <div class="row-span-3 mx-auto">
-          <img
-            class="h-full"
-            src={places[curIdx].thumbnail}
-            alt={places[curIdx].name}
+        {#if revealDetail}
+          <Detail
+            place={places[curIdx]}
+            on:restore-reviews={() => {
+              revealDetail = false;
+              nextPlace();
+            }}
           />
-        </div>
-        <div>
-          <h1 class="text-2xl">{places[curIdx].name}</h1>
-          <p class="line-clamp-2">{places[curIdx].description}</p>
-        </div>
-        <div class="flex justify-around items-center md:w-1/2 md:mx-auto">
-          <BtnDislike on:click={dislike} />
-          <BtnLike on:click={like} />
-        </div>
+        {:else}
+          <ReviewPane
+            place={places[curIdx]}
+            on:dislike={nextPlace}
+            on:like={like}
+          />
+        {/if}
       {:else}
-        <div class="row-span-5 text-center">Server error</div>
+        <div class="row-span-5 text-center">Server internal error</div>
       {/if}
     {:catch error}
       <p style="color: red">{error.message}</p>
     {/await}
   </main>
-  <footer class="bg-gray-200" />
+  <footer class="bg-gray-200 z-10" />
 </div>
 
 <style global lang="postcss">
