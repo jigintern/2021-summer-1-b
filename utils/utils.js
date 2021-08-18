@@ -25,5 +25,9 @@ export const getQueries = (req) => {
       longitude: +`${result[0]}.${result[1]}`,
       latitude: +`${result[2]}.${result[3]}`
     }
+  } else {
+    return {
+      
+    }
   }
 }
