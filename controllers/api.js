@@ -10,16 +10,25 @@ export const test = (path) => {
   @return JSON object or {error: err.message}
 */
 export const getPlaces = () => {
-  try {
-    const places = JSON.parse(Deno.readTextFileSync("./_data/places.json"));
+    let responsePlaces = [];
+
+    const places = JSON.parse(Deno.readTextFileSync("./_data/data.json"));
+
     if(places) {
-      return shuffle(places);
+      shuffle(places);
+  
+      // シャッフルした後30個のデータを返す
+      for (let i = 0; i < 30; i++) {
+        responsePlaces.push(places[i]);
+      }
+      
+      return responsePlaces;
+
+    } else {
+      
+      console.error("Not Found such data");
+      return {
+        error: "Not Found such data"
+      }
     }
-    
-  } catch (err) {
-    console.error(err.message);
-    return {
-      error: err.message
-    }
-  }
 }
