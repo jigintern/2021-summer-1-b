@@ -15,3 +15,15 @@ export const shuffle = (array) => {
 
   return array;
 }
+
+export const getQueries = (req) => {
+  if(req.includes("longitude") && req.includes('latitude')) {
+    const r = /\d+/g;
+    const result = req.match(r)
+
+    return {
+      longitude: result[0],
+      latitude: result[1]
+    }
+  }
+}
