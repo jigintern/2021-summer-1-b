@@ -15,7 +15,7 @@ export const calcDistance = (lat1, lng1, array) => {
     if (lat1 == lat2 && lng1 == lng2) {
       return;
     }
-
+    
     place.distance = distance;
     console.log(`distance: ${distance}, name: ${place.name} `)
     after_calc_array.push(place);
