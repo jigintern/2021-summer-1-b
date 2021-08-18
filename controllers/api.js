@@ -1,7 +1,10 @@
+import { calcDistance } from "../utils/calc_dist.js";
 import {
   shuffle,
   getQueries
 } from "../utils/utils.js";
+
+const places = JSON.parse(Deno.readTextFileSync("./_data/data.json"));
 
 export const test = (path) => {
   return path
@@ -10,48 +13,50 @@ export const test = (path) => {
 /*
   @desc get places
   @route GET /api/places
-  @return JSON object or {error: err.message}
+  @return Array or {error: err.message}
 */
 export const getPlaces = () => {
-    let responsePlaces = [];
+  let responsePlaces = [];
 
-    const places = JSON.parse(Deno.readTextFileSync("./_data/data.json"));
 
-    if(places) {
-      shuffle(places);
-  
-      // シャッフルした後30個のデータを返す
-      for (let i = 0; i < 30; i++) {
-        responsePlaces.push(places[i]);
-      }
-      
-      return responsePlaces;
+  if (places) {
+    shuffle(places);
 
-    } else {
-      
-      console.error("Not Found such data");
-      return {
-        error: "Not Found such data"
-      }
+    // シャッフルした後30個のデータを返す
+    for (let i = 0; i < 30; i++) {
+      responsePlaces.push(places[i]);
     }
+
+    return responsePlaces;
+
+  } else {
+
+    console.error("Not Found such data");
+    return {
+      error: "Not Found such data"
+    }
+  }
 }
 
 /*
   @desc get place with 
   @route GET /api/places/?longitude=number&latitude=number
-  @return JSON object or {error: err.message}
+  @return Array of recommended places
 */
 export const getPlace = (path, req) => {
   // 1. path: /api/places/
   // 2. req: longitude=222&latitude=222
-  const {longitude, latitude} = getQueries(req);
+  const { longitude, latitude } = getQueries(req);
   console.log(`longitude: ${longitude}, latitude: ${latitude}`)
 
-  // search near places
+  let recomended_places = calcDistance(latitude, longitude, places)
+  console.log(`recomended_places: ${recomended_places}`)
 
-  
-  // response
-  const resData = {
-    
+  if (recomended_places) {
+    return recomended_places;
+  }
+
+  else {
+    return [];
   }
 }
