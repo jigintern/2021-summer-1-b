@@ -10,6 +10,7 @@
   "devDependencies": {
     "@rollup/plugin-commonjs": "^17.0.0",
     "@rollup/plugin-node-resolve": "^11.0.0",
+    "@tailwindcss/line-clamp": "^0.2.1",
     "autoprefixer": "^10.3.1",
     "postcss": "^8.3.6",
     "rollup": "^2.3.4",

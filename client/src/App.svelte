@@ -1,6 +1,15 @@
 <script>
   import { onMount } from "svelte";
   let places = [];
+  let curIdx = 0;
+
+  const like = () => {
+    // unimplemented
+  };
+  const dislike = () => {
+    const len = places.length;
+    curIdx = (curIdx + 1) % (len === 0 ? 1 : len);
+  };
 
   onMount(async () => {
     const data = await fetch("api/places");
@@ -8,23 +17,41 @@
   });
 </script>
 
-<div class="flex flex-col h-screen">
-  <header class="h-1/6" />
-  <main id="places" class="grid gap-y-5 py-3">
-    {#each places as place}
-      <section
-        key={place.id}
-        class="w-2/6 bg-gray-100 rounded-lg p-3 mx-auto ring-4 ring-gray-200"
-      >
-        <img class="p-3" src={place.thumbnails[0]} alt="sample" />
-        <h1 class="text-3xl">{place.name}</h1>
-        <p>{place.description}</p>
-      </section>
+<div class="grid grid-rows-8 h-screen">
+  <header class="bg-gray-200" />
+  <main
+    id="place"
+    class="row-span-6 grid grid-rows-5 gap-y-3 p-3 md:w-2/5 md:mx-auto "
+  >
+    {#if places[curIdx]}
+      <div class="row-span-3 mx-auto">
+        <img
+          class="h-full"
+          src={places[curIdx].thumbnail}
+          alt={places[curIdx].name}
+        />
+      </div>
+      <div>
+        <h1 class="text-3xl">{places[curIdx].name}</h1>
+        <p class="line-clamp-2">{places[curIdx].description}</p>
+      </div>
+      <div class="flex justify-around items-center md:w-1/2 md:mx-auto">
+        <button
+          id="dislike"
+          class="h-16 w-16 bg-blue-400 rounded-full"
+          on:click={dislike}>d</button
+        >
+        <button
+          id="like"
+          class="h-16 w-16 bg-green-400 rounded-full"
+          on:click={like}>l</button
+        >
+      </div>
     {:else}
-      <p>Loading...</p>
-    {/each}
+      <div class="row-span-5 text-center">Loading...</div>
+    {/if}
   </main>
-  <footer class="h-1/6" />
+  <footer class="bg-gray-200" />
 </div>
 
 <style global lang="postcss">
