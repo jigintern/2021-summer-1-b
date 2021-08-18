@@ -16,26 +16,29 @@ export const test = (path) => {
   @return Array or {error: err.message}
 */
 export const getPlaces = () => {
-  let responsePlaces = [];
+    let responsePlaces = [];
 
+    if(places) {
+      shuffle(places);
+  
+      // シャッフルした後30個のデータを返す
+      for (let i = 0; i < 30; i++) {
+        responsePlaces.push(places[i]);
+      }
 
-  if (places) {
-    shuffle(places);
+      return {
+        success: true,
+        data: responsePlaces
+      }
 
-    // シャッフルした後30個のデータを返す
-    for (let i = 0; i < 30; i++) {
-      responsePlaces.push(places[i]);
+    } else {
+      
+      console.error("Not Found such data");
+      return {
+        success: false,
+        data: []
+      }
     }
-
-    return responsePlaces;
-
-  } else {
-
-    console.error("Not Found such data");
-    return {
-      error: "Not Found such data"
-    }
-  }
 }
 
 /*
