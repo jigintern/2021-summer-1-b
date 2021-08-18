@@ -53,10 +53,15 @@ export const getPlace = (path, req) => {
   console.log(`recomended_places: ${recomended_places}`)
 
   if (recomended_places) {
-    return recomended_places;
+    return {
+      success: true,
+      data: recomended_places
+    }
   }
-
   else {
-    return [];
+    return {
+      success: false,
+      data: []
+    }
   }
 }
