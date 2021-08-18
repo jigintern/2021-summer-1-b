@@ -7,55 +7,14 @@ import {
   assertNotEquals
 } from "../deps.js";
 
-const testArray = [
-  {
-    "name": "test1",
-    "description": "desc1"
-  },
-  {
-    "name": "test2",
-    "description": "desc2"
-  },
-  {
-    "name": "test3",
-    "description": "desc3"
-  },
-  {
-    "name": "test4",
-    "description": "desc4"
-  },
-  {
-    "name": "test5",
-    "description": "desc5"
-  },
-  {
-    "name": "test6",
-    "description": "desc1"
-  },
-  {
-    "name": "test7",
-    "description": "desc2"
-  },
-  {
-    "name": "test8",
-    "description": "desc3"
-  },
-  {
-    "name": "test9",
-    "description": "desc4"
-  },
-  {
-    "name": "test10",
-    "description": "desc5"
-  },
-];
+const places = JSON.parse(Deno.readTextFileSync("./_data/data.json"));
 
 Deno.test({
   name: "test shuffle func",
   fn() {
-    shuffle(testArray);
+    shuffle(places);
 
-    assertNotEquals(testArray[0].name, "test1");
+    assertNotEquals(places[0].name, "めがねミュージアム");
   }
 })
 
