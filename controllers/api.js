@@ -50,10 +50,10 @@ export const getPlace = (path, req) => {
   // 1. path: /api/places/
   // 2. req: longitude=222&latitude=222
   const { longitude, latitude } = getQueries(req);
-  console.log(`longitude: ${longitude}, latitude: ${latitude}`)
+  // console.log(`longitude: ${longitude}, latitude: ${latitude}`)
 
   let recomended_places = calcDistance(latitude, longitude, places)
-  console.log(`recomended_places: ${recomended_places}`)
+  // console.log(`recomended_places: ${recomended_places}`)
 
   if (recomended_places) {
     return {

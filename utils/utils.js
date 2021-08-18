@@ -22,8 +22,8 @@ export const getQueries = (req) => {
     const result = req.match(r)
 
     return {
-      longitude: result[0],
-      latitude: result[1]
+      longitude: +`${result[0]}.${result[1]}`,
+      latitude: +`${result[2]}.${result[3]}`
     }
   }
 }
