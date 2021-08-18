@@ -1,4 +1,7 @@
-import {shuffle} from "../utils/utils.js";
+import {
+  shuffle,
+  getQueries
+} from "../utils/utils.js";
 
 export const test = (path) => {
   return path
@@ -31,4 +34,24 @@ export const getPlaces = () => {
         error: "Not Found such data"
       }
     }
+}
+
+/*
+  @desc get place with 
+  @route GET /api/places/?longitude=number&latitude=number
+  @return JSON object or {error: err.message}
+*/
+export const getPlace = (path, req) => {
+  // 1. path: /api/places/
+  // 2. req: longitude=222&latitude=222
+  const {longitude, latitude} = getQueries(req);
+  console.log(`longitude: ${longitude}, latitude: ${latitude}`)
+
+  // search near places
+
+  
+  // response
+  const resData = {
+    
+  }
 }
