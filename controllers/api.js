@@ -24,14 +24,18 @@ export const getPlaces = () => {
       for (let i = 0; i < 30; i++) {
         responsePlaces.push(places[i]);
       }
-      
-      return responsePlaces;
+
+      return {
+        success: true,
+        data: responsePlaces
+      }
 
     } else {
       
       console.error("Not Found such data");
       return {
-        error: "Not Found such data"
+        success: false,
+        data: []
       }
     }
 }
