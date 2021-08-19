@@ -12,5 +12,5 @@ places.forEach((place) => {
 })
 
 
-let answer = db.query("SELECT * FROM places");
-console.log(answer);
+// let answer = db.query("SELECT * FROM places");
+// console.log(answer);
