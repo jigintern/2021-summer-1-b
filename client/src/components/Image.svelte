@@ -3,4 +3,4 @@
   export let alt = "";
 </script>
 
-<img class="h-full object-contain" {src} {alt} />
+<img class="h-full object-contain mx-auto" {src} {alt} />
