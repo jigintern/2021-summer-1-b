@@ -29,7 +29,7 @@
     id="place"
     class="row-span-6 {revealDetail
       ? 'flex flex-col'
-      : 'grid grid-rows-5 gap-y-3'} p-3 md:w-2/5 md:mx-auto overflow-y-scroll"
+      : 'grid grid-rows-5 gap-y-3'} p-3 md:w-2/5 md:mx-auto overflow-y-scroll scroll-bar-none"
   >
     {#await loadPlaces()}
       <div class="row-span-5 text-center">Loading...</div>
@@ -66,4 +66,15 @@
   @tailwind base;
   @tailwind components;
   @tailwind utilities;
+
+  .scroll-bar-none {
+    overflow-y: scroll;
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* Internet Explorer 10+ */
+  }
+  .scroll-bar-none::-webkit-scrollbar {
+    /* WebKit */
+    width: 0;
+    height: 0;
+  }
 </style>
