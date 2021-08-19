@@ -46,7 +46,7 @@
         {:else}
           <ReviewPane
             place={places[curIdx]}
-            on:dislike={nextPlace}
+            on:next={nextPlace}
             on:like={like}
           />
         {/if}

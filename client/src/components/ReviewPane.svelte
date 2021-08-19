@@ -1,6 +1,6 @@
 <script>
   import { createEventDispatcher } from "svelte";
-  import BtnDislike from "./BtnDislike.svelte";
+  import BtnNext from "./BtnNext.svelte";
   import BtnLike from "./BtnLike.svelte";
   import Image from "./Image.svelte";
 
@@ -8,7 +8,7 @@
 
   const dispatch = createEventDispatcher();
 
-  const dislike = () => dispatch("dislike");
+  const next = () => dispatch("next");
   const like = () => dispatch("like");
 </script>
 
@@ -20,6 +20,6 @@
   <p class="line-clamp-2">{place.description}</p>
 </div>
 <div class="flex justify-around items-center md:w-1/2 md:mx-auto">
-  <BtnDislike on:click={dislike} />
+  <BtnNext on:click={next} />
   <BtnLike on:click={like} />
 </div>
