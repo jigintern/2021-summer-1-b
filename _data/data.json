@@ -6,7 +6,7 @@
       "address":"鯖江市新横江2丁目3-4（ めがね会館）",
       "longitude":"136.198844",
       "latitude":"35.942758",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/pavilion_001.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/pavilion_001.jpg"
    },
    {
       "id":"2",
@@ -15,7 +15,7 @@
       "address":"福井県鯖江市糺町32-1-1",
       "longitude":"136.175821",
       "latitude":"35.972545",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/pavilion_002.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/pavilion_002.jpg"
    },
    {
       "id":"3",
@@ -24,7 +24,7 @@
       "address":"福井県鯖江市西袋町40-1-2",
       "longitude":"136.2738",
       "latitude":"35.953033",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/pavilion_003.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/pavilion_003.jpg"
    },
    {
       "id":"4",
@@ -33,7 +33,7 @@
       "address":"鯖江市長泉寺町1丁目9-20",
       "longitude":"136.184339",
       "latitude":"35.9535",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/pavilion_004.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/pavilion_004.jpg"
    },
    {
       "id":"5",
@@ -42,7 +42,7 @@
       "address":"鯖江市糺町16-18",
       "longitude":"136.167572",
       "latitude":"35.977267",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/pavilion_005.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/pavilion_005.jpg"
    },
    {
       "id":"6",
@@ -51,7 +51,7 @@
       "address":"鯖江市本町1～4丁目一帯",
       "longitude":"136.185384",
       "latitude":"35.946356",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/town_001.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/town_001.jpg"
    },
    {
       "id":"7",
@@ -60,7 +60,7 @@
       "address":"鯖江市吉江町一帯",
       "longitude":"136.174379",
       "latitude":"35.988434",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/town_002.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/town_002.jpg"
    },
    {
       "id":"8",
@@ -69,7 +69,7 @@
       "address":"鯖江市河和田地区一帯",
       "longitude":"136.272686",
       "latitude":"35.951634",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/town_003.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/town_003.jpg"
    },
    {
       "id":"9",
@@ -78,7 +78,7 @@
       "address":"鯖江市本町3丁目2-38",
       "longitude":"136.184354",
       "latitude":"35.946979",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/temples_001.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_001.jpg"
    },
    {
       "id":"10",
@@ -87,7 +87,7 @@
       "address":"鯖江市日の出町7-1",
       "longitude":"136.185663",
       "latitude":"35.939427",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/temples_002.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_002.jpg"
    },
    {
       "id":"11",
@@ -96,7 +96,7 @@
       "address":"鯖江市横越町13-43",
       "longitude":"136.203644",
       "latitude":"35.945889",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/temples_003.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_003.jpg"
    },
    {
       "id":"12",
@@ -105,7 +105,7 @@
       "address":"鯖江市深江町6-14",
       "longitude":"136.184986",
       "latitude":"35.94178",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/temples_004.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_004.jpg"
    },
    {
       "id":"13",
@@ -114,7 +114,7 @@
       "address":"鯖江市長泉寺町2-7-7",
       "longitude":"136.185286",
       "latitude":"35.955959",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/temples_005.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_005.jpg"
    },
    {
       "id":"14",
@@ -123,7 +123,7 @@
       "address":"鯖江市旭町1丁目2-14",
       "longitude":"136.187897",
       "latitude":"35.944299",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/temples_006.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_006.jpg"
    },
    {
       "id":"15",
@@ -132,7 +132,7 @@
       "address":"鯖江市旭町2丁目",
       "longitude":"136.187917",
       "latitude":"35.945845",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/temples_007.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_007.jpg"
    },
    {
       "id":"16",
@@ -141,7 +141,7 @@
       "address":"鯖江市舟津町1丁目2-32",
       "longitude":"136.186221",
       "latitude":"35.938675",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/temples_008.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_008.jpg"
    },
    {
       "id":"17",
@@ -150,7 +150,7 @@
       "address":"鯖江市水落町4丁目3-12",
       "longitude":"136.182531",
       "latitude":"35.971034",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/temples_009.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_009.jpg"
    },
    {
       "id":"18",
@@ -159,7 +159,7 @@
       "address":"鯖江市神明町4丁目5-7",
       "longitude":"136.186777",
       "latitude":"35.977863",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/temples_010.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_010.jpg"
    },
    {
       "id":"19",
@@ -168,7 +168,7 @@
       "address":"鯖江市杉本町31-42-1",
       "longitude":"136.170424",
       "latitude":"35.982717",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/temples_011.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_011.jpg"
    },
    {
       "id":"20",
@@ -177,7 +177,7 @@
       "address":"鯖江市米岡町",
       "longitude":"136.176678",
       "latitude":"35.989717",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/temples_012.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_012.jpg"
    },
    {
       "id":"21",
@@ -186,7 +186,7 @@
       "address":"鯖江市片山町",
       "longitude":"136.276161",
       "latitude":"35.949013",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/temples_013.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_013.jpg"
    },
    {
       "id":"22",
@@ -195,7 +195,7 @@
       "address":"鯖江市河和田町",
       "longitude":"136.269906",
       "latitude":"35.951721",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/temples_014.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_014.jpg"
    },
    {
       "id":"23",
@@ -204,7 +204,7 @@
       "address":"鯖江市川島町27-22",
       "longitude":"136.225489",
       "latitude":"35.945323",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/temples_015.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_015.jpg"
    },
    {
       "id":"24",
@@ -213,7 +213,7 @@
       "address":"鯖江市鳥井町12-31-1",
       "longitude":"136.167699",
       "latitude":"35.944456",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/temples_016.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_016.jpg"
    },
    {
       "id":"25",
@@ -222,7 +222,7 @@
       "address":"鯖江市中野町（花出）",
       "longitude":"136.213805",
       "latitude":"35.946589",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/temples_017.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_017.jpg"
    },
    {
       "id":"26",
@@ -231,7 +231,7 @@
       "address":"鯖江市上野田町5-40-1",
       "longitude":"136.149353",
       "latitude":"35.941832",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/temples_018.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_018.jpg"
    },
    {
       "id":"27",
@@ -240,7 +240,7 @@
       "address":"鯖江市下新庄町60-75",
       "longitude":"136.212657",
       "latitude":"35.936486",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/temples_019.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_019.jpg"
    },
    {
       "id":"28",
@@ -249,7 +249,7 @@
       "address":"鯖江市上戸口町",
       "longitude":"136.2645435",
       "latitude":"35.97163317",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/nature_001.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/nature_001.jpg"
    },
    {
       "id":"29",
@@ -258,7 +258,7 @@
       "address":"鯖江市中野町",
       "longitude":"136.207561",
       "latitude":"35.95254",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/nature_002.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/nature_002.jpg"
    },
    {
       "id":"30",
@@ -267,7 +267,7 @@
       "address":"鯖江市米岡町",
       "longitude":"136.177551",
       "latitude":"35.98941",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/nature_003.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/nature_003.jpg"
    },
    {
       "id":"31",
@@ -276,7 +276,7 @@
       "address":"鯖江市上河内町",
       "longitude":"136.318862",
       "latitude":"35.943402",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/nature_004.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/nature_004.jpg"
    },
    {
       "id":"32",
@@ -285,7 +285,7 @@
       "address":"鯖江市上河内町",
       "longitude":"136.312403",
       "latitude":"35.949094",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/nature_005.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/nature_005.jpg"
    },
    {
       "id":"33",
@@ -294,7 +294,7 @@
       "address":"鯖江市長泉寺町2丁目",
       "longitude":"136.185867",
       "latitude":"35.95571",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/history_001.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/history_001.jpg"
    },
    {
       "id":"34",
@@ -303,7 +303,7 @@
       "address":"鯖江市吉江町",
       "longitude":"136.171316",
       "latitude":"35.989189",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/history_002.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/history_002.jpg"
    },
    {
       "id":"35",
@@ -312,7 +312,7 @@
       "address":"鯖江市長泉寺１丁目",
       "longitude":"136.185611",
       "latitude":"35.950067",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/history_003.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/history_003.jpg"
    },
    {
       "id":"36",
@@ -321,7 +321,7 @@
       "address":"鯖江市日の出町",
       "longitude":"136.18517",
       "latitude":"35.939546",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/history_004.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/history_004.jpg"
    },
    {
       "id":"37",
@@ -330,7 +330,7 @@
       "address":"鯖江市神明町2丁目",
       "longitude":"136.183393",
       "latitude":"35.974425",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/history_005.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/history_005.jpg"
    },
    {
       "id":"38",
@@ -339,7 +339,7 @@
       "address":"鯖江市水落町4丁目701・702",
       "longitude":"136.182531",
       "latitude":"35.971034",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/history_006.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/history_006.jpg"
    },
    {
       "id":"39",
@@ -348,7 +348,7 @@
       "address":"鯖江市本町3丁目1-28",
       "longitude":"136.186237",
       "latitude":"35.946549",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/history_007.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/history_007.jpg"
    },
    {
       "id":"40",
@@ -357,7 +357,7 @@
       "address":"鯖江市旭町1丁目",
       "longitude":"136.248632",
       "latitude":"35.952655",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/history_008.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/history_008.jpg"
    },
    {
       "id":"41",
@@ -366,7 +366,7 @@
       "address":"鯖江市水落町3丁目",
       "longitude":"136.183044",
       "latitude":"35.967001",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/history_009.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/history_009.jpg"
    },
    {
       "id":"42",
@@ -375,7 +375,7 @@
       "address":"鯖江市本町３丁目",
       "longitude":"136.185287",
       "latitude":"35.946723",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/s-021.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/s-021.jpg"
    },
    {
       "id":"43",
@@ -384,7 +384,7 @@
       "address":"鯖江市旭町1-6-6",
       "longitude":"136.186234",
       "latitude":"35.944607",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/s-000.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/s-000.jpg"
    },
    {
       "id":"44",
@@ -393,7 +393,7 @@
       "address":"鯖江市上河内町19-37-2",
       "longitude":"136.3",
       "latitude":"35.948047",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_001.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_001.jpg"
    },
    {
       "id":"45",
@@ -402,7 +402,7 @@
       "address":"鯖江市西袋町40-1-2",
       "longitude":"136.2738",
       "latitude":"35.953033",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_002.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_002.jpg"
    },
    {
       "id":"46",
@@ -411,7 +411,7 @@
       "address":"鯖江市糺町32-1-1",
       "longitude":"136.175821",
       "latitude":"35.972545",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_003.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_003.jpg"
    },
    {
       "id":"47",
@@ -420,7 +420,7 @@
       "address":"鯖江市新横江2丁目3-4（ めがね会館）",
       "longitude":"136.198844",
       "latitude":"35.942758",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_004.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_004.jpg"
    },
    {
       "id":"48",
@@ -429,7 +429,7 @@
       "address":"鯖江市丸山町2-8-16",
       "longitude":"136.183798",
       "latitude":"35.983258",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_005.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_005.jpg"
    },
    {
       "id":"49",
@@ -438,7 +438,7 @@
       "address":"鯖江市桜町３丁目7－20",
       "longitude":"136.182606",
       "latitude":"35.950627",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_021.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_021.jpg"
    },
    {
       "id":"50",
@@ -447,7 +447,7 @@
       "address":"鯖江市吉江町",
       "longitude":"136.176446",
       "latitude":"35.993169",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_022.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_022.jpg"
    },
    {
       "id":"51",
@@ -456,7 +456,7 @@
       "address":"鯖江市丸山町4丁目",
       "longitude":"136.17919",
       "latitude":"35.983111",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_023.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_023.jpg"
    },
    {
       "id":"52",
@@ -465,7 +465,7 @@
       "address":"鯖江市三六町１丁目430",
       "longitude":"136.180375",
       "latitude":"35.970869",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_024.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_024.jpg"
    },
    {
       "id":"53",
@@ -474,7 +474,7 @@
       "address":"鯖江市有定町３丁目～小黒町２・３丁目",
       "longitude":"136.172934",
       "latitude":"35.948067",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_025.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_025.jpg"
    },
    {
       "id":"54",
@@ -483,7 +483,7 @@
       "address":"鯖江市磯部町・落井町",
       "longitude":"136.238949",
       "latitude":"35.955715",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_031.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_031.jpg"
    },
    {
       "id":"55",
@@ -492,7 +492,7 @@
       "address":"鯖江市西大井町、和田町、石生谷町",
       "longitude":"136.129267",
       "latitude":"35.947476",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_032.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_032.jpg"
    },
    {
       "id":"56",
@@ -501,7 +501,7 @@
       "address":"鯖江市上戸口町",
       "longitude":"136.270453",
       "latitude":"35.977249",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_033.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_033.jpg"
    },
    {
       "id":"57",
@@ -510,7 +510,7 @@
       "address":"鯖江市下新庄町",
       "longitude":"136.225458",
       "latitude":"35.937776",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_034.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_034.jpg"
    },
    {
       "id":"58",
@@ -519,7 +519,7 @@
       "address":"鯖江市南井町、大正寺町",
       "longitude":"136.223783",
       "latitude":"35.990083",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_035.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_035.jpg"
    },
    {
       "id":"59",
@@ -528,7 +528,7 @@
       "address":"鯖江市神明町2-8-4",
       "longitude":"136.183041",
       "latitude":"35.972545",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_040.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_040.jpg"
    },
    {
       "id":"60",
@@ -537,7 +537,7 @@
       "address":"鯖江市上河内町19-37-2",
       "longitude":"136.3",
       "latitude":"35.948047",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_041.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_041.jpg"
    },
    {
       "id":"61",
@@ -546,7 +546,7 @@
       "address":"鯖江市吉川地区一帯",
       "longitude":"136.16772",
       "latitude":"35.955941",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_042.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_042.jpg"
    },
    {
       "id":"62",
@@ -555,7 +555,7 @@
       "address":"鯖江市西番町15-27",
       "longitude":"136.159481",
       "latitude":"35.991106",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_043.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_043.jpg"
    },
    {
       "id":"63",
@@ -564,7 +564,7 @@
       "address":"鯖江市新横江2丁目3-4（ めがね会館）",
       "longitude":"136.198844",
       "latitude":"35.942758",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_001.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_001.jpg"
    },
    {
       "id":"64",
@@ -573,7 +573,7 @@
       "address":"鯖江市神中町2丁目907-1",
       "longitude":"136.192582",
       "latitude":"35.971303",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_002.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_002.jpg"
    },
    {
       "id":"65",
@@ -582,7 +582,7 @@
       "address":"鯖江市吉江町413",
       "longitude":"136.175371",
       "latitude":"35.984337",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_003.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_003.jpg"
    },
    {
       "id":"66",
@@ -591,7 +591,7 @@
       "address":"鯖江市神明町1丁目2-8",
       "longitude":"136.180878",
       "latitude":"35.969875",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_004.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_004.jpg"
    },
    {
       "id":"67",
@@ -600,7 +600,7 @@
       "address":"鯖江市上河端町18-4-6",
       "longitude":"136.195566",
       "latitude":"35.953291",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_005.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_005.jpg"
    },
    {
       "id":"68",
@@ -609,7 +609,7 @@
       "address":"鯖江市本町2丁目2-20",
       "longitude":"136.185175",
       "latitude":"35.945843",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_006.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_006.jpg"
    },
    {
       "id":"69",
@@ -618,7 +618,7 @@
       "address":"鯖江市西袋町40-1-2",
       "longitude":"136.2738",
       "latitude":"35.953033",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_101.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_101.jpg"
    },
    {
       "id":"70",
@@ -627,7 +627,7 @@
       "address":"越前市赤坂町3-22-1",
       "longitude":"136.244611",
       "latitude":"35.948042",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_102.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_102.jpg"
    },
    {
       "id":"71",
@@ -636,7 +636,7 @@
       "address":"鯖江市中野町256-1",
       "longitude":"136.220993",
       "latitude":"35.948611",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_103.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_103.jpg"
    },
    {
       "id":"72",
@@ -645,7 +645,7 @@
       "address":"鯖江市西袋町503",
       "longitude":"136.276594",
       "latitude":"35.954552",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_104.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_104.jpg"
    },
    {
       "id":"73",
@@ -654,7 +654,7 @@
       "address":"鯖江市莇生田町19-40",
       "longitude":"136.275667",
       "latitude":"35.945448",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_105.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_105.jpg"
    },
    {
       "id":"74",
@@ -663,7 +663,7 @@
       "address":"鯖江市片山町13-19",
       "longitude":"136.273665",
       "latitude":"35.949335",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_106.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_106.jpg"
    },
    {
       "id":"75",
@@ -672,7 +672,7 @@
       "address":"鯖江市定次町342-1",
       "longitude":"136.190701",
       "latitude":"35.930848",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_107.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_107.jpg"
    },
    {
       "id":"76",
@@ -681,7 +681,7 @@
       "address":"鯖江市西袋町43-11",
       "longitude":"136.276431",
       "latitude":"35.952547",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_108.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_108.jpg"
    },
    {
       "id":"77",
@@ -690,7 +690,7 @@
       "address":"鯖江市河和田町17-8-1",
       "longitude":"136.271091",
       "latitude":"35.95115",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_109.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_109.jpg"
    },
    {
       "id":"78",
@@ -699,7 +699,7 @@
       "address":"鯖江市本町２丁目1-13",
       "longitude":"136.185523",
       "latitude":"35.946253",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_201.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_201.jpg"
    },
    {
       "id":"79",
@@ -708,7 +708,7 @@
       "address":"鯖江市本町１丁目2-13",
       "longitude":"136.185983",
       "latitude":"35.945123",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_202.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_202.jpg"
    },
    {
       "id":"80",
@@ -717,7 +717,7 @@
       "address":"鯖江市柳町4丁目1-16",
       "longitude":"136.190907",
       "latitude":"35.946577",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_203.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_203.jpg"
    },
    {
       "id":"81",
@@ -726,7 +726,7 @@
       "address":"鯖江市本町２丁目3-3",
       "longitude":"136.184235",
       "latitude":"35.945331",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_204.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_204.jpg"
    },
    {
       "id":"82",
@@ -735,7 +735,7 @@
       "address":"鯖江市丸山1-107",
       "longitude":"136.18146",
       "latitude":"35.978149",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_204.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_204.jpg"
    },
    {
       "id":"83",
@@ -744,7 +744,7 @@
       "address":"鯖江市桜町２丁目6-12",
       "longitude":"136.181119",
       "latitude":"35.946836",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_205.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_205.jpg"
    },
    {
       "id":"84",
@@ -753,7 +753,7 @@
       "address":"鯖江市持明寺町5-10-1",
       "longitude":"136.147629",
       "latitude":"35.963594",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_206.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_206.jpg"
    },
    {
       "id":"85",
@@ -762,7 +762,7 @@
       "address":"鯖江市本町１丁目1-21",
       "longitude":"136.185992",
       "latitude":"35.944095",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_207.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_207.jpg"
    },
    {
       "id":"86",
@@ -771,7 +771,7 @@
       "address":"鯖江市北野町２丁目19-20",
       "longitude":"136.180464",
       "latitude":"35.966828",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_208.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_208.jpg"
    },
    {
       "id":"87",
@@ -780,7 +780,7 @@
       "address":"鯖江市河和田町19-1-9",
       "longitude":"136.274049",
       "latitude":"35.951459",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_209.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_209.jpg"
    },
    {
       "id":"88",
@@ -789,7 +789,7 @@
       "address":"鯖江市宮前２丁目1801-2",
       "longitude":"136.187135",
       "latitude":"35.932194",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_210.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_210.jpg"
    },
    {
       "id":"89",
@@ -798,7 +798,7 @@
       "address":"鯖江市鳥羽３丁目1133-2",
       "longitude":"136.186479",
       "latitude":"35.989122",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_211.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_211.jpg"
    },
    {
       "id":"90",
@@ -807,7 +807,7 @@
       "address":"鯖江市住吉町３丁目1-30",
       "longitude":"136.179707",
       "latitude":"35.943652",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_212.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_212.jpg"
    },
    {
       "id":"91",
@@ -816,7 +816,7 @@
       "address":"鯖江市神中町２丁目407-2",
       "longitude":"136.188416",
       "latitude":"35.972575",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_213.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_213.jpg"
    },
    {
       "id":"92",
@@ -825,7 +825,7 @@
       "address":"鯖江市水落町２丁目28-25",
       "longitude":"136.185895",
       "latitude":"35.963919",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_214.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_214.jpg"
    },
    {
       "id":"93",
@@ -834,7 +834,7 @@
       "address":"鯖江市本町４丁目3-22",
       "longitude":"136.185459",
       "latitude":"35.949442",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_215.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_215.jpg"
    },
    {
       "id":"94",
@@ -843,7 +843,7 @@
       "address":"鯖江市丸山町4-8-30",
       "longitude":"136.180716",
       "latitude":"35.982892",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_216.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_216.jpg"
    },
    {
       "id":"95",
@@ -852,7 +852,7 @@
       "address":"鯖江市神中1丁目2-15",
       "longitude":"136.195615",
       "latitude":"35.968807",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_217.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_217.jpg"
    },
    {
       "id":"96",
@@ -861,7 +861,7 @@
       "address":"鯖江市桜町3丁目3-3（サバエ･シティーホテル内）",
       "longitude":"136.181237",
       "latitude":"35.947158",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_218.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_218.jpg"
    },
    {
       "id":"97",
@@ -870,7 +870,7 @@
       "address":"鯖江市日の出町1-2",
       "longitude":"136.188683",
       "latitude":"35.942997",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_951.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_951.jpg"
    },
    {
       "id":"98",
@@ -879,7 +879,7 @@
       "address":"鯖江市本町2-2-16",
       "longitude":"136.185072",
       "latitude":"35.946292",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_952.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_952.jpg"
    },
    {
       "id":"99",
@@ -888,7 +888,7 @@
       "address":"鯖江市旭町1-1-4",
       "longitude":"136.18776",
       "latitude":"35.943508",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_953.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_953.jpg"
    },
    {
       "id":"100",
@@ -897,7 +897,7 @@
       "address":"鯖江市吉江町1-11",
       "longitude":"136.170193",
       "latitude":"35.986403",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_954.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_954.jpg"
    },
    {
       "id":"101",
@@ -906,7 +906,7 @@
       "address":"越前市赤坂町3-22-1",
       "longitude":"136.24465",
       "latitude":"35.948023",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_001.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_001.jpg"
    },
    {
       "id":"102",
@@ -915,7 +915,7 @@
       "address":"鯖江市鳥羽３丁目1133-2",
       "longitude":"136.186479",
       "latitude":"35.989122",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_002.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_002.jpg"
    },
    {
       "id":"103",
@@ -924,7 +924,7 @@
       "address":"鯖江市持明寺町5-10-1",
       "longitude":"136.147629",
       "latitude":"35.963594",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_003.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_003.jpg"
    },
    {
       "id":"104",
@@ -933,7 +933,7 @@
       "address":"鯖江市桜町3丁目3-3（サバエ･シティーホテル内）",
       "longitude":"136.181237",
       "latitude":"35.947158",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_004.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_004.jpg"
    },
    {
       "id":"105",
@@ -942,7 +942,7 @@
       "address":"鯖江市柳町4丁目1-16",
       "longitude":"136.190907",
       "latitude":"35.946577",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_005.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_005.jpg"
    },
    {
       "id":"106",
@@ -951,7 +951,7 @@
       "address":"鯖江市神中町２丁目407-2",
       "longitude":"136.188416",
       "latitude":"35.972575",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_006.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_006.jpg"
    },
    {
       "id":"107",
@@ -960,7 +960,7 @@
       "address":"鯖江市本町１丁目1-21",
       "longitude":"136.185992",
       "latitude":"35.944095",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_007.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_007.jpg"
    },
    {
       "id":"108",
@@ -969,7 +969,7 @@
       "address":"鯖江市水落町２丁目28-25",
       "longitude":"136.185895",
       "latitude":"35.963919",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_008.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_008.jpg"
    },
    {
       "id":"109",
@@ -978,7 +978,7 @@
       "address":"鯖江市本町２丁目3-3",
       "longitude":"136.184235",
       "latitude":"35.945331",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_009.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_009.jpg"
    },
    {
       "id":"110",
@@ -987,7 +987,7 @@
       "address":"鯖江市丸山1-107",
       "longitude":"136.18146",
       "latitude":"35.978149",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_009.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_009.jpg"
    },
    {
       "id":"111",
@@ -996,7 +996,7 @@
       "address":"鯖江市桜町２丁目6-12",
       "longitude":"136.181119",
       "latitude":"35.946836",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_010.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_010.jpg"
    },
    {
       "id":"112",
@@ -1005,7 +1005,7 @@
       "address":"鯖江市北野町２丁目19-20",
       "longitude":"136.180464",
       "latitude":"35.966828",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_011.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_011.jpg"
    },
    {
       "id":"113",
@@ -1014,7 +1014,7 @@
       "address":"鯖江市丸山町2丁目7-13",
       "longitude":"136.183565",
       "latitude":"35.98379",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_012.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_012.jpg"
    },
    {
       "id":"114",
@@ -1023,7 +1023,7 @@
       "address":"鯖江市日の出町2-1　駅前ビル1F",
       "longitude":"136.188244",
       "latitude":"35.94285",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_013.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_013.jpg"
    },
    {
       "id":"115",
@@ -1032,7 +1032,7 @@
       "address":"鯖江市宮前２丁目1801-2",
       "longitude":"136.187135",
       "latitude":"35.932194",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_014.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_014.jpg"
    },
    {
       "id":"116",
@@ -1041,7 +1041,7 @@
       "address":"鯖江市河和田町19-1-9",
       "longitude":"136.274049",
       "latitude":"35.951459",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_015.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_015.jpg"
    },
    {
       "id":"117",
@@ -1050,7 +1050,7 @@
       "address":"鯖江市住吉町３丁目1-30",
       "longitude":"136.179707",
       "latitude":"35.943652",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_016.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_016.jpg"
    },
    {
       "id":"118",
@@ -1059,7 +1059,7 @@
       "address":"鯖江市神中1丁目2-15",
       "longitude":"136.195615",
       "latitude":"35.968807",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_017.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_017.jpg"
    },
    {
       "id":"119",
@@ -1068,7 +1068,7 @@
       "address":"鯖江市本町１丁目2-13",
       "longitude":"136.185983",
       "latitude":"35.945123",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_018.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_018.jpg"
    },
    {
       "id":"120",
@@ -1077,7 +1077,7 @@
       "address":"鯖江市本町２丁目1-13",
       "longitude":"136.185523",
       "latitude":"35.946253",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_019.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_019.jpg"
    },
    {
       "id":"121",
@@ -1086,7 +1086,7 @@
       "address":"鯖江市本町４丁目3-22",
       "longitude":"136.185459",
       "latitude":"35.949442",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_020.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_020.jpg"
    },
    {
       "id":"122",
@@ -1095,7 +1095,7 @@
       "address":"鯖江市旭町2-3-20",
       "longitude":"136.187179",
       "latitude":"35.946183",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_135.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_135.jpg"
    },
    {
       "id":"123",
@@ -1104,7 +1104,7 @@
       "address":"鯖江市 屋形町3-3",
       "longitude":"136.183156",
       "latitude":"35.943977",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_203.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_203.jpg"
    },
    {
       "id":"124",
@@ -1113,7 +1113,7 @@
       "address":"鯖江市丸山町2-7-1",
       "longitude":"136.184966",
       "latitude":"35.983277",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_204.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_204.jpg"
    },
    {
       "id":"125",
@@ -1122,7 +1122,7 @@
       "address":"鯖江市三六町２－５－１６小林ビル１階",
       "longitude":"136.178588",
       "latitude":"35.97263",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_205.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_205.jpg"
    },
    {
       "id":"126",
@@ -1131,7 +1131,7 @@
       "address":"鯖江市丸山町１丁目３０５",
       "longitude":"136.179187",
       "latitude":"35.979679",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_206.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_206.jpg"
    },
    {
       "id":"127",
@@ -1140,7 +1140,7 @@
       "address":"鯖江市本町2丁目2-19",
       "longitude":"136.185214",
       "latitude":"35.946023",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_301.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_301.jpg"
    },
    {
       "id":"128",
@@ -1149,7 +1149,7 @@
       "address":"鯖江市水落町1丁目1239",
       "longitude":"136.175934",
       "latitude":"35.962791",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_302.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_302.jpg"
    },
    {
       "id":"129",
@@ -1158,7 +1158,7 @@
       "address":"鯖江市桜町２丁目-２-２２",
       "longitude":"136.180041",
       "latitude":"35.945368",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_303.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_303.jpg"
    },
    {
       "id":"130",
@@ -1167,7 +1167,7 @@
       "address":"鯖江市柳町4-521",
       "longitude":"136.193048",
       "latitude":"35.947856",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_304.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_304.jpg"
    },
    {
       "id":"131",
@@ -1176,7 +1176,7 @@
       "address":"鯖江市小黒町1-5-16",
       "longitude":"136.176349",
       "latitude":"35.951044",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_401.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_401.jpg"
    },
    {
       "id":"132",
@@ -1185,7 +1185,7 @@
       "address":"鯖江市本町1-4-10",
       "longitude":"136.184444",
       "latitude":"35.945179",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_402.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_402.jpg"
    },
    {
       "id":"133",
@@ -1194,7 +1194,7 @@
       "address":"1。それを支えるのが、全国に約120店を展開する秋吉で、福井には約30店舗ある。毎日一本一本手作りされる串を、じっくり炭火焼にして秘伝のタレを絡めた焼き鳥は、一般的なものよりは少し小ぶりで一人前は5本から。お店に入れば、男性なら「社長！」、女性なら「お嬢さん！」と威勢のいい掛け声が出迎えてくれる。持ち帰りも出来る。\"",
       "longitude":"136.193016",
       "latitude":"35.94276",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/g-244.gif"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/g-244.gif"
    },
    {
       "id":"134",
@@ -1203,7 +1203,7 @@
       "address":"1。それを支えるのが、全国に約120店を展開する秋吉で、福井には約30店舗ある。毎日一本一本手作りされる串を、じっくり炭火焼にして秘伝のタレを絡めた焼き鳥は、一般的なものよりは少し小ぶりで一人前は5本から。お店に入れば、男性なら「社長！」、女性なら「お嬢さん！」と威勢のいい掛け声が出迎えてくれる。持ち帰りも出来る。\"",
       "longitude":"136.175935",
       "latitude":"35.969939",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/g-244.gif"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/g-244.gif"
    },
    {
       "id":"135",
@@ -1212,7 +1212,7 @@
       "address":"鯖江市鯖江市水落町3－2－17",
       "longitude":"136.183189",
       "latitude":"35.967948",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_404.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_404.jpg"
    },
    {
       "id":"136",
@@ -1221,7 +1221,7 @@
       "address":"鯖江市北野町2-9-3",
       "longitude":"136.176023",
       "latitude":"35.967171",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_405.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_405.jpg"
    },
    {
       "id":"137",
@@ -1230,7 +1230,7 @@
       "address":"鯖江市三六町2?1?3",
       "longitude":"136.180158",
       "latitude":"35.972354",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_406.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_406.jpg"
    },
    {
       "id":"138",
@@ -1239,7 +1239,7 @@
       "address":"鯖江市新横江2-5-2-8",
       "longitude":"136.198386",
       "latitude":"35.941575",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_407.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_407.jpg"
    },
    {
       "id":"139",
@@ -1248,7 +1248,7 @@
       "address":"鯖江市三六町1-14-6",
       "longitude":"136.176399",
       "latitude":"35.971177",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_408.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_408.jpg"
    },
    {
       "id":"140",
@@ -1257,7 +1257,7 @@
       "address":"鯖江市丸山町１丁目3-13",
       "longitude":"136.179754",
       "latitude":"35.980542",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_409.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_409.jpg"
    },
    {
       "id":"141",
@@ -1266,7 +1266,7 @@
       "address":"鯖江市三六町1-14-7",
       "longitude":"136.176053",
       "latitude":"35.970872",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_410.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_410.jpg"
    },
    {
       "id":"142",
@@ -1275,7 +1275,7 @@
       "address":"鯖江市糺町33-5-3",
       "longitude":"136.175956",
       "latitude":"35.973332",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_411.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_411.jpg"
    },
    {
       "id":"143",
@@ -1284,7 +1284,7 @@
       "address":"鯖江市旭町2丁目2?4",
       "longitude":"136.18726",
       "latitude":"35.945165",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_412.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_412.jpg"
    },
    {
       "id":"144",
@@ -1293,7 +1293,7 @@
       "address":"鯖江市下河端町4-6-1",
       "longitude":"136.188025",
       "latitude":"35.966375",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_413.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_413.jpg"
    },
    {
       "id":"145",
@@ -1302,7 +1302,7 @@
       "address":"鯖江市旭町１丁目５?３",
       "longitude":"136.187231",
       "latitude":"35.944464",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_414.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_414.jpg"
    },
    {
       "id":"146",
@@ -1311,7 +1311,7 @@
       "address":"鯖江市東鯖江1-4-21",
       "longitude":"136.196227",
       "latitude":"35.945302",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_415.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_415.jpg"
    },
    {
       "id":"147",
@@ -1320,7 +1320,7 @@
       "address":"鯖江市水落町1丁目14-13",
       "longitude":"136.175958",
       "latitude":"35.959066",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_416.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_416.jpg"
    },
    {
       "id":"148",
@@ -1329,7 +1329,7 @@
       "address":"鯖江市日の出町５－２４",
       "longitude":"136.186364",
       "latitude":"35.943324",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_417.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_417.jpg"
    },
    {
       "id":"149",
@@ -1338,7 +1338,7 @@
       "address":"鯖江市有定3丁目2-9",
       "longitude":"136.176533",
       "latitude":"35.948192",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_418.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_418.jpg"
    },
    {
       "id":"150",
@@ -1347,7 +1347,7 @@
       "address":"鯖江市柳町4-714　",
       "longitude":"136.193352",
       "latitude":"35.948919",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_419.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_419.jpg"
    },
    {
       "id":"151",
@@ -1356,7 +1356,7 @@
       "address":"鯖江市本町２丁目２－２２藤田ビル１Ｆ",
       "longitude":"136.185183",
       "latitude":"35.94559",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_420.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_420.jpg"
    },
    {
       "id":"152",
@@ -1365,7 +1365,7 @@
       "address":"鯖江市吉江町512",
       "longitude":"136.174415",
       "latitude":"35.984794",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_421.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_421.jpg"
    },
    {
       "id":"153",
@@ -1374,7 +1374,7 @@
       "address":"鯖江市片山町7-1-1",
       "longitude":"136.274227",
       "latitude":"35.951391",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_422.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_422.jpg"
    },
    {
       "id":"154",
@@ -1383,7 +1383,7 @@
       "address":"鯖江市東鯖江1-1-3 MM6ﾋﾞﾙ1F",
       "longitude":"136.19441",
       "latitude":"35.943449",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_423.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_423.jpg"
    },
    {
       "id":"155",
@@ -1392,7 +1392,7 @@
       "address":"鯖江市吉江町18-31-4",
       "longitude":"136.171805",
       "latitude":"35.984362",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_424.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_424.jpg"
    },
    {
       "id":"156",
@@ -1401,7 +1401,7 @@
       "address":"鯖江市下新庄町63-44",
       "longitude":"136.212371",
       "latitude":"35.933136",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_037.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_037.jpg"
    },
    {
       "id":"157",
@@ -1410,7 +1410,7 @@
       "address":"鯖江市有定町3丁目2-28",
       "longitude":"136.176912",
       "latitude":"35.947767",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_501.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_501.jpg"
    },
    {
       "id":"158",
@@ -1419,7 +1419,7 @@
       "address":"鯖江市神明町4-7-21",
       "longitude":"136.183701",
       "latitude":"35.980042",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_502.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_502.jpg"
    },
    {
       "id":"159",
@@ -1428,7 +1428,7 @@
       "address":"鯖江市水落町1-1-19",
       "longitude":"136.182303",
       "latitude":"35.959033",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_503.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_503.jpg"
    },
    {
       "id":"160",
@@ -1437,7 +1437,7 @@
       "address":"鯖江市有定町1-8 -10",
       "longitude":"136.176562",
       "latitude":"35.945037",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_504.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_504.jpg"
    },
    {
       "id":"161",
@@ -1446,7 +1446,7 @@
       "address":"鯖江市桜町3-3-3　サバエシティホテル８階",
       "longitude":"136.181288",
       "latitude":"35.947349",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_505.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_505.jpg"
    },
    {
       "id":"162",
@@ -1455,7 +1455,7 @@
       "address":"鯖江市糺町25-12-2",
       "longitude":"136.173649",
       "latitude":"35.973119",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_506.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_506.jpg"
    },
    {
       "id":"163",
@@ -1464,7 +1464,7 @@
       "address":"鯖江市幸町2丁目505－2",
       "longitude":"136.181342",
       "latitude":"35.977685",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_507.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_507.jpg"
    },
    {
       "id":"164",
@@ -1473,7 +1473,7 @@
       "address":"鯖江市東鯖江1-1-3",
       "longitude":"136.194308",
       "latitude":"35.943436",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_508.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_508.jpg"
    },
    {
       "id":"165",
@@ -1482,7 +1482,7 @@
       "address":"鯖江市北野町11字10番地",
       "longitude":"136.175462",
       "latitude":"35.963748",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_509.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_509.jpg"
    },
    {
       "id":"166",
@@ -1491,7 +1491,7 @@
       "address":"鯖江市東鯖江1-112",
       "longitude":"136.194598",
       "latitude":"35.944599",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_509.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_509.jpg"
    },
    {
       "id":"167",
@@ -1500,7 +1500,7 @@
       "address":"鯖江市幸町2-5-23",
       "longitude":"136.18159",
       "latitude":"35.977691",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_509.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_509.jpg"
    },
    {
       "id":"169",
@@ -1509,7 +1509,7 @@
       "address":"鯖江市有定町2-4-28-2",
       "longitude":"136.176268",
       "latitude":"35.944604",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_511.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_511.jpg"
    },
    {
       "id":"170",
@@ -1518,7 +1518,7 @@
       "address":"鯖江市水落町8-6",
       "longitude":"136.175107",
       "latitude":"35.960607",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_512.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_512.jpg"
    },
    {
       "id":"171",
@@ -1527,7 +1527,7 @@
       "address":"鯖江市三六町1丁目６－７",
       "longitude":"136.179788",
       "latitude":"35.971781",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_513.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_513.jpg"
    },
    {
       "id":"172",
@@ -1536,7 +1536,7 @@
       "address":"鯖江市本町3丁目1-5",
       "longitude":"136.18556",
       "latitude":"35.946505",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_514.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_514.jpg"
    },
    {
       "id":"174",
@@ -1545,7 +1545,7 @@
       "address":"鯖江市西袋町３９?１?１",
       "longitude":"136.185155",
       "latitude":"35.946266",
-      "thumbnail":"http://www3.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_516.jpg"
+      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_516.jpg"
    },
    {
       "id":"175",
