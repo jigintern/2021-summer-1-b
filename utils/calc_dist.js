@@ -1,6 +1,14 @@
 // 参考: https://qiita.com/kawanet/items/a2e111b17b8eb5ac859a
 const R = Math.PI / 180;
 
+/**
+ * 
+ * @description calculate most nearest 3 places from the place
+ * @param {number} lat1 
+ * @param {number} lng1 
+ * @param {Array} array 
+ * @returns {Array} 3 items
+ */
 export const calcDistance = (lat1, lng1, array) => {
   lat1 *= R;
   lng1 *= R;
