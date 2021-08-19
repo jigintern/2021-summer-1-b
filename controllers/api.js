@@ -56,6 +56,14 @@ export const getPlace = (path, req) => {
   let recomended_places = calcDistance(latitude, longitude, places)
   // console.log(`recomended_places: ${recomended_places}`)
 
+  // increment likes
+  // fint this place
+  const thisPlace = db.queryEntries(`SELECT * FROM places where longitude = ${longitude}`);
+  // increment likes
+  thisPlace[0].likes += 1;
+  // update database
+  db.query(`update places set likes = ${thisPlace[0].likes} where longitude = ${longitude}`);
+
   if (recomended_places) {
     return {
       success: true,

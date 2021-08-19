@@ -333,15 +333,6 @@
       "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/history_005.jpg"
    },
    {
-      "id":"38",
-      "name":"旧瓜生家住宅",
-      "description":"神明社の中にある元禄年間に建てられた県内最古の民家で、800年以上も神明社の宮司を務めてきた瓜生家の住宅跡です。現存する民家としては福井県内最古建造物として全国的に有名で、国の指定文化財になっています。また、神明社の社叢森は「烏ヶ森（からすがもり）」と呼ばれ、巨木や古木に覆われており、まるで昔へタイムスリップしたような空間が広がります。",
-      "address":"鯖江市水落町4丁目701・702",
-      "longitude":"136.182531",
-      "latitude":"35.971034",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/history_006.jpg"
-   },
-   {
       "id":"39",
       "name":"恵美写真館洋館・表門",
       "description":"明治38年建設の擬洋風建築物で、洋館は木造寄棟造瓦葺の２階建てで、前面中央に入母屋造桟瓦葺の2層車寄せを設けています。表門はアーチ上屋根に銅板を葺き、和風（薬医門形式）の門構えをしています。和風に洋風をうまく取り入れた見事な建築物で、外観に施された擬似大理石手法や鳳凰の漆喰模様などに優れた左官技術がうかがえます。平成10年に国の登録有形文化財に指定されました。",
@@ -394,33 +385,6 @@
       "longitude":"136.3",
       "latitude":"35.948047",
       "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_001.jpg"
-   },
-   {
-      "id":"45",
-      "name":"うるしの里会館",
-      "description":"館内のミュージアムショップでは、産地ならではの品揃えで越前漆器が直販価格で販売されています。また、越前漆器の歴史が学べる資料が展示されているほか、隣接の職人工房では伝統工芸士による実演を見学できます。さらに、絵付け･沈金・拭き漆の３つの漆器体験で、自分だけのオリジナル作品を作ることができます。",
-      "address":"鯖江市西袋町40-1-2",
-      "longitude":"136.2738",
-      "latitude":"35.953033",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_002.jpg"
-   },
-   {
-      "id":"46",
-      "name":"石田縞手織りセンター",
-      "description":"鯖江市繊維会館内にある施設です。鯖江市は古くから繊維産業が盛んです。そのルーツである伝統織り「石田縞」が、時を越えて繊維のすばらしさと奥深さを伝えています。当センターでは、伝統ある石田縞の紹介や、昔ながらの手織り体験ができます。体験日 第1月曜日、第2水曜日、第3木曜日、第2・４土曜日　（要予約）",
-      "address":"鯖江市糺町32-1-1",
-      "longitude":"136.175821",
-      "latitude":"35.972545",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_003.jpg"
-   },
-   {
-      "id":"47",
-      "name":"めがねミュージアム",
-      "description":"洗練された店内には、福井県内優良メーカーのオリジナルハウスブランドや有名人がデザインした「sabae」ブランドめがねなど、1500種以上の最新デザインと技術をそろえためがねが並びます。また、自分だけのオリジナルめがねが欲しい方は、ぜひ手づくりめがね工房へ。世界にひとつだけのめがねを手作りできます。熟練の職人さんがアドバイスしてくれるので、初めてでも安心です。めがねの他にも、ミニめがね型ストラップやアクセサリーも作ることができます。30分ほどで気軽に体験できるので挑戦してみては。お子様でも簡単に楽しく手作り",
-      "address":"鯖江市新横江2丁目3-4（ めがね会館）",
-      "longitude":"136.198844",
-      "latitude":"35.942758",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_004.jpg"
    },
    {
       "id":"48",
@@ -531,15 +495,6 @@
       "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_040.jpg"
    },
    {
-      "id":"60",
-      "name":"ラポーゼかわだ",
-      "description":"全国でも珍しい、美人の湯と長寿の湯の混合泉「かわだ温泉」。ヨーロピアンスタイルの大浴場や露天風呂、ジャグジー風呂を楽しめます。宿泊以外にも、日帰り温泉としてもご利用いただけます。また、ラポーゼかわだには、バーベキューハウスや、パンやそば打ち、ハーブリース作りなど様々な体験講座が用意されています。空気のおいしい山里で、ゆっくり過ごしながら、いろいろな体験ができる滞在型アミューズメント施設です。",
-      "address":"鯖江市上河内町19-37-2",
-      "longitude":"136.3",
-      "latitude":"35.948047",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_041.jpg"
-   },
-   {
       "id":"61",
       "name":"吉川サイクリングロード",
       "description":"田園風景や日野川を渡る橋、駅舎跡などを自転車で駆け抜けます。橋の道面には鯖江をイメージするイラストが描かれているのも楽しい。",
@@ -556,15 +511,6 @@
       "longitude":"136.159481",
       "latitude":"35.991106",
       "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_043.jpg"
-   },
-   {
-      "id":"63",
-      "name":"めがねミュージアム",
-      "description":"洗練された店内には、福井県内優良メーカーのオリジナルハウスブランドや有名人がデザインした「sabae」ブランドめがねなど、１５００種以上の最新デザインと技術をそろえためがねが並びます。また、自分だけのオリジナルめがねが欲しい方は、ぜひ手づくりめがね工房へ。世界にひとつだけのめがねを手作りできます。熟練の職人さんがアドバイスしてくれるので、初めてでも安心です。めがねの他にも、ミニめがね型ストラップやアクセサリーも作ることができます。30分ほどで気軽に体験できるので挑戦してみては。お子様でも簡単に楽しく手作り",
-      "address":"鯖江市新横江2丁目3-4（ めがね会館）",
-      "longitude":"136.198844",
-      "latitude":"35.942758",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_001.jpg"
    },
    {
       "id":"64",
@@ -601,24 +547,6 @@
       "longitude":"136.195566",
       "latitude":"35.953291",
       "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_005.jpg"
-   },
-   {
-      "id":"68",
-      "name":"Rootｓ（ルーツ）",
-      "description":"竹や銘木などの自然素材めがねフレーム専門店。鯖江でしか買えない京都産の銘竹や屋久杉、スネークウッドなど、世界の銘木を素材にした職人手づくりのめがねを販売しています。",
-      "address":"鯖江市本町2丁目2-20",
-      "longitude":"136.185175",
-      "latitude":"35.945843",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_006.jpg"
-   },
-   {
-      "id":"69",
-      "name":"うるしの里会館",
-      "description":"館内のミュージアムショップでは、産地ならではの品揃えで越前漆器が直販価格で販売されています。また、越前漆器の歴史が学べる資料がの展示されているほか、隣接の職人工房では伝統工芸士による実演が見学できます。さらに、絵付け･沈金・拭き漆の３つの漆器体験で、自分だけのオリジナル作品を作ることができます。",
-      "address":"鯖江市西袋町40-1-2",
-      "longitude":"136.2738",
-      "latitude":"35.953033",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_101.jpg"
    },
    {
       "id":"70",
@@ -691,15 +619,6 @@
       "longitude":"136.271091",
       "latitude":"35.95115",
       "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_109.jpg"
-   },
-   {
-      "id":"78",
-      "name":"大黒屋",
-      "description":"江戸後期より上流階級の茶の湯等に用いられていた「菜花糖（さいかとう）」で知られる老舗。職人技の上生菓子やおみやげの銘菓などが揃っています。秋限定販売の「栗きんとん」や、黒糖を使用した「水ようかん」も、ぜひ一度味わいたい鯖江の銘菓です。",
-      "address":"鯖江市本町２丁目1-13",
-      "longitude":"136.185523",
-      "latitude":"35.946253",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_201.jpg"
    },
    {
       "id":"79",
@@ -909,105 +828,6 @@
       "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_001.jpg"
    },
    {
-      "id":"102",
-      "name":"Ben Famille",
-      "description":"おしゃれなコテージ風の外観のケーキ屋さん。手作りのケーキや焼き菓子は、お持ち帰りはもちろん、併設のすてきなカフェで食べることができます。夜遅くまで営業しているのがもとても魅力です。オーダーでかわいいデコレーションケーキも作ってくれますよ。",
-      "address":"鯖江市鳥羽３丁目1133-2",
-      "longitude":"136.186479",
-      "latitude":"35.989122",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_002.jpg"
-   },
-   {
-      "id":"103",
-      "name":"うさぎや",
-      "description":"材料はできるかぎり国内産を使用して、ひとつひとつ ていねいに、心をこめて手作りしています。看板商品は「もちパイ」。外はさくさく、中はもちもち、パイ生地とお餅とあんこが絶妙にマッチして美味しい。いろいろな味のあんのどら焼きも人気商品です。",
-      "address":"鯖江市持明寺町5-10-1",
-      "longitude":"136.147629",
-      "latitude":"35.963594",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_003.jpg"
-   },
-   {
-      "id":"104",
-      "name":"プリンセス＆プリンス",
-      "description":"サバエ・シティーホテルの１Fにあるプリン専門店です。旬の素材を使ったオススメの手作りプリンが常時１０種類以上揃っています。どれもこだわりの品ですが、中でも「とまとのプリン」は、目にも鮮やかなルビー色とクセになる味わい深い味です。また、インド王室御用達のアルフォンソマンゴーを贅沢に６０%も使用した「マンゴーの王様プリン」は、究極にとろとろな舌ざわりで、お取り寄せでも大人気の一品です。",
-      "address":"鯖江市桜町3丁目3-3（サバエ･シティーホテル内）",
-      "longitude":"136.181237",
-      "latitude":"35.947158",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_004.jpg"
-   },
-   {
-      "id":"105",
-      "name":"ベルジェ･ダルカディ弁慶堂",
-      "description":"売り切れ必至の人気商品「朝焼きロールケーキ」は、しっとりもちもちとした生地に、甘さ控えめの上質な味わいのクリームに包まれ、いくらでも食べれてしまいそう。また、２種類のシュークリーム「弁慶のちからこぶ」と「弁慶のなきどころ」も人気商品です。そのほか、季節のフルーツを使ったケーキや和菓子もおいしい。",
-      "address":"鯖江市柳町4丁目1-16",
-      "longitude":"136.190907",
-      "latitude":"35.946577",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_005.jpg"
-   },
-   {
-      "id":"106",
-      "name":"ペルシュ",
-      "description":"鯖江で人気のケーキ屋さんです。常時店内にはケーキ、焼き菓子あわせて100アイテムほど並び、中でも季節のフルーツをたっぷり使った生ケーキが自慢です。　毎月、旬のフルーツを使ったケーキが　数種類でて楽しみ。店内の一角にある喫茶スペースでケーキを食べることもできます。",
-      "address":"鯖江市神中町２丁目407-2",
-      "longitude":"136.188416",
-      "latitude":"35.972575",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_006.jpg"
-   },
-   {
-      "id":"107",
-      "name":"昭和堂",
-      "description":"創業７０年以上の歴史ある和菓子屋。JR鯖江駅から徒歩５分。鯖江銘菓「間部もなか」や「五万石」などを取り扱っているので、おみやげ選びにお立ち寄りください。また、洋菓子も手掛け、「レアチーズケーキ」や「生ロールケーキ」は人気商品です。",
-      "address":"鯖江市本町１丁目1-21",
-      "longitude":"136.185992",
-      "latitude":"35.944095",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_007.jpg"
-   },
-   {
-      "id":"108",
-      "name":"Sloeberry",
-      "description":"フルーツ専門店プロデュースのスイーツ＆自然派カフェ。1階には、生ジュースコーナーがあり、地元農家から直接仕入れた新鮮な野菜果物を絞って野菜ソムリエおすすめの一品を味わえます。２階のカフェでは、体を考えた野菜たっぷりのベジタブルランチがお勧めです。こちらは、成人が一日に必要な野菜の量350gの半分の量が採れるように、季節の野菜を盛りだくさんに使ったプレートランチです。",
-      "address":"鯖江市水落町２丁目28-25",
-      "longitude":"136.185895",
-      "latitude":"35.963919",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_008.jpg"
-   },
-   {
-      "id":"109",
-      "name":"鯖江菓撰　栄進堂　本店",
-      "description":"季節ごとに趣向をこらしたスイーツを提供する地元の人気店。「ちかもんくん」、「越前めがね」、など鯖江土産のお菓子は、鯖江みやげにもおすすめ。また、濃厚なチーズの風味を楽しめる「チーズスティック」は、名誉総裁賞を受賞した商品です。その他にも、季節のフルーツを使ったケーキや、店長一押しのスプーンで食べる「純なまドーナツ」もあります。もっちりのスポンジの上に、柔らかいフルーツのムースがかかる新食感のデザートで、季節によって色んな味が楽しめます。",
-      "address":"鯖江市本町２丁目3-3",
-      "longitude":"136.184235",
-      "latitude":"35.945331",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_009.jpg"
-   },
-   {
-      "id":"110",
-      "name":"鯖江菓撰　栄進堂　丸山店　",
-      "description":"季節ごとに趣向をこらしたスイーツを提供する地元の人気店。「ちかもんくん」、「越前めがね」、など鯖江土産のお菓子は、鯖江みやげにもおすすめ。また、濃厚なチーズの風味を楽しめる「チーズスティック」は、名誉総裁賞を受賞した商品です。その他にも、季節のフルーツを使ったケーキや、店長一押しのスプーンで食べる「純なまドーナツ」もあります。もっちりのスポンジの上に、柔らかいフルーツのムースがかかる新食感のデザートで、季節によって色んな味が楽しめます。",
-      "address":"鯖江市丸山1-107",
-      "longitude":"136.18146",
-      "latitude":"35.978149",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_009.jpg"
-   },
-   {
-      "id":"111",
-      "name":"福寿堂",
-      "description":"西山公園近く、サバエ・シティーホテルの隣にある和洋菓子のお店。鯖江産のこだわりの卵を贅沢に使った「福寿堂こだわりの生ロールケーキ」やラムレーズンとバタークリームをココア生地でサンドした｢スクエア｣などが人気。また、西山動物園のレッサーパンダにちなんだ商品や、さばえのおみやげスイーツがいっぱい揃っています。",
-      "address":"鯖江市桜町２丁目6-12",
-      "longitude":"136.181119",
-      "latitude":"35.946836",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_010.jpg"
-   },
-   {
-      "id":"112",
-      "name":"鯖江菓子工房Yamahatsu（やまはつ）",
-      "description":"「おいしい幸せ、鯖江から・・・」を発信し続けるお菓子屋さん。地元で人気の「スフレロール」は、独自の製法で焼き上げたふわふわのスポンジと上品な甘さのクリームがマッチしていくらでも食べれそう。プレーン、抹茶、チョコの三種の味に加えて、春はにイチゴなど、季節限定の味が楽しめます。",
-      "address":"鯖江市北野町２丁目19-20",
-      "longitude":"136.180464",
-      "latitude":"35.966828",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_011.jpg"
-   },
-   {
       "id":"113",
       "name":"スイーツ＆カフェ　Ｂｌａｎｃ（ぶらん）",
       "description":"浅水川沿いの住宅街に建つ、隠れ家風のカフェ。ここは同じ鯖江市内にある「鯖江菓子工房Yamahatsu」が2010年にオープンしたカフェ。Yamahatsuのスイーツはもちろん、カフェだけのデザートメニューも楽しめる。ゆったりとした空間で、贅沢の時間を過ごしてみては。",
@@ -1026,51 +846,6 @@
       "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_013.jpg"
    },
    {
-      "id":"115",
-      "name":"Little Deco(リトル・デコ）",
-      "description":"サンドーム福井近くにあるヨーロッパ調のすてきな外観のケーキやさん。店内には、生菓子から焼き菓子、デコレーションケーキなど、パティシエが心を込めて作ったお菓子が並びます。店内のカフェスペースで食べることもできます。",
-      "address":"鯖江市宮前２丁目1801-2",
-      "longitude":"136.187135",
-      "latitude":"35.932194",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_014.jpg"
-   },
-   {
-      "id":"116",
-      "name":"福音堂",
-      "description":"うるしの里にある和菓子屋さん。産地ならではのお菓子「お椀もなか」やめがねの形をした「愛eyeもなか」を販売しているほか、地元のお米を使ったお菓子などもあります。うるしの里会館のすぐ近くにあるので、おみやげにぜひお立ち寄りください。",
-      "address":"鯖江市河和田町19-1-9",
-      "longitude":"136.274049",
-      "latitude":"35.951459",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_015.jpg"
-   },
-   {
-      "id":"117",
-      "name":"けーきやYANAGIMOTO",
-      "description":"ログハウス風の外観がとてもかわいい洋菓子専門店です。さらに店内には、かわいいお菓子がたくさん並び、まるでお菓子の国に訪れたようにワクワクする空間が広がります。お菓子の味はもちろん、ラッピングにもこだわります。また、吹き抜けの２Fカフェスペースでは、スイーツを食べることもできます。けーきやYANAGIMOTO 生ブッセ（いちご・ブルーベリー）は福井県産の いちごと、鯖江産のブルーベリーを使用した、ふわふわの生クリームブッセ。",
-      "address":"鯖江市住吉町３丁目1-30",
-      "longitude":"136.179707",
-      "latitude":"35.943652",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_016.jpg"
-   },
-   {
-      "id":"118",
-      "name":"安価堂",
-      "description":"昭和元年創業の歴史ある和菓子屋さん。旬の素材を使った四季折々のお菓子が自慢です。無添加のやさしい甘さの和菓子をどうぞ。",
-      "address":"鯖江市神中1丁目2-15",
-      "longitude":"136.195615",
-      "latitude":"35.968807",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_017.jpg"
-   },
-   {
-      "id":"119",
-      "name":"亀屋萬年堂",
-      "description":"創業８０年の和洋菓子店。ここのワッフルは絶品。創業より味と製法を守り続ける素朴な味は、どこか懐かしくクセになるおいしさです。「ワッフル」のアルファベット文字が反対?!理由はお店で聞いてみてくださいね。",
-      "address":"鯖江市本町１丁目2-13",
-      "longitude":"136.185983",
-      "latitude":"35.945123",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_018.jpg"
-   },
-   {
       "id":"120",
       "name":"大黒屋",
       "description":"江戸後期より上流階級の茶の湯等に用いられていた「菜花糖（さいかとう）」で知られる老舗。",
@@ -1078,15 +853,6 @@
       "longitude":"136.185523",
       "latitude":"35.946253",
       "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_019.jpg"
-   },
-   {
-      "id":"121",
-      "name":"のだや餅店",
-      "description":"鯖江の街なか商店街にある地元に愛されるお餅屋さん。注文を受けてから作ってくれる「あべかわ餅」は、やわらかなお餅にきなこと黒蜜がたっぷりかかっておすすめの絶品。また、店内は食堂になっており、食事もできます。",
-      "address":"鯖江市本町４丁目3-22",
-      "longitude":"136.185459",
-      "latitude":"35.949442",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_020.jpg"
    },
    {
       "id":"122",
