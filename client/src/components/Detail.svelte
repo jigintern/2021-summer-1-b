@@ -43,17 +43,17 @@
 <div class="mx-auto">
   <Image src={place.thumbnail} alt={place.name} />
 </div>
-<div>
+<div class="py-2">
   <h1 class="text-2xl">{place.name}</h1>
-  <code>{place.address}</code>
-  <p>{place.description}</p>
+  <p class="font-extralight">{place.address}</p>
+  <p class="pt-1">{place.description}</p>
 </div>
-<div id="access-map">map</div>
+<div id="access-map" class="mx-4 md:mx-8" />
 {#await loadNearbyPlaces()}
   <div>loading...</div>
 {:then}
-  <div>
-    <h2>近くの観光地</h2>
+  <div class="pt-2">
+    <h2 class="text-xl">近くの観光地</h2>
     {#if success}
       <ul>
         {#each nearbyPlaces as nearbyPlace (nearbyPlace.id)}

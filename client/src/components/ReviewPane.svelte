@@ -16,7 +16,7 @@
   <Image src={place.thumbnail} alt={place.name} />
 </div>
 <div>
-  <h1 class="text-2xl">{place.name}</h1>
+  <h1 class="text-2xl line-clamp-1">{place.name}</h1>
   <p class="line-clamp-2">{place.description}</p>
 </div>
 <div class="flex justify-around items-center md:w-1/2 md:mx-auto">
