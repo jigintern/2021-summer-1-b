@@ -1,4 +1,10 @@
 // https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array
+/**
+ * 
+ * @description suffle array
+ * @param {Array} array
+ * @returns {Array}
+ */
 export const shuffle = (array) => {
   let currentIndex = array.length;
   let randomIndex;
@@ -16,6 +22,12 @@ export const shuffle = (array) => {
   return array;
 }
 
+/**
+ * 
+ * @description get longitude, latitude from request params
+ * @param {string} req 
+ * @returns {object} longitude, latitude
+ */
 export const getQueries = (req) => {
   if(req.includes("longitude") && req.includes('latitude')) {
     const r = /\d+/g;
