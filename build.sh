@@ -5,3 +5,6 @@ cd client && ./build.sh
 cd -
 rm -rf static
 cp -r client/public static
+
+# server
+./serverBuild.sh
