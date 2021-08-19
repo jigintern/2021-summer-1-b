@@ -1,16 +1,15 @@
-import {db} from "./setupDB.js";
+import { db } from "./setupDB.js";
 
 const places = JSON.parse(Deno.readTextFileSync("./_data/data.json"));
 
-// Run a simple query
-// for (const name of names) {
-//   db.query("INSERT INTO people (name) VALUES (?)", [name]);
-// }
+places.forEach((place) => {
+  db.query(`INSERT INTO places (name, description, address, longitude, latitude, thumbnail) VALUES (${place.name}, ${place.description}, ${place.adress}, ${place.longitude}, ${place.latitude}, ${place.tumbnail})`);
+})
 
-// Print out data in table
-// for (const [name] of db.query("SELECT name FROM people")) {
-//   console.log(name);
-// }
+for (const name of names) {
+  db.query("INSERT INTO places VALUES ()", [name]);
+}
 
-// Close connection
-// db.close();
+for (const [place] of db.query("SELECT * FROM places")) {
+  console.log(place);
+}
