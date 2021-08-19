@@ -1,10 +1,11 @@
 import { calcDistance } from "../utils/calc_dist.js";
+import db from "../setupDB.js";
 import {
   shuffle,
   getQueries
 } from "../utils/utils.js";
 
-const places = JSON.parse(Deno.readTextFileSync("./_data/data.json"));
+const places = db.queryEntries("SELECT * FROM places");
 
 export const test = (path) => {
   return path
@@ -16,29 +17,29 @@ export const test = (path) => {
   @return Array or {error: err.message}
 */
 export const getPlaces = () => {
-    let responsePlaces = [];
+  let responsePlaces = [];
 
-    if(places) {
-      shuffle(places);
-  
-      // シャッフルした後30個のデータを返す
-      for (let i = 0; i < 30; i++) {
-        responsePlaces.push(places[i]);
-      }
+  if (places) {
+    shuffle(places);
 
-      return {
-        success: true,
-        data: responsePlaces
-      }
-
-    } else {
-      
-      console.error("Not Found such data");
-      return {
-        success: false,
-        data: []
-      }
+    // シャッフルした後30個のデータを返す
+    for (let i = 0; i < 30; i++) {
+      responsePlaces.push(places[i]);
     }
+
+    return {
+      success: true,
+      data: responsePlaces
+    }
+
+  } else {
+
+    console.error("Not Found such data");
+    return {
+      success: false,
+      data: []
+    }
+  }
 }
 
 /*
