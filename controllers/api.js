@@ -47,21 +47,19 @@ export const getPlaces = () => {
 /**
  * 
  * @desc get place with recommended places
+ * @param path /api/places/
+ * @param req longitude=222&latitude=222
  * @route GET /api/places/?longitude=number&latitude=number
  * @return {object} object of success flag and recommended places
 */
-
 export const getPlace = (path, req) => {
-  // 1. path: /api/places/
-  // 2. req: longitude=222&latitude=222
   const { longitude, latitude } = getQueries(req);
-  // console.log(`longitude: ${longitude}, latitude: ${latitude}`)
 
   let recomended_places = calcDistance(latitude, longitude, places)
-  // console.log(`recomended_places: ${recomended_places}`)
 
   // increment likes
-  const result = incrementLikes(longitude);
+  // db for production
+  const result = incrementLikes(longitude, db);
 
   if (recomended_places && result) {
     return {

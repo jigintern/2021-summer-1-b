@@ -1,13 +1,10 @@
-import db from "../setupDB.js";
-
 /**
   @desc increment likes on DB
   @param {number} longitude
   @return true or false
 */
-export const incrementLikes = (longitude) => {
+export const incrementLikes = (longitude, db) => {
   try {
-    // increment likes
     // fint this place
     const thisPlace = db.queryEntries(`SELECT * FROM places where longitude = ${longitude}`);
   
