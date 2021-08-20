@@ -25,7 +25,14 @@
 </script>
 
 <div class="grid grid-rows-8 h-screen">
-  <Header />
+  <Header
+    on:click={() => {
+      if (revealDetail) {
+        nextPlace();
+        revealDetail = false;
+      }
+    }}
+  />
   <main
     id="place"
     class="row-span-6 {revealDetail
