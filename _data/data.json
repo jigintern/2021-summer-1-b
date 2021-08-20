@@ -1,1320 +1,1320 @@
 [
-   {
-      "id":"1",
-      "name":"めがねミュージアム",
-      "description":"館内にはめがねショップ、めがね博物館、手づくりめがね工房があります。福井県内優良メーカーのオリジナルハウスブランドや有名人がデザインした「sabae」ブランドめがねなど、１５００種以上の最新デザインと技術をそろえ ためがねが並ぶショップ、めがね大使である俳優・大村崑氏の芸能人めがねコレクションの展示やめがねの歴史が学べる博物館、さらに、自分だけのオリジナル めがねが欲しい方のための「手づくりめがね工房」では世界にひとつだけのめがねが作れます。めがねの他にも、ミニめがね型ストラップやアクセサリーも作ることが",
-      "address":"鯖江市新横江2丁目3-4（ めがね会館）",
-      "longitude":"136.198844",
-      "latitude":"35.942758",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/pavilion_001.jpg"
-   },
-   {
-      "id":"2",
-      "name":"石田縞手織りセンター",
-      "description":"鯖江市繊維会館内にある施設です。鯖江市は古くから繊維産業が盛んです。そのルーツである伝統織り「石田縞」が、時を越えて繊維のすばらしさと奥深さを伝えています。当センターでは、伝統ある石田縞の紹介や、昔ながらの手織り体験ができます。",
-      "address":"福井県鯖江市糺町32-1-1",
-      "longitude":"136.175821",
-      "latitude":"35.972545",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/pavilion_002.jpg"
-   },
-   {
-      "id":"3",
-      "name":"うるしの里会館",
-      "description":"館内のミュージアムショップでは、産地ならではの品揃えで越前漆器が直販価格で販売されています。また、越前漆器の歴史が学べる資料が展示されているほか、隣接の職人工房では伝統工芸士による実演を見学できます。さらに、絵付け･沈金・拭き漆の３つの漆器体験で、自分だけのオリジナル作品を作ることができます。",
-      "address":"福井県鯖江市西袋町40-1-2",
-      "longitude":"136.2738",
-      "latitude":"35.953033",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/pavilion_003.jpg"
-   },
-   {
-      "id":"4",
-      "name":"まなべの館",
-      "description":"鯖江市の歴史が学べる博物館です。鯖江の歴代藩主の書画や遺品を紹介する「まなべの部屋」をはじめ、市内遺跡からの出土品や貴重な考古資料を紹介する「考古学の部屋」、近松門左衛門の関連資料が並ぶ「近松の部屋」、鯖江市出身のアニメーション作家・久里洋二氏の作人が並ぶ「久里洋二の部屋」、鯖江市出身の芸術家・故西山真一氏の作品を紹介する「西山真一の部屋」が常設され、学びの施設として親しまれています。また、企画展や市民によるギャラリー展なども随時開催されます。",
-      "address":"鯖江市長泉寺町1丁目9-20",
-      "longitude":"136.184339",
-      "latitude":"35.9535",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/pavilion_004.jpg"
-   },
-   {
-      "id":"5",
-      "name":"久里洋二の世界　GALLERY Ｋ",
-      "description":"日本を代表するイラストレーターであり、まなべの館名誉館長でもある 鯖江市出身の久里洋二氏。彼の作品に出会える夢のギャラリーです 。ふしぎにあたたかい久里洋二氏の楽しい世界を体感できます。お気軽にお立ち寄りください。作品を購入することもできます。",
-      "address":"鯖江市糺町16-18",
-      "longitude":"136.167572",
-      "latitude":"35.977267",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/pavilion_005.jpg"
-   },
-   {
-      "id":"6",
-      "name":"鯖江まちなか",
-      "description":"JR鯖江駅周辺の昔ながらの街並みが残るエリアを「さばえまちなか」と呼んでいます。鯖江藩主・間部（まなべ）家の門前町として栄えたこのエリアには、花街の面影残る石畳の小路や、旧北陸道沿いのお寺、由緒ある和洋菓子店など、ぶらり立ち寄りたいスポットがいっぱいあります。",
-      "address":"鯖江市本町1～4丁目一帯",
-      "longitude":"136.185384",
-      "latitude":"35.946356",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/town_001.jpg"
-   },
-   {
-      "id":"7",
-      "name":"近松の里",
-      "description":"元禄三代文豪に数えられる近松門左衛門。その作品は、後世の文学作品にも多くの影響を及ぼし、日本のシェークスピアといわれています。その近松が多感な幼年期を過ごしたのが吉江町です。この地は正保二年(1645年)から29年間、松平昌親を藩主とする吉江藩がありました。現在の立待地区には当時の風情を残す七曲りや春慶寺、福正寺、西光寺、近松門左衛門の文学碑などがあります。",
-      "address":"鯖江市吉江町一帯",
-      "longitude":"136.174379",
-      "latitude":"35.988434",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/town_002.jpg"
-   },
-   {
-      "id":"8",
-      "name":"うるしの里",
-      "description":"鯖江市東部にある「うるしの里」は、伝統ある越前漆器の産地。業務用漆器の国内シェア80%以上を占めるています。中心にある「うるしの里会館」は、越前漆器の情報発信や販売、職人工房、漆器の絵付け体験などができます。産地の中でも河和田町の「中道通り」は、漆器の工房や職人の家屋が古くから多く集積しており、漆の香り漂うレトロなまち並みが続く情緒ある通り。ぜひ歩いてほしい。また、ものづくりの現場を気軽に見ることができる「軒下工房」は「もの作りの現場を、軒下から気軽に見るような感覚で見ていただきたい」という思いで工房を広",
-      "address":"鯖江市河和田地区一帯",
-      "longitude":"136.272686",
-      "latitude":"35.951634",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/town_003.jpg"
-   },
-   {
-      "id":"9",
-      "name":"誠照寺",
-      "description":"親鸞聖人ゆかりの寺で、真宗誠照寺派本山で越前四箇本山の一つ。御影堂は木造建物では県内最大規模を誇る。山門は四足門で「鳥棲まずの門」とも言われ、左甚五郎作と伝えられる彫刻「駆け出しの竜」は特に有名です。また、境内では毎月第２日曜日（1･2月は除く）に「誠市」が開催され、多くの人で賑わいます。",
-      "address":"鯖江市本町3丁目2-38",
-      "longitude":"136.184354",
-      "latitude":"35.946979",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_001.jpg"
-   },
-   {
-      "id":"10",
-      "name":"車の道場（上野別堂）",
-      "description":"正式には「上野別堂」といい、親鸞上人が当地ではじめて教えを説いた念仏道場。上人が乗られた輿（こし）に車がついていたことから、この名がついたといわれています。",
-      "address":"鯖江市日の出町7-1",
-      "longitude":"136.185663",
-      "latitude":"35.939427",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_002.jpg"
-   },
-   {
-      "id":"11",
-      "name":"證誠寺",
-      "description":"親鸞配流の途中、山元の庄（水落町）に立ち寄り、草庵にて念仏説法をされました。これに帰依した信者の願いにより、上人自ら像を刻んで子の善鸞(ぜんらん)に与えて山元の庄へ遣わせました。その長男浄如(じょうにょ)が寺を建立し、山元山證誠寺が誕生しました。",
-      "address":"鯖江市横越町13-43",
-      "longitude":"136.203644",
-      "latitude":"35.945889",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_003.jpg"
-   },
-   {
-      "id":"12",
-      "name":"萬慶寺",
-      "description":"曹洞宗大本山永平寺の直末寺で鯖江藩主・間部公の菩提寺。本堂の天井には、７代藩主間部詮勝（あきかつ）の筆による天井墨絵「風神」「龍神」「雷神」は有名で指定文化財にもなっています。",
-      "address":"鯖江市深江町6-14",
-      "longitude":"136.184986",
-      "latitude":"35.94178",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_004.jpg"
-   },
-   {
-      "id":"13",
-      "name":"中道院",
-      "description":"中道院で行われる「すりばちやいと」とは、元三大師が悪病に苦しむ庶民を助けようと始めた加持秘法で、頭にかぶる護摩炉がすりばちに似ていることからこう呼ばれています。頭痛など諸病に効果があり、最近では頭がよくなると受験生の参拝も目立ちます。毎年２月２０日・３月２日",
-      "address":"鯖江市長泉寺町2-7-7",
-      "longitude":"136.185286",
-      "latitude":"35.955959",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_005.jpg"
-   },
-   {
-      "id":"14",
-      "name":"松阜神社",
-      "description":"もとは鯖江藩邸内にあって、間部詮房（まなべあきふさ）、詮言（あきとき）を祀っていた受福堂が萬慶寺に移されたのを、明治に入り現在の地に移し、７代詮勝（あきかつ）も祭神に加えたものです。舟津神社の祭神大彦命（おおひこのみこと）らの神々を合祀して、名を松阜神社と改めました。本殿右方に移築された受福堂御門が現存し、鯖江市指定文化財となっています。",
-      "address":"鯖江市旭町1丁目2-14",
-      "longitude":"136.187897",
-      "latitude":"35.944299",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_006.jpg"
-   },
-   {
-      "id":"15",
-      "name":"弁天堂",
-      "description":"旭町2丁目にひっそりと遺るこのお堂には、弘法大師が作られた３体の霊像の一つである弁財天が安置されています。もとは、江戸幕府将軍家の宝物だったのを６代将軍徳川家宣(いえのぶ)から間部詮房が拝領したものです。弁天様は琵琶をたずさえた美しい天女姿で、音楽や福徳財宝の神として信仰されています。",
-      "address":"鯖江市旭町2丁目",
-      "longitude":"136.187917",
-      "latitude":"35.945845",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_007.jpg"
-   },
-   {
-      "id":"16",
-      "name":"舟津神社",
-      "description":"崇神天皇の時代（紀元前1世紀）、北陸地方平定のため大彦命（おおひこのみこと）が派遣され、鯖江の王山に陣を置き、賊を平定しました。当時沼地だった鯖江の平野部一帯で、命が舟を着けたところを舟津と言ったことから、134年大彦命を祀って「舟津神社」と名付けられました。延喜式神名帳には「丹津神社」と記述があり、北陸随一の古社として古来より敬われてきました。文政元年の建築とされる本殿と赤鳥居は福井県指定文化財です。",
-      "address":"鯖江市舟津町1丁目2-32",
-      "longitude":"136.186221",
-      "latitude":"35.938675",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_008.jpg"
-   },
-   {
-      "id":"17",
-      "name":"神明社",
-      "description":"5世紀半ば伊勢神宮天照(あまてらす)大神(おおみかみ)を祀って文殊山南麓に創建されていたのを1129年烏ヶ森(からすがもり)に遷宮(せんぐう)しました。約5万坪の広大な敷地を持ち、歴代の領主の保護を受け、江戸時代には特に栄えて盛大なお祭りは越前第一と言われました。神明社の社叢林(しゃそうりん)、烏ヶ森は原生林に近い自然林で古くから聖域として大切にされてきた一方、この一帯は江戸時代までは物騒な所でもありました。昭和27年境内公園に整備されています。森は天然記念物として鯖江市の指定文化財です",
-      "address":"鯖江市水落町4丁目3-12",
-      "longitude":"136.182531",
-      "latitude":"35.971034",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_009.jpg"
-   },
-   {
-      "id":"18",
-      "name":"長久寺",
-      "description":"初代福井藩主結城(ゆうき)秀康(ひでやす)が鳥羽野(とばの)開発に着手しましたが志し半ばで亡くなった後、2代松平忠直(ただなお)が引継ぎました。神明社を東へ、下河端を北へ行き麻生津へ抜ける北陸道を整備し、周囲８ヶ村の領民を街道筋に移住させました。この事業にあたり、移住者への行き届いた心配りをしたことや街道沿いが賑わったことから領民は藩主忠直に大変感謝しました。しかしその忠直が幕府の怒りに触れ、九州へ配流処分となったため、藩主をお慰めしようと建てた寺が長久寺です。「長久」の名は開拓事業に尽力した奉行渡辺牛兵",
-      "address":"鯖江市神明町4丁目5-7",
-      "longitude":"136.186777",
-      "latitude":"35.977863",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_010.jpg"
-   },
-   {
-      "id":"19",
-      "name":"西光寺",
-      "description":"西光寺は本願寺第７代法主存如(そんにょ)（蓮如の父）の創建による古刹(こさつ)で、真宗北陸布教の足掛かりとなったお寺です。一時は相当な数の門徒をかかえ、勢力をふるっていましたが、織田信長の軍勢に敗れ、寺も焼き討ちにあいました。その後石田から現在の地に移って再興され今に至っています。",
-      "address":"鯖江市杉本町31-42-1",
-      "longitude":"136.170424",
-      "latitude":"35.982717",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_011.jpg"
-   },
-   {
-      "id":"20",
-      "name":"春慶寺",
-      "description":"創建は奈良時代。泰澄大師が修行中に草庵を結んだ「心敬時（しんけいじ）」が前身です。吉江藩成立後に、春慶寺という寺号になりました。近松門左衛門が幼少時代この寺の一隅を借りて住んでいたと言われています。",
-      "address":"鯖江市米岡町",
-      "longitude":"136.176678",
-      "latitude":"35.989717",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_012.jpg"
-   },
-   {
-      "id":"21",
-      "name":"漆器神社",
-      "description":"八幡神社（片山町）、敷山神社（河和田町）の境内には漆器神社があります。八幡神社には、漆器工芸がすべて手作りで行われていた当時の全工程の道具が保存されています。眺めのよい立地で、うるしの里を一望できます。",
-      "address":"鯖江市片山町",
-      "longitude":"136.276161",
-      "latitude":"35.949013",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_013.jpg"
-   },
-   {
-      "id":"22",
-      "name":"漆器神社",
-      "description":"敷山神社は式内社であり、古くからのお宮さんです。河和田川を挟んで逆方向の西北の山腹にあります。うっそうとした繁みの中を曲折した石段が続きます。本殿まで登りきると、河和田の街並みが一望できます。漆器神社は本殿への石段を上がる前の右手に十数段上がったところにあります。見事な漆の天井絵は、普段は非公開ですが、見学をご希望の方はうるしの里会館まで、お問い合わせ下さい。（電話　0778-65-2727）",
-      "address":"鯖江市河和田町",
-      "longitude":"136.269906",
-      "latitude":"35.951721",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_014.jpg"
-   },
-   {
-      "id":"23",
-      "name":"加多志波（かたしば）神社",
-      "description":"加多志波神社は、川島町三里山麓の杉小立の中にある氏神様です。この加多志波神社には３つの面があります。木造の鎌倉後期の作といわれており、父鬼・母鬼・子鬼の３面とも国の重要文化財に指定されています。毎年2月11日には、餅をまいて厄を払う神事「おこない」が加多志波神社境内で催されます。また一年でこの日に限って、宝物庫の扉が開かれ、3面の追儺面の見学が許されます。",
-      "address":"鯖江市川島町27-22",
-      "longitude":"136.225489",
-      "latitude":"35.945323",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_015.jpg"
-   },
-   {
-      "id":"24",
-      "name":"春日大社",
-      "description":"慶長18年（1613）に建築された三間社流造柿葺の建物です。大彦命の建立と伝えられ、本殿は国指定重要文化財です。覆屋が架けられていたため、建物の保存が良い。また、市指定文化財の狛犬や鯖江藩士の弓術・砲術の献額があります。",
-      "address":"鯖江市鳥井町12-31-1",
-      "longitude":"136.167699",
-      "latitude":"35.944456",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_016.jpg"
-   },
-   {
-      "id":"25",
-      "name":"中野神社",
-      "description":"鯖江市南東部に位置した中野区の総社。三里山の中の杉林の山道や苔むした石畳階段は荘厳で神聖な空間が広がっています。また、朱の鳥居や社の建築装飾も見事ごとです。",
-      "address":"鯖江市中野町（花出）",
-      "longitude":"136.213805",
-      "latitude":"35.946589",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_017.jpg"
-   },
-   {
-      "id":"26",
-      "name":"日吉神社",
-      "description":"鯖江の南西部にあります。境内の相生の大杉や池がすばらしく、鎮守の森として荘厳な雰囲気があり、鯖江百景のひとつに選ばれています。",
-      "address":"鯖江市上野田町5-40-1",
-      "longitude":"136.149353",
-      "latitude":"35.941832",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_018.jpg"
-   },
-   {
-      "id":"27",
-      "name":"剣神社（下新庄町）",
-      "description":"境内入口には2つの鳥居、150ｍ以上の奥行きがある石畳の参道を進むと奥には庭園があります。境内は手入れが行き届き、静寂で荘厳な雰囲気の神社です。",
-      "address":"鯖江市下新庄町60-75",
-      "longitude":"136.212657",
-      "latitude":"35.936486",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_019.jpg"
-   },
-   {
-      "id":"28",
-      "name":"刀那の滝",
-      "description":"刀那（とな）の滝は、まぼろしの村三峯をめざす山道の途中にあります。大正14年の滝開き以来、たくさんの人に安らぎを与えてきました。",
-      "address":"鯖江市上戸口町",
-      "longitude":"136.2645435",
-      "latitude":"35.97163317",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/nature_001.jpg"
-   },
-   {
-      "id":"29",
-      "name":"きらめきロード中河",
-      "description":"鯖江市の東部を流れる浅水川の堤防沿いの通り。桜並木と地域の人が植えた水仙が美しい花を咲かせます。4月上旬～中旬の頃が特に美しい景観となり、鯖江百景のひとつです。",
-      "address":"鯖江市中野町",
-      "longitude":"136.207561",
-      "latitude":"35.95254",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/nature_002.jpg"
-   },
-   {
-      "id":"30",
-      "name":"榎お清水",
-      "description":"春慶寺山麓にあるお清水です。千古の昔より湧き出ており、近松時代の頃は吉江藩のお泉水として利用されていました。旅人はお不動様に手を合わせ、このお清水で喉をうるおしたといわれています。前には近松の浄瑠璃をイメージした公園があります。このあたりは平成19年度より整備が進められ、平成22年に美しく完成しました。",
-      "address":"鯖江市米岡町",
-      "longitude":"136.177551",
-      "latitude":"35.98941",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/nature_003.jpg"
-   },
-   {
-      "id":"31",
-      "name":"桃源清水",
-      "description":"ラポーゼかわだより南東へ約２ｋｍ。継体大王が水源を求めて訪れたと伝わるこの谷の清水は、昔から飲料水として住民に利用されてきました。平成16年の福井豪雨により甚大な被害を受けましたが、多くの方の支援により美しく復興し、現在は市民の憩いの場として親しまれています。平成20年に「ふくいのおいしい水」に認定されました。",
-      "address":"鯖江市上河内町",
-      "longitude":"136.318862",
-      "latitude":"35.943402",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/nature_004.jpg"
-   },
-   {
-      "id":"32",
-      "name":"三場坂清水",
-      "description":"ラポーゼかわだより東へ約1.3ｋｍ。山道を300ｍほど登ると水場があります。岩清水とも呼ばれるように岩から湧き出る清水で、水質もよく、古くから地域住民の飲料水として用いられてきました。平成20年「ふくいのおいしい水」に認定されました。",
-      "address":"鯖江市上河内町",
-      "longitude":"136.312403",
-      "latitude":"35.949094",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/nature_005.jpg"
-   },
-   {
-      "id":"33",
-      "name":"福鉄鉄橋",
-      "description":"福井鉄道福武線の市道に架かる鉄橋橋で、大正13年ごろの建築です。無骨な橋脚と、元山大師が開いた「すりばちやいと」のお寺、中道院の杉の大木が絶妙のコントラストです。",
-      "address":"鯖江市長泉寺町2丁目",
-      "longitude":"136.185867",
-      "latitude":"35.95571",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/history_001.jpg"
-   },
-   {
-      "id":"34",
-      "name":"弁天橋",
-      "description":"鯖江市北部を東西に流れる浅水川の改修により架けられた橋で、朱色の高欄が美しい。また、近松門左衛門が住んでいたことをモチーフに高欄が造られています。",
-      "address":"鯖江市吉江町",
-      "longitude":"136.171316",
-      "latitude":"35.989189",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/history_002.jpg"
-   },
-   {
-      "id":"35",
-      "name":"地蔵橋",
-      "description":"天正年間に織田と朝倉の戦いで、橋を壊して長泉寺を守ろうとする朝倉勢に対し、織田勢は路傍にあった石地蔵を川に投げ込んで埋め、その上を踏み越えて進軍した。後年、長泉寺の僧が、「我が体を踏ませて、通る衆生に功徳を与えん」と夢のお告げを受け、谷底から引き上げて旧北陸道の小川の橋にしました。実際に、このお地蔵さんの磨り減った様子から、多くの人馬がこの上を通行したことが偲ばれます。",
-      "address":"鯖江市長泉寺１丁目",
-      "longitude":"136.185611",
-      "latitude":"35.950067",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/history_003.jpg"
-   },
-   {
-      "id":"36",
-      "name":"王山古墳群",
-      "description":"王山は標高62mの小山で、弥生時代から古墳時代の古墳約50基が散在しています。中でももっとも古いのは、弥生時代後期（3世紀）のもので、墳丘墓（方形周溝墓）になっており、その規模は一辺が8～12ｍ、高さ１～２ｍあります。集溝からは、東海や近畿地方の影響をうけた土器が出土しており、葬祭儀礼に関したものと思われます。また、古墳群のあたりは、史跡公園として整備され、野鳥の声を聞きながら心静かに散策できるスポットになっています。",
-      "address":"鯖江市日の出町",
-      "longitude":"136.18517",
-      "latitude":"35.939546",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/history_004.jpg"
-   },
-   {
-      "id":"37",
-      "name":"兜山古墳",
-      "description":"兜山古墳は、北陸最大級の円墳で、一重ねの鏡餅のような姿をしています。雑木で覆われた古墳の頂上には、「八幡神社」が鎮座し古墳全体がその境内になっています。築造年代はその巨大さからみて、4～5世紀と思われます。昭和52年国の指定史跡となりました。",
-      "address":"鯖江市神明町2丁目",
-      "longitude":"136.183393",
-      "latitude":"35.974425",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/history_005.jpg"
-   },
-   {
-      "id":"39",
-      "name":"恵美写真館洋館・表門",
-      "description":"明治38年建設の擬洋風建築物で、洋館は木造寄棟造瓦葺の２階建てで、前面中央に入母屋造桟瓦葺の2層車寄せを設けています。表門はアーチ上屋根に銅板を葺き、和風（薬医門形式）の門構えをしています。和風に洋風をうまく取り入れた見事な建築物で、外観に施された擬似大理石手法や鳳凰の漆喰模様などに優れた左官技術がうかがえます。平成10年に国の登録有形文化財に指定されました。",
-      "address":"鯖江市本町3丁目1-28",
-      "longitude":"136.186237",
-      "latitude":"35.946549",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/history_007.jpg"
-   },
-   {
-      "id":"40",
-      "name":"植田家長屋門",
-      "description":"植田家は、代々鯖江藩家老の家柄でした。長屋門というのは、門を兼ねた一つ屋根の横に長い門のことで、門をはさんで両脇にいくつかの部屋があるものです。植田家には、この長屋門が現存しており、旧藩時代の数少ない遺構の一つとして鯖江市文化財に指定されています。",
-      "address":"鯖江市旭町1丁目",
-      "longitude":"136.248632",
-      "latitude":"35.952655",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/history_008.jpg"
-   },
-   {
-      "id":"41",
-      "name":"近藤醤油店",
-      "description":"鯖江市水落町3丁目付近は、旧北陸街道の風情が感じられる建物が多く残っています。その中でもこの建物は、特に趣が感じられます。鯖江百景のひとつです。",
-      "address":"鯖江市水落町3丁目",
-      "longitude":"136.183044",
-      "latitude":"35.967001",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/history_009.jpg"
-   },
-   {
-      "id":"42",
-      "name":"あめや呉服店",
-      "description":"２階建ての店舗兼主屋は２階部分が黒漆喰塗りで木の柱が塗り込まれており、伝統的な造りのなかに近代的防火構造が見て取れ、平成１９年１２月に国の登録有形文化財となりました。店内にある横2.4ｍ、高さ96㎝の「呉服」の大看板の文字は、福田大観（後の北大路魯山人）によって大正2年9月に創業100周年記念として彫られたものです。",
-      "address":"鯖江市本町３丁目",
-      "longitude":"136.185287",
-      "latitude":"35.946723",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/s-021.jpg"
-   },
-   {
-      "id":"43",
-      "name":"旧鯖江地方織物検査所（現代アートセンター）",
-      "description":"明治時代、繊維産業が盛んで繊維王国とも呼ばれた鯖江の名残を留める建造物です。洋風木造2階建てで、館内は当時の造りが残されています。当時、鯖江近辺で生産された織物は、ここに集められ検査を受け、合格されたものだけが出荷されました。現在は、さばえ現代アートセンターとして個展や展示会が随時開かれています。",
-      "address":"鯖江市旭町1-6-6",
-      "longitude":"136.186234",
-      "latitude":"35.944607",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/s-000.jpg"
-   },
-   {
-      "id":"44",
-      "name":"ラポーゼかわだ",
-      "description":"全国でも珍しい、美人の湯と長寿の湯の混合泉「かわだ温泉」。ヨーロピアンスタイルの大浴場や露天風呂、ジャグジー風呂を楽しめます。宿泊以外にも、日帰り温泉としてもご利用いただけます。また、ラポーゼかわだには、バーベキューハウスや、パンやそば打ち、ハーブリース作りなど様々な体験講座が用意されています。空気のおいしい山里で、ゆっくり過ごしながら、いろいろな体験ができる滞在型アミューズメント施設です。",
-      "address":"鯖江市上河内町19-37-2",
-      "longitude":"136.3",
-      "latitude":"35.948047",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_001.jpg"
-   },
-   {
-      "id":"48",
-      "name":"装飾ガラス　オータム",
-      "description":"下絵をもとにガラスに透明色を使用した樹脂で世界で１つだけの素敵なガラスレター体験ができます。旅の思い出として、またいつまでも残るメモリアルガラスとして喜ばれています。修正が可能なのでお子様でも簡単に作ることができ、ご家族、カップル、グループでの体験が楽しめます。工房見学も無料でき、出張体験も可能です。",
-      "address":"鯖江市丸山町2-8-16",
-      "longitude":"136.183798",
-      "latitude":"35.983258",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_005.jpg"
-   },
-   {
-      "id":"49",
-      "name":"西山公園",
-      "description":"「日本の歴史公園１００選」認定のさばえのシンボル公園です。春には、約５万株のつつじが咲き乱れる日本海側随一のつつじの名所桜、つつじ、もみじ、雪吊り風景と四季を通じて多くの人で賑わいます。また、園内には、動物園、芝生広場、冒険の森、日本庭園などがあり、大人も子供も楽しめる楽しい憩いの公園です。鯖江市公園管理事務所　（TEL0778-51-1001）",
-      "address":"鯖江市桜町３丁目7－20",
-      "longitude":"136.182606",
-      "latitude":"35.950627",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_021.jpg"
-   },
-   {
-      "id":"50",
-      "name":"大谷公園（実のなる公園）",
-      "description":"鯖江市の北側に位置するこの公園は、グミ、栗、柿、イチジク等、実のなる樹木が植えられ、四季折々に収穫の喜びを実感でき、「実のなる公園」として親しまれています。また、2つの貯水池があり、春には桜のピンク色と池の水色のコントラストがとてもきれいです。",
-      "address":"鯖江市吉江町",
-      "longitude":"136.176446",
-      "latitude":"35.993169",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_022.jpg"
-   },
-   {
-      "id":"51",
-      "name":"丸山公園",
-      "description":"市営のグラウンドが併設した市民の憩いの公園です。四季折々に目を楽しませてくれる樹が植えられ、アスレチックなどの遊具があったり、ゆっくりくつろげます。遠足シーズンには子供たちがたくさん訪れます。",
-      "address":"鯖江市丸山町4丁目",
-      "longitude":"136.17919",
-      "latitude":"35.983111",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_023.jpg"
-   },
-   {
-      "id":"52",
-      "name":"三六公園",
-      "description":"鯖江歩兵三十六連隊兵営の跡地にできた公園です。園内には、当時の様子が描かれた大きさ縦３ｍ×横６ｍ看板が設置されています。また、子供が遊べる遊具もあります。",
-      "address":"鯖江市三六町１丁目430",
-      "longitude":"136.180375",
-      "latitude":"35.970869",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_024.jpg"
-   },
-   {
-      "id":"53",
-      "name":"日野川河川公園",
-      "description":"鯖江の中央部を南北に流れる日野川の美しい景観を感じることのできる、憩いの公園です。春は桜や菜の花が咲き乱れ、冬はコハクチョウが飛来します。ここを会場に、４月中旬には「さばえ菜花まつり」が開催されます。",
-      "address":"鯖江市有定町３丁目～小黒町２・３丁目",
-      "longitude":"136.172934",
-      "latitude":"35.948067",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_025.jpg"
-   },
-   {
-      "id":"54",
-      "name":"弁財天",
-      "description":"「べさいでん」「べててん」の名で親しまれている標高１２０ｍの山。遊歩道が整備されており、お散歩気分で散策できます。山頂には忠霊塔の広場があります。",
-      "address":"鯖江市磯部町・落井町",
-      "longitude":"136.238949",
-      "latitude":"35.955715",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_031.jpg"
-   },
-   {
-      "id":"55",
-      "name":"三床山",
-      "description":"鯖江市の西部にある標高約280ｍの山で御床山とも書きます。古くから要害の地で、山頂には延喜式神名帳にも記述のある佐々牟志神社が鎮座し山城跡も残っています。",
-      "address":"鯖江市西大井町、和田町、石生谷町",
-      "longitude":"136.129267",
-      "latitude":"35.947476",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_032.jpg"
-   },
-   {
-      "id":"56",
-      "name":"三峯山",
-      "description":"三峯山にあったとされる、三峯城は標高約４００ｍの山頂に南北朝戦乱で築かれました。金谷、西袋、上戸口方面から伸びた尾根が合流していることからこの名がきたと言われています。山頂からは一乗谷を望むことができます。また、三峯山にある大銀杏は、泰澄大師が植えたとされ、「乳授けの伝説」が伝わる樹齢数百年の大銀杏。５８豪雪により折れてしまったが、奇跡的に再生成長を続けています。",
-      "address":"鯖江市上戸口町",
-      "longitude":"136.270453",
-      "latitude":"35.977249",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_033.jpg"
-   },
-   {
-      "id":"57",
-      "name":"三里山",
-      "description":"鯖江市のどこからでも眺められ、四季を通じて春の新緑、秋の紅葉と様々な変化のある姿を見せてくれます。",
-      "address":"鯖江市下新庄町",
-      "longitude":"136.225458",
-      "latitude":"35.937776",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_034.jpg"
-   },
-   {
-      "id":"58",
-      "name":"文殊山",
-      "description":"北部にある標高約360ｍの山で、山頂に安置されている文殊菩薩が山名の由来となっています。古来より信仰の対象となってきた霊山で、遊歩道も整備されています。",
-      "address":"鯖江市南井町、大正寺町",
-      "longitude":"136.223783",
-      "latitude":"35.990083",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_035.jpg"
-   },
-   {
-      "id":"59",
-      "name":"三六温泉　神明苑",
-      "description":"天然温泉「三六の湯」は、神経痛・疲労回復に効果あり。寛ぎの空間で、ゆったりリフレッシュしてみては。体育館やフィットネスルームも併設しており、テニスや各種トレーニングマシン、エアロビ・ヨガなどのプログラムも楽しめます。",
-      "address":"鯖江市神明町2-8-4",
-      "longitude":"136.183041",
-      "latitude":"35.972545",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_040.jpg"
-   },
-   {
-      "id":"61",
-      "name":"吉川サイクリングロード",
-      "description":"田園風景や日野川を渡る橋、駅舎跡などを自転車で駆け抜けます。橋の道面には鯖江をイメージするイラストが描かれているのも楽しい。",
-      "address":"鯖江市吉川地区一帯",
-      "longitude":"136.16772",
-      "latitude":"35.955941",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_042.jpg"
-   },
-   {
-      "id":"62",
-      "name":"西番スポーツセンター",
-      "description":"県内ではめずらしく屋内テニスコートが4面あり、雨の日でもプレーすることができます。また、汗をかいた後は、クリーンセンターの余熱を利用したお風呂で疲れを癒してください。",
-      "address":"鯖江市西番町15-27",
-      "longitude":"136.159481",
-      "latitude":"35.991106",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_043.jpg"
-   },
-   {
-      "id":"64",
-      "name":"GLASS GARDEN（グラスガーデン）",
-      "description":"県内最大規模の５０００点以上の品揃えを誇る「グラスガーデン｣。お値打ちのフレームからハイブランド、有名人御用達のインポートコレクションまで幅広い品揃えです。また、ショップの他にもアンティークめがねのコレクション展示や地元特産品の販売、休憩スペースも併設されゆっくりくつろいで頂けます。",
-      "address":"鯖江市神中町2丁目907-1",
-      "longitude":"136.192582",
-      "latitude":"35.971303",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_002.jpg"
-   },
-   {
-      "id":"65",
-      "name":"GATHRED（ギャザード）",
-      "description":"㈱長井のアンテナショップです。ファッショナブルな店内には長井発のブランド「THE291」、「ネクステンス」や「ラプタム」、「ウォーヴォ」、「ネオカーボン」など、人気ブランドがずらりと並びます。 また、最高品質とデザインを実現した「CRETE」は“眼鏡フレームの聖地”鯖江のギャザードでしか買えません。",
-      "address":"鯖江市吉江町413",
-      "longitude":"136.175371",
-      "latitude":"35.984337",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_003.jpg"
-   },
-   {
-      "id":"66",
-      "name":"田中眼鏡",
-      "description":"オーダーメイドめがね製作に対応してくれるお店。様々な板の生地から気に入ったものを選んで、世界に一つだけの自分のめがねが作れます。フレームデザインは相談にのってもらえるので安心です。また取り扱う商品は、めがねの産地さばえでつちかった目利きのオーナーが、厳選をした品揃え。さばえだからこそ作れるキラリと光る眼鏡に出会えますよ。",
-      "address":"鯖江市神明町1丁目2-8",
-      "longitude":"136.180878",
-      "latitude":"35.969875",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_004.jpg"
-   },
-   {
-      "id":"67",
-      "name":"田中眼鏡本舗　浪漫堂",
-      "description":"木・セルのフルオーダーや、サンプラチナ、ステンレスのセミ・オーダーメイドなど、いろいろな種類のオーダーメイドに対応してくれるお店。国産にこだわり、流行だけにとらわれることなく、長く使い続けられる品質やデザインのめがねが揃います。",
-      "address":"鯖江市上河端町18-4-6",
-      "longitude":"136.195566",
-      "latitude":"35.953291",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_005.jpg"
-   },
-   {
-      "id":"70",
-      "name":"自然工房　与十郎",
-      "description":"こだわりの品揃えで、手軽に楽しめる漆器を中心に食器やインテリア用品など多彩にそろえています。また、併設の喫茶コーナーでは漆器をおしゃれに使用しています。ネットショッピングもしております。",
-      "address":"越前市赤坂町3-22-1",
-      "longitude":"136.244611",
-      "latitude":"35.948042",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_102.jpg"
-   },
-   {
-      "id":"71",
-      "name":"漆遊館",
-      "description":"料亭・ホテル・レストラン向けの高級越前漆器から、祝儀用品、ギフト用品からふだん使いの用品まで幅広い品揃えで展示・販売しています。また、漆器工房の見学コーナーや体験工房もあります。",
-      "address":"鯖江市中野町256-1",
-      "longitude":"136.220993",
-      "latitude":"35.948611",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_103.jpg"
-   },
-   {
-      "id":"72",
-      "name":"ロブジェ",
-      "description":"ロブジェは(有)山口工芸が手がけるブランド「Hacoa(ハコア) 」のセレクトショップです。越前漆器の職人技が生み出した新しい作品は、木のぬくもりとOA製品がひとつになったり、何気ない日用品が木とのコラボにより思いがけない商品になったり、見るだけで楽しいお店です。ネットショップも充実の品揃えです。",
-      "address":"鯖江市西袋町503",
-      "longitude":"136.276594",
-      "latitude":"35.954552",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_104.jpg"
-   },
-   {
-      "id":"73",
-      "name":"ヤマト工芸",
-      "description":"時計やリモコンラックやダストボックスなど、カラフルに並ぶ商品は、越前漆器の職人がひとつひとつ手づくりしたものです。素地づくりの技とデザイナーとのユニークなコラボレーション商品は、品定めも楽しい時間です。主に、ネット販売をしています。またオリジナルブランドの雑貨商品は、日本のリードメーカーとして世界にも輸出され、徐々に伸びています。",
-      "address":"鯖江市莇生田町19-40",
-      "longitude":"136.275667",
-      "latitude":"35.945448",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_105.jpg"
-   },
-   {
-      "id":"74",
-      "name":"高野漆額店",
-      "description":"\"「沈金」で描かれた漆のアート作品に出会える店。それぞれの作品が見事な技法で描かれています。\"\"本物の美″を感じにぜひ立ち寄ってください。さまざまなご要望に応じてくれますので、ご相談ください。\"",
-      "address":"鯖江市片山町13-19",
-      "longitude":"136.273665",
-      "latitude":"35.949335",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_106.jpg"
-   },
-   {
-      "id":"75",
-      "name":"漆器のお店　うるし工芸　藤",
-      "description":"越前漆器の製造・直販店です。器だけでなく、漆家具やおしゃれなインテリアなど、常時８００点の商品がずらりと並んでします。また、オーダーメイドにも対応してくれるお店です。国道８号線・サンドーム福井東に直販ショップがあります。JR鯖江駅からは車で５分です。",
-      "address":"鯖江市定次町342-1",
-      "longitude":"136.190701",
-      "latitude":"35.930848",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_107.jpg"
-   },
-   {
-      "id":"76",
-      "name":"atakaya's gallery　(あたかや)",
-      "description":"漆器の魅力を現代の生活の中でもっと楽しんで欲しいと、。「和」や「伝統工芸」のすばらしい機能性や美しさだけにしばられる事なく、さらにそこから現代の生活にフィットできる要素をスポイルし、私たちの感性をフィルターに「温故知新」の理念を持って「現代の個性的な生活を演出するアイテム」 をコンセプトにデザインされています。",
-      "address":"鯖江市西袋町43-11",
-      "longitude":"136.276431",
-      "latitude":"35.952547",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_108.jpg"
-   },
-   {
-      "id":"77",
-      "name":"漆器さじべえ",
-      "description":"鯖江市河和田町の地で、１３０年余り前に家主であった澤田佐治兵衛が漆器の製造販売を創めるようになりました。ホテル割烹旅館用の業務用漆器から、記念品、座卓、飾り棚などの美術漆器まで幅広く扱っております。汁椀・お箸・カップ・お盆などに、お名前や記念日メッセージなどの文字入れも承っております。",
-      "address":"鯖江市河和田町17-8-1",
-      "longitude":"136.271091",
-      "latitude":"35.95115",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_109.jpg"
-   },
-   {
-      "id":"79",
-      "name":"亀屋萬年堂",
-      "description":"創業８０年の和洋菓子店。ここのワッフルは絶品。創業より味と製法を守り続ける素朴な味は、どこか懐かしくクセになるおいしさです。",
-      "address":"鯖江市本町１丁目2-13",
-      "longitude":"136.185983",
-      "latitude":"35.945123",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_202.jpg"
-   },
-   {
-      "id":"80",
-      "name":"ベルジェ・ダルカディ弁慶堂",
-      "description":"売り切れ必至の人気商品「朝焼きロールケーキ」は、しっとりもちもちとした生地に、甘さ控えめの上質な味わいのクリームに包まれ、いくらでも食べれてしまいそう。また、２種類のシュークリーム「弁慶のちからこぶ」と「弁慶のなきどころ」も人気商品です。そのほか、季節のフルーツを使ったケーキや和菓子もおいしい。",
-      "address":"鯖江市柳町4丁目1-16",
-      "longitude":"136.190907",
-      "latitude":"35.946577",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_203.jpg"
-   },
-   {
-      "id":"81",
-      "name":"鯖江菓撰　栄進堂　本店",
-      "description":"季節ごとに趣向をこらしたスイーツを提供する地元の人気店。「ちかもんくん」、「越前めがね」、など鯖江土産のお菓子は、鯖江みやげにもおすすめ。また、濃厚なチーズの風味を楽しめる「チーズスティック」は、名誉総裁賞を受賞した商品です。その他にも、季節のフルーツを使ったケーキや、店長一押しのスプーンで食べる「純なまドーナツ」もあります。もっちりのスポンジの上に、柔らかいフルーツのムースがかかる新食感のデザートで、季節によって色んな味が楽しめます。",
-      "address":"鯖江市本町２丁目3-3",
-      "longitude":"136.184235",
-      "latitude":"35.945331",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_204.jpg"
-   },
-   {
-      "id":"82",
-      "name":"鯖江菓撰　栄進堂　丸山店　",
-      "description":"季節ごとに趣向をこらしたスイーツを提供する地元の人気店。「ちかもんくん」、「越前めがね」、など鯖江土産のお菓子は、鯖江みやげにもおすすめ。また、濃厚なチーズの風味を楽しめる「チーズスティック」は、名誉総裁賞を受賞した商品です。その他にも、季節のフルーツを使ったケーキや、店長一押しのスプーンで食べる「純なまドーナツ」もあります。もっちりのスポンジの上に、柔らかいフルーツのムースがかかる新食感のデザートで、季節によって色んな味が楽しめます。",
-      "address":"鯖江市丸山1-107",
-      "longitude":"136.18146",
-      "latitude":"35.978149",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_204.jpg"
-   },
-   {
-      "id":"83",
-      "name":"福寿堂",
-      "description":"西山公園近く、サバエ・シティーホテルの隣にある和洋菓子のお店。鯖江産のこだわりの卵を贅沢に使った「福寿堂こだわりの生ロールケーキ」やラムレーズンとバタークリームをココア生地でサンドした｢スクエア｣などが人気。また、西山動物園のレッサーパンダにちなんだ商品や、さばえのおみやげスイーツがいっぱい揃っています。",
-      "address":"鯖江市桜町２丁目6-12",
-      "longitude":"136.181119",
-      "latitude":"35.946836",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_205.jpg"
-   },
-   {
-      "id":"84",
-      "name":"うさぎや",
-      "description":"材料はできるかぎり国内産を使用して、ひとつひとつ ていねいに、心をこめて手作りしています。看板商品は「もちパイ」。外はさくさく、中はもちもち、パイ生地とお餅とあんこが絶妙にマッチして美味しい。いろいろな味のあんのどら焼きも人気商品です。",
-      "address":"鯖江市持明寺町5-10-1",
-      "longitude":"136.147629",
-      "latitude":"35.963594",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_206.jpg"
-   },
-   {
-      "id":"85",
-      "name":"昭和堂",
-      "description":"創業７０年以上の歴史ある和菓子屋。JR鯖江駅から徒歩５分。鯖江銘菓「間部もなか」や「五万石」などを取り扱っているので、おみやげ選びにお立ち寄りください。また、洋菓子も手掛け、「レアチーズケーキ」や「生ロールケーキ」は人気商品です。",
-      "address":"鯖江市本町１丁目1-21",
-      "longitude":"136.185992",
-      "latitude":"35.944095",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_207.jpg"
-   },
-   {
-      "id":"86",
-      "name":"やまはつ",
-      "description":"「おいしい幸せ、鯖江から・・・」を発信し続けるお菓子屋さん。地元で人気の「スフレロール」は、独自の製法で焼き上げたふわふわのスポンジと上品な甘さのクリームがマッチしていくらでも食べれそう。プレーン、抹茶、チョコの三種の味に加えて、春はにイチゴなど、季節限定の味が楽しめます。",
-      "address":"鯖江市北野町２丁目19-20",
-      "longitude":"136.180464",
-      "latitude":"35.966828",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_208.jpg"
-   },
-   {
-      "id":"87",
-      "name":"福音堂",
-      "description":"うるしの里にある和菓子屋さん。産地ならではのお菓子「お椀もなか」やめがねの形をした「愛eyeもなか」を販売しているほか、地元のお米を使ったお菓子などもあります。うるしの里会館のすぐ近くにあるので、おみやげにぜひお立ち寄りください。",
-      "address":"鯖江市河和田町19-1-9",
-      "longitude":"136.274049",
-      "latitude":"35.951459",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_209.jpg"
-   },
-   {
-      "id":"88",
-      "name":"Little Deco",
-      "description":"サンドーム福井近くにあるヨーロッパ調のすてきな外観のケーキやさん。店内には、生菓子から焼き菓子、デコレーションケーキなど、パティシエが心を込めて作ったお菓子が並びます。店内のカフェスペースで食べることもできます。",
-      "address":"鯖江市宮前２丁目1801-2",
-      "longitude":"136.187135",
-      "latitude":"35.932194",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_210.jpg"
-   },
-   {
-      "id":"89",
-      "name":"Ben Famille",
-      "description":"おしゃれなコテージ風の外観のケーキ屋さん。手作りのケーキや焼き菓子は、お持ち帰りはもちろん、併設のすてきなカフェで食べることができます。夜遅くまで営業しているのがもとても魅力です。オーダーでかわいいデコレーションケーキも作ってくれますよ。",
-      "address":"鯖江市鳥羽３丁目1133-2",
-      "longitude":"136.186479",
-      "latitude":"35.989122",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_211.jpg"
-   },
-   {
-      "id":"90",
-      "name":"けーきやYANAGIMOTO",
-      "description":"ログハウス風の外観がとてもかわいい洋菓子専門店です。さらに店内には、かわいいお菓子がたくさん並び、まるでお菓子の国に訪れたようにワクワクする空間が広がります。お菓子の味はもちろん、ラッピングにもこだわっているそう。また、吹き抜けの２Fカフェスペースでは、スイーツを食べることもできます。",
-      "address":"鯖江市住吉町３丁目1-30",
-      "longitude":"136.179707",
-      "latitude":"35.943652",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_212.jpg"
-   },
-   {
-      "id":"91",
-      "name":"ペルシュ",
-      "description":"鯖江で人気のケーキ屋さんです。常時店内にはケーキ、焼き菓子あわせて100アイテムほど並び、中でも季節のフルーツをたっぷり使った生ケーキが自慢です。　毎月、旬のフルーツを使ったケーキが　数種類でて楽しみ。店内の一角にある喫茶スペースでケーキを食べることもできます。",
-      "address":"鯖江市神中町２丁目407-2",
-      "longitude":"136.188416",
-      "latitude":"35.972575",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_213.jpg"
-   },
-   {
-      "id":"92",
-      "name":"Sloeberry",
-      "description":"フルーツ専門店プロデュースのスイーツ＆自然派カフェ。1階には、生ジュースコーナーがあり、地元農家から直接仕入れた新鮮な野菜果物を絞って野菜ソムリエおすすめの一品を味わえます。２階のカフェでは、体を考えた野菜たっぷりのベジタブルランチがお勧めです。こちらは、成人が一日に必要な野菜の量350gの半分の量が採れるように、季節の野菜を盛りだくさんに使ったプレートランチです。",
-      "address":"鯖江市水落町２丁目28-25",
-      "longitude":"136.185895",
-      "latitude":"35.963919",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_214.jpg"
-   },
-   {
-      "id":"93",
-      "name":"のだや餅舗",
-      "description":"鯖江の街なか商店街にある地元に愛されるお餅屋さん。注文を受けてから作ってくれる「あべかわ餅」は、やわらかなお餅にきなこと黒蜜がたっぷりかかっておすすめの絶品。また、店内は食堂になっており、食事もできます。",
-      "address":"鯖江市本町４丁目3-22",
-      "longitude":"136.185459",
-      "latitude":"35.949442",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_215.jpg"
-   },
-   {
-      "id":"94",
-      "name":"よしむらのおかき",
-      "description":"福井の代表的なおみやげのひとつです。地元の人たちにも人気の商品で、店内には数十種類のおかきがずらりと並んでいます。『得助さん　サラダ鬼っ子』は一番人気商品で、ほどよく効いた塩味がお米の味を引き立てます。",
-      "address":"鯖江市丸山町4-8-30",
-      "longitude":"136.180716",
-      "latitude":"35.982892",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_216.jpg"
-   },
-   {
-      "id":"95",
-      "name":"安価堂",
-      "description":"昭和元年創業の歴史ある和菓子屋さん。旬の素材を使った四季折々のお菓子が自慢です。無添加のやさしい甘さの和菓子をどうぞ。西山公園のレッサーパンダが刻印された「パンダどらやき」大きな栗がまるごと一個入っていてボリュームたっぷり。小倉あん、柚子あん、栗入りの３種があります。",
-      "address":"鯖江市神中1丁目2-15",
-      "longitude":"136.195615",
-      "latitude":"35.968807",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_217.jpg"
-   },
-   {
-      "id":"96",
-      "name":"プリンセス＆プリンス",
-      "description":"サバエ・シティーホテルの１Fにあるプリン専門店です。旬の素材を使ったオススメの手作りプリンが常時１０種類以上揃っています。どれもこだわりの品ですが、中でも「とまとのプリン」は、目にも鮮やかなルビー色とクセになる味わい深い味です。また、インド王室御用達のアルフォンソマンゴーを贅沢に６０%も使用した「マンゴーの王様プリン」は、究極にとろとろな舌ざわりで、お取り寄せでも大人気の一品です。",
-      "address":"鯖江市桜町3丁目3-3（サバエ･シティーホテル内）",
-      "longitude":"136.181237",
-      "latitude":"35.947158",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_218.jpg"
-   },
-   {
-      "id":"97",
-      "name":"観光案内所",
-      "description":"JR鯖江駅構内にある観光案内所では、鯖江の観光パンフレットや地図などが設置され、鯖江の情報が収集できます。また、ベテランのガイドが常駐しています。気軽にお立ち寄りください。おみやげの販売も行なっています。",
-      "address":"鯖江市日の出町1-2",
-      "longitude":"136.188683",
-      "latitude":"35.942997",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_951.jpg"
-   },
-   {
-      "id":"98",
-      "name":"和（なごみ）",
-      "description":"市民ホールつつじの１階にあるカフェ。市民の憩いの場です。まち歩きの休憩においしいコーヒーはいかが？　さばえの特産物の販売も行っています。",
-      "address":"鯖江市本町2-2-16",
-      "longitude":"136.185072",
-      "latitude":"35.946292",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_952.jpg"
-   },
-   {
-      "id":"99",
-      "name":"久保田酒店",
-      "description":"JR鯖江駅前すぐにある酒店です。鯖江の酒「梵」をはじめ、志を同じくする四件の蔵元のお酒を本醸造から純米大吟醸まで取り揃えています。また、越前焼の酒器やお酒アイス、お酒ケーキなど、お酒を楽しむための商品もたくさんあります。",
-      "address":"鯖江市旭町1-1-4",
-      "longitude":"136.18776",
-      "latitude":"35.943508",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_953.jpg"
-   },
-   {
-      "id":"100",
-      "name":"加藤吉平商店",
-      "description":"創業万延元年。両替商・庄屋だった先祖が日本酒製造を始めて、現在１１代目となる老舗で、無添加の純米酒のみを造り続ける、鯖江が誇る酒蔵です。銘柄「梵」「日本の翼」は、日本国の重要な席をはじめ、政府専用機の正式機内酒となっていて、ＪＡＬ国際線・国内線ファーストクラスでは超ＶＩＰ用として採用されています。「梵」は、現在世界９０数ヶ国で正式商標登録されていて、そのうち３０数ヶ国以上に輸出されているなど、国内から世界中に日本の酒文化を発信し続けています。",
-      "address":"鯖江市吉江町1-11",
-      "longitude":"136.170193",
-      "latitude":"35.986403",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_954.jpg"
-   },
-   {
-      "id":"101",
-      "name":"与十郎",
-      "description":"こだわりの品揃えで、手軽に楽しめる漆器を中心に食器やインテリア用品など多彩にそろえています。また、併設の喫茶コーナーでは漆器をおしゃれに使用しています。",
-      "address":"越前市赤坂町3-22-1",
-      "longitude":"136.24465",
-      "latitude":"35.948023",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_001.jpg"
-   },
-   {
-      "id":"113",
-      "name":"スイーツ＆カフェ　Ｂｌａｎｃ（ぶらん）",
-      "description":"浅水川沿いの住宅街に建つ、隠れ家風のカフェ。ここは同じ鯖江市内にある「鯖江菓子工房Yamahatsu」が2010年にオープンしたカフェ。Yamahatsuのスイーツはもちろん、カフェだけのデザートメニューも楽しめる。ゆったりとした空間で、贅沢の時間を過ごしてみては。",
-      "address":"鯖江市丸山町2丁目7-13",
-      "longitude":"136.183565",
-      "latitude":"35.98379",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_012.jpg"
-   },
-   {
-      "id":"114",
-      "name":"極（きわみ）",
-      "description":"ＪＲ鯖江駅を出てすぐ、観光案内所の目の前にある甘味茶屋。時代劇に出てくるような団子屋をイメージしたそう。",
-      "address":"鯖江市日の出町2-1　駅前ビル1F",
-      "longitude":"136.188244",
-      "latitude":"35.94285",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_013.jpg"
-   },
-   {
-      "id":"120",
-      "name":"大黒屋",
-      "description":"江戸後期より上流階級の茶の湯等に用いられていた「菜花糖（さいかとう）」で知られる老舗。",
-      "address":"鯖江市本町２丁目1-13",
-      "longitude":"136.185523",
-      "latitude":"35.946253",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_019.jpg"
-   },
-   {
-      "id":"122",
-      "name":"ヨーロッパン･キムラヤ",
-      "description":"日本で１番堅いパン「軍隊堅麺麭（ぐんたいかたぱん）」大東亜戦争中当時、鯖江連帯の兵隊さんが当店で軍人用のパンを焼いていたものをそのまま復元！とても堅いのでかなづち等で割ってほおばってください。保存食にも最適です。ケーキショップのようにショーケースにパンが並び、スタッフとの会話を通した販売スタイルで、お客さんの好みにぴったり合ったパンを選んでくれたり、美味しい食べ方を教えてくれます。",
-      "address":"鯖江市旭町2-3-20",
-      "longitude":"136.187179",
-      "latitude":"35.946183",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_135.jpg"
-   },
-   {
-      "id":"123",
-      "name":"ベーカリーショップ上坂",
-      "description":"鯖江で昔から愛されるパン屋さん。懐かしい美味しさに出会える。",
-      "address":"鯖江市 屋形町3-3",
-      "longitude":"136.183156",
-      "latitude":"35.943977",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_203.jpg"
-   },
-   {
-      "id":"124",
-      "name":"ブーランジュリー　ル・パン",
-      "description":"真っ赤な屋根が一際目を引く、さばえの人気パン屋さん。",
-      "address":"鯖江市丸山町2-7-1",
-      "longitude":"136.184966",
-      "latitude":"35.983277",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_204.jpg"
-   },
-   {
-      "id":"125",
-      "name":"琥八（こはち）",
-      "description":"安心でおいしいパンを届けたいと極力添加物を使用しない商品を提供しているパン屋さん。",
-      "address":"鯖江市三六町２－５－１６小林ビル１階",
-      "longitude":"136.178588",
-      "latitude":"35.97263",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_205.jpg"
-   },
-   {
-      "id":"126",
-      "name":"マツヤベーカリー",
-      "description":"お惣菜パンの種類が豊富で、どれもおいしいと人気です。マツヤベーカリージャムおじさんが出迎えてくれるよ。",
-      "address":"鯖江市丸山町１丁目３０５",
-      "longitude":"136.179187",
-      "latitude":"35.979679",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_206.jpg"
-   },
-   {
-      "id":"127",
-      "name":"お食事の店　味見屋",
-      "description":"鯖江の街なかにある100年以上続く老舗食堂。メニューのどれもが懐かしい味で、優しい味わいは母の味のようです。人気メニューは「カレーうどん」。おなかが空いたらぜひ立ち寄ってください。",
-      "address":"鯖江市本町2丁目2-19",
-      "longitude":"136.185214",
-      "latitude":"35.946023",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_301.jpg"
-   },
-   {
-      "id":"128",
-      "name":"ヨーロッパ軒　神明分店",
-      "description":"越前カニ、越前そばに並ぶ福井の名物ソースカツ丼の老舗。創業は大正時代で、初代高畠増太郎氏がソースカツ丼を考案。やわらかジューシーなトンカツに、ウスターソースがベースの特製ソースそたっぷり絡めたご飯が食欲をそそります。福井県内に約20店舗展開し、各店独自のメニューがある。",
-      "address":"鯖江市水落町1丁目1239",
-      "longitude":"136.175934",
-      "latitude":"35.962791",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_302.jpg"
-   },
-   {
-      "id":"129",
-      "name":"富士屋会館",
-      "description":"西山公園近くにあり、婚礼、宴会、法事など様々対応してくれます。",
-      "address":"鯖江市桜町２丁目-２-２２",
-      "longitude":"136.180041",
-      "latitude":"35.945368",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_303.jpg"
-   },
-   {
-      "id":"130",
-      "name":"釜めし専門店　釜蔵",
-      "description":"福井県産コシヒカリと日本海の旬な素材を活かした釜めしの専門店。注文を受けてから炊き上げるので、ご飯はふっくら炊きたてを味わえます。釜めしならではのおこげも香ばしくて美味しいです。",
-      "address":"鯖江市柳町4-521",
-      "longitude":"136.193048",
-      "latitude":"35.947856",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_304.jpg"
-   },
-   {
-      "id":"131",
-      "name":"わらび　鯖江店",
-      "description":"旬の魚と旨い酒が味わえる居酒屋。新鮮なお刺身や、海鮮料理な豊富なメニューを揃えています。",
-      "address":"鯖江市小黒町1-5-16",
-      "longitude":"136.176349",
-      "latitude":"35.951044",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_401.jpg"
-   },
-   {
-      "id":"132",
-      "name":"當田屋",
-      "description":"鯖江のまちなかにある老舗料亭。元気の良い若女将が迎えてくれます。旬の食材を使った料理はもちろん、器にもこだわった趣あるお店です。",
-      "address":"鯖江市本町1-4-10",
-      "longitude":"136.184444",
-      "latitude":"35.945179",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_402.jpg"
-   },
-   {
-      "id":"133",
-      "name":"やきとりの名門　秋吉　鯖江店",
-      "description":"\"福井県は、実は焼き鳥消費量全国No",
-      "address":"1。それを支えるのが、全国に約120店を展開する秋吉で、福井には約30店舗ある。毎日一本一本手作りされる串を、じっくり炭火焼にして秘伝のタレを絡めた焼き鳥は、一般的なものよりは少し小ぶりで一人前は5本から。お店に入れば、男性なら「社長！」、女性なら「お嬢さん！」と威勢のいい掛け声が出迎えてくれる。持ち帰りも出来る。\"",
-      "longitude":"136.193016",
-      "latitude":"35.94276",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/g-244.gif"
-   },
-   {
-      "id":"134",
-      "name":"やきとりの名門　秋吉　神明店",
-      "description":"\"福井県は、実は焼き鳥消費量全国No",
-      "address":"1。それを支えるのが、全国に約120店を展開する秋吉で、福井には約30店舗ある。毎日一本一本手作りされる串を、じっくり炭火焼にして秘伝のタレを絡めた焼き鳥は、一般的なものよりは少し小ぶりで一人前は5本から。お店に入れば、男性なら「社長！」、女性なら「お嬢さん！」と威勢のいい掛け声が出迎えてくれる。持ち帰りも出来る。\"",
-      "longitude":"136.175935",
-      "latitude":"35.969939",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/g-244.gif"
-   },
-   {
-      "id":"135",
-      "name":"ぬ乃屋",
-      "description":"情緒ある〈さばえ歴史の道〉沿いある老舗料亭。笑顔のステキな若女将が出迎えてくれるあたたかな雰囲気のお店で、会席料理からお子様メニューまで用途に応じて対応してくれます。予約すればランチもOKです。",
-      "address":"鯖江市鯖江市水落町3－2－17",
-      "longitude":"136.183189",
-      "latitude":"35.967948",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_404.jpg"
-   },
-   {
-      "id":"136",
-      "name":"創作和食ダイニング　一の丸",
-      "description":"提携する魚屋から毎日仕入れている新鮮な魚介類が自慢の和食ダイニング。ズワイ蟹ご飯や旬のお造り盛り合わせなど鮮度抜群の海鮮料理と、品揃え豊富な酒類をこころゆくまで楽しんでみては。新作の創作料理を月替わりで出しているのでそちらも要チェック。",
-      "address":"鯖江市北野町2-9-3",
-      "longitude":"136.176023",
-      "latitude":"35.967171",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_405.jpg"
-   },
-   {
-      "id":"137",
-      "name":"当り矢",
-      "description":"幅広いメニューを揃えている居酒屋さん。もともと食堂だったので、定食メニューも豊富。ランチの日替わり定食は、ボリュームたっぷりでお得なセットでおすすめです。",
-      "address":"鯖江市三六町2?1?3",
-      "longitude":"136.180158",
-      "latitude":"35.972354",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_406.jpg"
-   },
-   {
-      "id":"138",
-      "name":"渕上食堂",
-      "description":"住宅街のなかにある隠れ家的なお店で、焼肉から、居酒屋料理、新鮮な刺身など豊富なメニューを取り揃えている。",
-      "address":"鯖江市新横江2-5-2-8",
-      "longitude":"136.198386",
-      "latitude":"35.941575",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_407.jpg"
-   },
-   {
-      "id":"139",
-      "name":"かんきち",
-      "description":"水産会社直営ならではの新鮮なお寿司と居酒屋メニューが人気のお店。質のいい活魚や刺身、寿司などの海の幸やステーキ、おろしそばなどたっぷり欲張りなプランもある。",
-      "address":"鯖江市三六町1-14-6",
-      "longitude":"136.176399",
-      "latitude":"35.971177",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_408.jpg"
-   },
-   {
-      "id":"140",
-      "name":"割烹よしのり",
-      "description":"四季折々の美味しい食材をふんだんに使った料理を楽しめるお店。会席料理なども対応してくれるので、冠婚葬祭や会合など様々な用途にあわせてご利用いただけます。",
-      "address":"鯖江市丸山町１丁目3-13",
-      "longitude":"136.179754",
-      "latitude":"35.980542",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_409.jpg"
-   },
-   {
-      "id":"141",
-      "name":"豚ちんかん",
-      "description":"美味しい豚料理を低価格で食べられるお店。しゃぶしゃぶや串揚げ、石焼きなど、様々な食べ方で旨い豚肉を味わえる。",
-      "address":"鯖江市三六町1-14-7",
-      "longitude":"136.176053",
-      "latitude":"35.970872",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_410.jpg"
-   },
-   {
-      "id":"142",
-      "name":"悠膳",
-      "description":"落ち着いた雰囲気の中で食事と会話を愉しむ、大人のための和食店。「居酒屋より落ち着いた空間で、料亭よりも手頃な価格でお客様に料理を愉しんで頂く」のがコンセプト。店内はカウンター席と４室の個室のみのゆったりとした造りで、時間や周りを気にせず食事を堪能できる。料理 は揚げたての天ぷらと鮮度抜群の刺身料理、他にも旬の食材で作る数々の品で、至るところに、こだわりやもてなしの心が感じられるこのお店では、きっと上質なひと時が過ごせるはずです。",
-      "address":"鯖江市糺町33-5-3",
-      "longitude":"136.175956",
-      "latitude":"35.973332",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_411.jpg"
-   },
-   {
-      "id":"143",
-      "name":"藤の家",
-      "description":"さばえのまちなかの石畳通りにたたずむ趣ある老舗料亭。明るい女将さんがあたたかく迎えてくれます。店内は個室と大広間の予約制で、ゆったりと四季折々のこだわりの料理をお楽しみいただけます。",
-      "address":"鯖江市旭町2丁目2?4",
-      "longitude":"136.18726",
-      "latitude":"35.945165",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_412.jpg"
-   },
-   {
-      "id":"144",
-      "name":"一乃松",
-      "description":"数々のメディアに取り上げられ、全国的に人気の高い「一乃松」の焼き鯖寿し。こちらのでは、焼き鯖寿しはもちろんのこと、美しく奥の深い四季の献立を味わうことが出来ます。みずみずしいカニ身をたっぷりのせ、カニ、イクラ、たまごを盛り込んだ贅沢な「越前かに寿し」や、福井県産若狭牛を自家製タレでつけ込み網焼きにしてのせた「牛棒寿し」など、一度は食べてみたい贅沢なお寿司もここにしかない味わいです。",
-      "address":"鯖江市下河端町4-6-1",
-      "longitude":"136.188025",
-      "latitude":"35.966375",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_413.jpg"
-   },
-   {
-      "id":"145",
-      "name":"料亭　中松",
-      "description":"かつての花街の面影を感じる、閑静な石畳小路に佇む料亭。四季折々の食材を、季節感、客の好み、会の趣向等によってアレンジしてくれる。落ち着いた個室でゆったりと、意匠をこらした美味料理を味わってみては。",
-      "address":"鯖江市旭町１丁目５?３",
-      "longitude":"136.187231",
-      "latitude":"35.944464",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_414.jpg"
-   },
-   {
-      "id":"146",
-      "name":"ほおずき",
-      "description":"市場で仕入れる鮮度のいい北陸の魚と、こうのとりの飛んでくる白山で作られるお米が自慢。おいしいシャリのお寿司は是非味わって頂きたい逸品です。また、焼き鳥や唐揚げなど居酒屋メニューも揃っています。お店のブログでは、仕入れた食材やおいしそうなものが紹介されていて要チェックです。",
-      "address":"鯖江市東鯖江1-4-21",
-      "longitude":"136.196227",
-      "latitude":"35.945302",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_415.jpg"
-   },
-   {
-      "id":"147",
-      "name":"寿司ダイニング　ひょうたん",
-      "description":"店主が毎朝市場へ出かけ見極めた、新鮮な食材が自慢のお店。ランチメニューも豊富で、女性のお客さんも入りやすい雰囲気のお寿司屋さん。おいしいお寿司を味わってもらうために、お米や醤油もごだわりの厳選したものを提供している。",
-      "address":"鯖江市水落町1丁目14-13",
-      "longitude":"136.175958",
-      "latitude":"35.959066",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_416.jpg"
-   },
-   {
-      "id":"148",
-      "name":"勇寿し",
-      "description":"越前漁港で直に見極めて仕入れた新鮮な魚を味わえるお店。コメは福井県の契約農家から直接購入している。なんとお店のホームページで、おすすめのネタを毎日更新しているので、行く前に確認することができる。価格も良心的でリピーターのお客さんも多いとか。",
-      "address":"鯖江市日の出町５－２４",
-      "longitude":"136.186364",
-      "latitude":"35.943324",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_417.jpg"
-   },
-   {
-      "id":"149",
-      "name":"廻る寿司　与加呂",
-      "description":"鯖江で長年愛される魚屋直営の回転寿司。自慢の「中トロ」をはじめ、「マグロの目玉の煮付け」など稀少なネタも食べられる。和室もあるので、宴会にも対応してくれる。",
-      "address":"鯖江市有定3丁目2-9",
-      "longitude":"136.176533",
-      "latitude":"35.948192",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_418.jpg"
-   },
-   {
-      "id":"150",
-      "name":"海鮮アトム　鯖江店",
-      "description":"福井で長年愛される回転寿司、海鮮アトム。産地や漁法まで吟味して魚を選ぶ。特に地元の味にはこだわりを持っており、厳選された食材を味わうことができる。毎日ネタによって変わるオススメメニューは要チェックです。",
-      "address":"鯖江市柳町4-714　",
-      "longitude":"136.193352",
-      "latitude":"35.948919",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_419.jpg"
-   },
-   {
-      "id":"151",
-      "name":"佐野蕎麦",
-      "description":"強烈！新感覚、三種類のそば。越前そばの本質を感じるオンリーワンな蕎麦。鮮度高い蕎麦を塩だけでとことん感じて下さい。",
-      "address":"鯖江市本町２丁目２－２２藤田ビル１Ｆ",
-      "longitude":"136.185183",
-      "latitude":"35.94559",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_420.jpg"
-   },
-   {
-      "id":"152",
-      "name":"そば処　二男坊",
-      "description":"石臼で挽いた福井県産のそばを提供するお店。そば以外のメニューやセットも豊富です。",
-      "address":"鯖江市吉江町512",
-      "longitude":"136.174415",
-      "latitude":"35.984794",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_421.jpg"
-   },
-   {
-      "id":"153",
-      "name":"漆里庵",
-      "description":"そば職人には珍しい女性そば職人が腕をふるう創業25年のお店。女性職人ならではの、硬くてコシがあるだけでなくソフトな歯ざわりのよい蕎麦が味わえます。福井名物のおろし蕎麦や、女性に人気の納豆そば、玉子カツ丼もシンプルに美味しいと人気です。",
-      "address":"鯖江市片山町7-1-1",
-      "longitude":"136.274227",
-      "latitude":"35.951391",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_422.jpg"
-   },
-   {
-      "id":"154",
-      "name":"蕎麦　旨酒　亀蔵",
-      "description":"福井県産のそば粉を丁寧に手打ちした十割そばと、地酒や焼酎などの旨い酒や、酒に合わせた豊富な一品メニューを楽しめるお店。こだわりのかきあげは、小エビと貝柱ふんだんに入れてボリュームたっぷりの厚み。木の香りが漂う居心地のいい店内は、カウンター席、テーブル席、座敷があります。",
-      "address":"鯖江市東鯖江1-1-3 MM6ﾋﾞﾙ1F",
-      "longitude":"136.19441",
-      "latitude":"35.943449",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_423.jpg"
-   },
-   {
-      "id":"155",
-      "name":"おはぐろ　そば処・惣平",
-      "description":"鯖江産の蕎麦の実を自作の石臼で挽いたあらびきの蕎麦。昔懐かしいあらびきの家蕎麦を味わえます。福井伝統のおろし蕎麦をぜひ味わってみてください。",
-      "address":"鯖江市吉江町18-31-4",
-      "longitude":"136.171805",
-      "latitude":"35.984362",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_424.jpg"
-   },
-   {
-      "id":"156",
-      "name":"聴琴亭",
-      "description":"おすすめは、聴琴そば。竹筒の器に３種の冷そば（おろしそば・山かけそば・ざるそば）と温そば（あんかけうどん）、お刺身がセットになっています。豪華なお膳で、大名気分が味わえますよ。",
-      "address":"鯖江市下新庄町63-44",
-      "longitude":"136.212371",
-      "latitude":"35.933136",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_037.jpg"
-   },
-   {
-      "id":"157",
-      "name":"タベルナ・ソリッゾ",
-      "description":"こだわりのパスタが自慢のイタリアン。料理を越前漆器で出してもらうこともでき、地元の人にも人気があります。おしゃれで居心地のいいお店です。",
-      "address":"鯖江市有定町3丁目2-28",
-      "longitude":"136.176912",
-      "latitude":"35.947767",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_501.jpg"
-   },
-   {
-      "id":"158",
-      "name":"ヴィヴァーチェ",
-      "description":"白を基調としたおしゃれな雰囲気のイタリアンのお店。もちもち食感の生パスタが人気。前菜からピッツァ、パスタ、リゾット、肉料理など豊富なメニューが揃う。",
-      "address":"鯖江市神明町4-7-21",
-      "longitude":"136.183701",
-      "latitude":"35.980042",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_502.jpg"
-   },
-   {
-      "id":"159",
-      "name":"ピッコロ・コッコロ",
-      "description":"美味しいイタリアンがカジュアルな雰囲気の中で食べられるお店。「手打ちパスタ」や「スモークサーモンとホタテのタルタル」、「黒毛和牛のグリルバルサミコソース」など、素材の良さを活かした料理が自慢。アルコールメニューも豊富に取り揃えています。カウンター席や窓際のカップルシート席があり、お一人様でもホッと落ち着ける雰囲気です。",
-      "address":"鯖江市水落町1-1-19",
-      "longitude":"136.182303",
-      "latitude":"35.959033",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_503.jpg"
-   },
-   {
-      "id":"160",
-      "name":"ピエトロ",
-      "description":"22年3月に移転ＯＰＥＮした生パスタ専門店のお店です。こだわりの生パスタは、もちもちとした食感のあるデュラム小麦粉・卵白・塩で作られた安心な麺。他にも自慢のPizzaや、お手頃価格のコースメニュー、手づくりデザート、イタリアンに合うおいしいワインなどメニュー豊富です。また、職場・友達同士・ご家族etc・・・パーティ・宴会に利用できるお部屋もあります。",
-      "address":"鯖江市有定町1-8 -10",
-      "longitude":"136.176562",
-      "latitude":"35.945037",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_504.jpg"
-   },
-   {
-      "id":"161",
-      "name":"メゾン･ド・レトワール",
-      "description":"世界料理オリンピック銅メダルのカリスマシェフが総料理長を勤めるフレンチレストラン。ネット通販で16万個以上を完売したという大評判の「マンゴーの王様プリン」を、ここではシャーベットや季節のフルーツをのせた贅沢なパフェで味わえます。",
-      "address":"鯖江市桜町3-3-3　サバエシティホテル８階",
-      "longitude":"136.181288",
-      "latitude":"35.947349",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_505.jpg"
-   },
-   {
-      "id":"162",
-      "name":"ビストロ　も・談屋",
-      "description":"隠れ家的なイタリアンのお店。パスタやピザ、キッシュ、サイコロステーキなどメニューも豊富です。",
-      "address":"鯖江市糺町25-12-2",
-      "longitude":"136.173649",
-      "latitude":"35.973119",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_506.jpg"
-   },
-   {
-      "id":"163",
-      "name":"ガッタ・ネーラ",
-      "description":"落ち着いた雰囲気で食事が楽しめる本格的イタリアン。ボリュームたっぷりでお得なランチセットが人気です。",
-      "address":"鯖江市幸町2丁目505－2",
-      "longitude":"136.181342",
-      "latitude":"35.977685",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_507.jpg"
-   },
-   {
-      "id":"164",
-      "name":"クアトロ・スタジォーネ",
-      "description":"さばえの人気イタリアンのお店。冬には、チーズフォンデュもあります。",
-      "address":"鯖江市東鯖江1-1-3",
-      "longitude":"136.194308",
-      "latitude":"35.943436",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_508.jpg"
-   },
-   {
-      "id":"165",
-      "name":"８番らーめん　鯖江店",
-      "description":"昭和42年国道8号線沿いの田んぼの真ん中に、掘っ立て小屋同然の粗末な店構えのラーメン店から始まったという８番ラーメン。今では北陸地方を中心に、関西圏、そして海外でも展開し、約250店の店舗数を誇る。福井人にとっては、小さい頃から食べ親しんだとっても馴染み深い味。8番印のなるとがトレードマーク。",
-      "address":"鯖江市北野町11字10番地",
-      "longitude":"136.175462",
-      "latitude":"35.963748",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_509.jpg"
-   },
-   {
-      "id":"166",
-      "name":"８番らーめん鯖江東店",
-      "description":"昭和42年国道8号線沿いの田んぼの真ん中に、掘っ立て小屋同然の粗末な店構えのラーメン店から始まったという８番ラーメン。今では北陸地方を中心に、関西圏、そして海外でも展開し、約250店の店舗数を誇る。福井人にとっては、小さい頃から食べ親しんだとっても馴染み深い味。8番印のなるとがトレードマーク。",
-      "address":"鯖江市東鯖江1-112",
-      "longitude":"136.194598",
-      "latitude":"35.944599",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_509.jpg"
-   },
-   {
-      "id":"167",
-      "name":"８番らーめん　神明店",
-      "description":"昭和42年国道8号線沿いの田んぼの真ん中に、掘っ立て小屋同然の粗末な店構えのラーメン店から始まったという８番ラーメン。今では北陸地方を中心に、関西圏、そして海外でも展開し、約250店の店舗数を誇る。福井人にとっては、小さい頃から食べ親しんだとっても馴染み深い味。8番印のなるとがトレードマーク。",
-      "address":"鯖江市幸町2-5-23",
-      "longitude":"136.18159",
-      "latitude":"35.977691",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_509.jpg"
-   },
-   {
-      "id":"169",
-      "name":"九龍飯店九龍飯店",
-      "description":"本格中華が味わえるお店。エビチリ、麻婆豆腐などの定番メニューから、北京ダック、フカヒレ、アワビなど高級中華まで堪能できます。お得なランチセットや、点心メニューも豊富で、少量ずついろんな点心を試したい方は点心おまかせセットがおすすめです。",
-      "address":"鯖江市有定町2-4-28-2",
-      "longitude":"136.176268",
-      "latitude":"35.944604",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_511.jpg"
-   },
-   {
-      "id":"170",
-      "name":"御園飯店",
-      "description":"本格的な中華料理をリーズナブルに味わえるお店。豊富なメニューがうれしい。個室もあります。人気の若鶏の唐揚げは、骨付きで旨みたっぷりジューシー。揚げたては最高と人気です。",
-      "address":"鯖江市水落町8-6",
-      "longitude":"136.175107",
-      "latitude":"35.960607",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_512.jpg"
-   },
-   {
-      "id":"171",
-      "name":"タインバーガー",
-      "description":"鯖江の住宅街にあるテイクアウトフード専門店。看板メニューの「三六サラダ焼き」（1個100円）はロースハム、カイワレ、マヨネーズがたっぷりはいってボリューム満点。昭和の頃から地元で愛され続けているこの味は、ここでしか味わえません。もちろんそのほかにも今川焼きや、お好み焼などテイクアウトメニューが揃っています。",
-      "address":"鯖江市三六町1丁目６－７",
-      "longitude":"136.179788",
-      "latitude":"35.971781",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_513.jpg"
-   },
-   {
-      "id":"172",
-      "name":"ミート＆デリカささき",
-      "description":"地元で人気の「サバエドッグ」は、まちなか商店街のお肉屋さんから生まれたB級グルメです。肉巻きおにぎりをフライにしてソースをたっぷりつけたもので、いわゆる“歩きながら食べれるソースかつ丼”。福井産コシヒカリを国産豚肉で巻き、サクサクに揚げて特製ソースにつけてあります。",
-      "address":"鯖江市本町3丁目1-5",
-      "longitude":"136.18556",
-      "latitude":"35.946505",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_514.jpg"
-   },
-   {
-      "id":"174",
-      "name":"たんぽぽ",
-      "description":"越前漆器で出される薬膳カレーが名物。",
-      "address":"鯖江市西袋町３９?１?１",
-      "longitude":"136.185155",
-      "latitude":"35.946266",
-      "thumbnail":"https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_516.jpg"
-   },
-   {
-      "id":"175",
-      "name":""
-   }
+  {
+    "id": "1",
+    "name": "めがねミュージアム",
+    "description": "館内にはめがねショップ、めがね博物館、手づくりめがね工房があります。福井県内優良メーカーのオリジナルハウスブランドや有名人がデザインした「sabae」ブランドめがねなど、１５００種以上の最新デザインと技術をそろえ ためがねが並ぶショップ、めがね大使である俳優・大村崑氏の芸能人めがねコレクションの展示やめがねの歴史が学べる博物館、さらに、自分だけのオリジナル めがねが欲しい方のための「手づくりめがね工房」では世界にひとつだけのめがねが作れます。めがねの他にも、ミニめがね型ストラップやアクセサリーも作ることが",
+    "address": "鯖江市新横江2丁目3-4（ めがね会館）",
+    "longitude": "136.198844",
+    "latitude": "35.942758",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/pavilion_001.jpg"
+  },
+  {
+    "id": "2",
+    "name": "石田縞手織りセンター",
+    "description": "鯖江市繊維会館内にある施設です。鯖江市は古くから繊維産業が盛んです。そのルーツである伝統織り「石田縞」が、時を越えて繊維のすばらしさと奥深さを伝えています。当センターでは、伝統ある石田縞の紹介や、昔ながらの手織り体験ができます。",
+    "address": "福井県鯖江市糺町32-1-1",
+    "longitude": "136.175821",
+    "latitude": "35.972545",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/pavilion_002.jpg"
+  },
+  {
+    "id": "3",
+    "name": "うるしの里会館",
+    "description": "館内のミュージアムショップでは、産地ならではの品揃えで越前漆器が直販価格で販売されています。また、越前漆器の歴史が学べる資料が展示されているほか、隣接の職人工房では伝統工芸士による実演を見学できます。さらに、絵付け･沈金・拭き漆の３つの漆器体験で、自分だけのオリジナル作品を作ることができます。",
+    "address": "福井県鯖江市西袋町40-1-2",
+    "longitude": "136.2738",
+    "latitude": "35.953033",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/pavilion_003.jpg"
+  },
+  {
+    "id": "4",
+    "name": "まなべの館",
+    "description": "鯖江市の歴史が学べる博物館です。鯖江の歴代藩主の書画や遺品を紹介する「まなべの部屋」をはじめ、市内遺跡からの出土品や貴重な考古資料を紹介する「考古学の部屋」、近松門左衛門の関連資料が並ぶ「近松の部屋」、鯖江市出身のアニメーション作家・久里洋二氏の作人が並ぶ「久里洋二の部屋」、鯖江市出身の芸術家・故西山真一氏の作品を紹介する「西山真一の部屋」が常設され、学びの施設として親しまれています。また、企画展や市民によるギャラリー展なども随時開催されます。",
+    "address": "鯖江市長泉寺町1丁目9-20",
+    "longitude": "136.184339",
+    "latitude": "35.9535",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/pavilion_004.jpg"
+  },
+  {
+    "id": "5",
+    "name": "久里洋二の世界　GALLERY Ｋ",
+    "description": "日本を代表するイラストレーターであり、まなべの館名誉館長でもある 鯖江市出身の久里洋二氏。彼の作品に出会える夢のギャラリーです 。ふしぎにあたたかい久里洋二氏の楽しい世界を体感できます。お気軽にお立ち寄りください。作品を購入することもできます。",
+    "address": "鯖江市糺町16-18",
+    "longitude": "136.167572",
+    "latitude": "35.977267",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/pavilion_005.jpg"
+  },
+  {
+    "id": "6",
+    "name": "鯖江まちなか",
+    "description": "JR鯖江駅周辺の昔ながらの街並みが残るエリアを「さばえまちなか」と呼んでいます。鯖江藩主・間部（まなべ）家の門前町として栄えたこのエリアには、花街の面影残る石畳の小路や、旧北陸道沿いのお寺、由緒ある和洋菓子店など、ぶらり立ち寄りたいスポットがいっぱいあります。",
+    "address": "鯖江市本町1～4丁目一帯",
+    "longitude": "136.185384",
+    "latitude": "35.946356",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/town_001.jpg"
+  },
+  {
+    "id": "7",
+    "name": "近松の里",
+    "description": "元禄三代文豪に数えられる近松門左衛門。その作品は、後世の文学作品にも多くの影響を及ぼし、日本のシェークスピアといわれています。その近松が多感な幼年期を過ごしたのが吉江町です。この地は正保二年(1645年)から29年間、松平昌親を藩主とする吉江藩がありました。現在の立待地区には当時の風情を残す七曲りや春慶寺、福正寺、西光寺、近松門左衛門の文学碑などがあります。",
+    "address": "鯖江市吉江町一帯",
+    "longitude": "136.174379",
+    "latitude": "35.988434",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/town_002.jpg"
+  },
+  {
+    "id": "8",
+    "name": "うるしの里",
+    "description": "鯖江市東部にある「うるしの里」は、伝統ある越前漆器の産地。業務用漆器の国内シェア80%以上を占めるています。中心にある「うるしの里会館」は、越前漆器の情報発信や販売、職人工房、漆器の絵付け体験などができます。産地の中でも河和田町の「中道通り」は、漆器の工房や職人の家屋が古くから多く集積しており、漆の香り漂うレトロなまち並みが続く情緒ある通り。ぜひ歩いてほしい。また、ものづくりの現場を気軽に見ることができる「軒下工房」は「もの作りの現場を、軒下から気軽に見るような感覚で見ていただきたい」という思いで工房を広",
+    "address": "鯖江市河和田地区一帯",
+    "longitude": "136.272686",
+    "latitude": "35.951634",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/town_003.jpg"
+  },
+  {
+    "id": "9",
+    "name": "誠照寺",
+    "description": "親鸞聖人ゆかりの寺で、真宗誠照寺派本山で越前四箇本山の一つ。御影堂は木造建物では県内最大規模を誇る。山門は四足門で「鳥棲まずの門」とも言われ、左甚五郎作と伝えられる彫刻「駆け出しの竜」は特に有名です。また、境内では毎月第２日曜日（1･2月は除く）に「誠市」が開催され、多くの人で賑わいます。",
+    "address": "鯖江市本町3丁目2-38",
+    "longitude": "136.184354",
+    "latitude": "35.946979",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_001.jpg"
+  },
+  {
+    "id": "10",
+    "name": "車の道場（上野別堂）",
+    "description": "正式には「上野別堂」といい、親鸞上人が当地ではじめて教えを説いた念仏道場。上人が乗られた輿（こし）に車がついていたことから、この名がついたといわれています。",
+    "address": "鯖江市日の出町7-1",
+    "longitude": "136.185663",
+    "latitude": "35.939427",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_002.jpg"
+  },
+  {
+    "id": "11",
+    "name": "證誠寺",
+    "description": "親鸞配流の途中、山元の庄（水落町）に立ち寄り、草庵にて念仏説法をされました。これに帰依した信者の願いにより、上人自ら像を刻んで子の善鸞(ぜんらん)に与えて山元の庄へ遣わせました。その長男浄如(じょうにょ)が寺を建立し、山元山證誠寺が誕生しました。",
+    "address": "鯖江市横越町13-43",
+    "longitude": "136.203644",
+    "latitude": "35.945889",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_003.jpg"
+  },
+  {
+    "id": "12",
+    "name": "萬慶寺",
+    "description": "曹洞宗大本山永平寺の直末寺で鯖江藩主・間部公の菩提寺。本堂の天井には、７代藩主間部詮勝（あきかつ）の筆による天井墨絵「風神」「龍神」「雷神」は有名で指定文化財にもなっています。",
+    "address": "鯖江市深江町6-14",
+    "longitude": "136.184986",
+    "latitude": "35.94178",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_004.jpg"
+  },
+  {
+    "id": "13",
+    "name": "中道院",
+    "description": "中道院で行われる「すりばちやいと」とは、元三大師が悪病に苦しむ庶民を助けようと始めた加持秘法で、頭にかぶる護摩炉がすりばちに似ていることからこう呼ばれています。頭痛など諸病に効果があり、最近では頭がよくなると受験生の参拝も目立ちます。毎年２月２０日・３月２日",
+    "address": "鯖江市長泉寺町2-7-7",
+    "longitude": "136.185286",
+    "latitude": "35.955959",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_005.jpg"
+  },
+  {
+    "id": "14",
+    "name": "松阜神社",
+    "description": "もとは鯖江藩邸内にあって、間部詮房（まなべあきふさ）、詮言（あきとき）を祀っていた受福堂が萬慶寺に移されたのを、明治に入り現在の地に移し、７代詮勝（あきかつ）も祭神に加えたものです。舟津神社の祭神大彦命（おおひこのみこと）らの神々を合祀して、名を松阜神社と改めました。本殿右方に移築された受福堂御門が現存し、鯖江市指定文化財となっています。",
+    "address": "鯖江市旭町1丁目2-14",
+    "longitude": "136.187897",
+    "latitude": "35.944299",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_006.jpg"
+  },
+  {
+    "id": "15",
+    "name": "弁天堂",
+    "description": "旭町2丁目にひっそりと遺るこのお堂には、弘法大師が作られた３体の霊像の一つである弁財天が安置されています。もとは、江戸幕府将軍家の宝物だったのを６代将軍徳川家宣(いえのぶ)から間部詮房が拝領したものです。弁天様は琵琶をたずさえた美しい天女姿で、音楽や福徳財宝の神として信仰されています。",
+    "address": "鯖江市旭町2丁目",
+    "longitude": "136.187917",
+    "latitude": "35.945845",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_007.jpg"
+  },
+  {
+    "id": "16",
+    "name": "舟津神社",
+    "description": "崇神天皇の時代（紀元前1世紀）、北陸地方平定のため大彦命（おおひこのみこと）が派遣され、鯖江の王山に陣を置き、賊を平定しました。当時沼地だった鯖江の平野部一帯で、命が舟を着けたところを舟津と言ったことから、134年大彦命を祀って「舟津神社」と名付けられました。延喜式神名帳には「丹津神社」と記述があり、北陸随一の古社として古来より敬われてきました。文政元年の建築とされる本殿と赤鳥居は福井県指定文化財です。",
+    "address": "鯖江市舟津町1丁目2-32",
+    "longitude": "136.186221",
+    "latitude": "35.938675",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_008.jpg"
+  },
+  {
+    "id": "17",
+    "name": "神明社",
+    "description": "5世紀半ば伊勢神宮天照(あまてらす)大神(おおみかみ)を祀って文殊山南麓に創建されていたのを1129年烏ヶ森(からすがもり)に遷宮(せんぐう)しました。約5万坪の広大な敷地を持ち、歴代の領主の保護を受け、江戸時代には特に栄えて盛大なお祭りは越前第一と言われました。神明社の社叢林(しゃそうりん)、烏ヶ森は原生林に近い自然林で古くから聖域として大切にされてきた一方、この一帯は江戸時代までは物騒な所でもありました。昭和27年境内公園に整備されています。森は天然記念物として鯖江市の指定文化財です",
+    "address": "鯖江市水落町4丁目3-12",
+    "longitude": "136.182531",
+    "latitude": "35.971034",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_009.jpg"
+  },
+  {
+    "id": "18",
+    "name": "長久寺",
+    "description": "初代福井藩主結城(ゆうき)秀康(ひでやす)が鳥羽野(とばの)開発に着手しましたが志し半ばで亡くなった後、2代松平忠直(ただなお)が引継ぎました。神明社を東へ、下河端を北へ行き麻生津へ抜ける北陸道を整備し、周囲８ヶ村の領民を街道筋に移住させました。この事業にあたり、移住者への行き届いた心配りをしたことや街道沿いが賑わったことから領民は藩主忠直に大変感謝しました。しかしその忠直が幕府の怒りに触れ、九州へ配流処分となったため、藩主をお慰めしようと建てた寺が長久寺です。「長久」の名は開拓事業に尽力した奉行渡辺牛兵",
+    "address": "鯖江市神明町4丁目5-7",
+    "longitude": "136.186777",
+    "latitude": "35.977863",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_010.jpg"
+  },
+  {
+    "id": "19",
+    "name": "西光寺",
+    "description": "西光寺は本願寺第７代法主存如(そんにょ)（蓮如の父）の創建による古刹(こさつ)で、真宗北陸布教の足掛かりとなったお寺です。一時は相当な数の門徒をかかえ、勢力をふるっていましたが、織田信長の軍勢に敗れ、寺も焼き討ちにあいました。その後石田から現在の地に移って再興され今に至っています。",
+    "address": "鯖江市杉本町31-42-1",
+    "longitude": "136.170424",
+    "latitude": "35.982717",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_011.jpg"
+  },
+  {
+    "id": "20",
+    "name": "春慶寺",
+    "description": "創建は奈良時代。泰澄大師が修行中に草庵を結んだ「心敬時（しんけいじ）」が前身です。吉江藩成立後に、春慶寺という寺号になりました。近松門左衛門が幼少時代この寺の一隅を借りて住んでいたと言われています。",
+    "address": "鯖江市米岡町",
+    "longitude": "136.176678",
+    "latitude": "35.989717",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_012.jpg"
+  },
+  {
+    "id": "21",
+    "name": "漆器神社",
+    "description": "八幡神社（片山町）、敷山神社（河和田町）の境内には漆器神社があります。八幡神社には、漆器工芸がすべて手作りで行われていた当時の全工程の道具が保存されています。眺めのよい立地で、うるしの里を一望できます。",
+    "address": "鯖江市片山町",
+    "longitude": "136.276161",
+    "latitude": "35.949013",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_013.jpg"
+  },
+  {
+    "id": "22",
+    "name": "漆器神社",
+    "description": "敷山神社は式内社であり、古くからのお宮さんです。河和田川を挟んで逆方向の西北の山腹にあります。うっそうとした繁みの中を曲折した石段が続きます。本殿まで登りきると、河和田の街並みが一望できます。漆器神社は本殿への石段を上がる前の右手に十数段上がったところにあります。見事な漆の天井絵は、普段は非公開ですが、見学をご希望の方はうるしの里会館まで、お問い合わせ下さい。（電話　0778-65-2727）",
+    "address": "鯖江市河和田町",
+    "longitude": "136.269906",
+    "latitude": "35.951721",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_014.jpg"
+  },
+  {
+    "id": "23",
+    "name": "加多志波（かたしば）神社",
+    "description": "加多志波神社は、川島町三里山麓の杉小立の中にある氏神様です。この加多志波神社には３つの面があります。木造の鎌倉後期の作といわれており、父鬼・母鬼・子鬼の３面とも国の重要文化財に指定されています。毎年2月11日には、餅をまいて厄を払う神事「おこない」が加多志波神社境内で催されます。また一年でこの日に限って、宝物庫の扉が開かれ、3面の追儺面の見学が許されます。",
+    "address": "鯖江市川島町27-22",
+    "longitude": "136.225489",
+    "latitude": "35.945323",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_015.jpg"
+  },
+  {
+    "id": "24",
+    "name": "春日大社",
+    "description": "慶長18年（1613）に建築された三間社流造柿葺の建物です。大彦命の建立と伝えられ、本殿は国指定重要文化財です。覆屋が架けられていたため、建物の保存が良い。また、市指定文化財の狛犬や鯖江藩士の弓術・砲術の献額があります。",
+    "address": "鯖江市鳥井町12-31-1",
+    "longitude": "136.167699",
+    "latitude": "35.944456",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_016.jpg"
+  },
+  {
+    "id": "25",
+    "name": "中野神社",
+    "description": "鯖江市南東部に位置した中野区の総社。三里山の中の杉林の山道や苔むした石畳階段は荘厳で神聖な空間が広がっています。また、朱の鳥居や社の建築装飾も見事ごとです。",
+    "address": "鯖江市中野町（花出）",
+    "longitude": "136.213805",
+    "latitude": "35.946589",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_017.jpg"
+  },
+  {
+    "id": "26",
+    "name": "日吉神社",
+    "description": "鯖江の南西部にあります。境内の相生の大杉や池がすばらしく、鎮守の森として荘厳な雰囲気があり、鯖江百景のひとつに選ばれています。",
+    "address": "鯖江市上野田町5-40-1",
+    "longitude": "136.149353",
+    "latitude": "35.941832",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_018.jpg"
+  },
+  {
+    "id": "27",
+    "name": "剣神社（下新庄町）",
+    "description": "境内入口には2つの鳥居、150ｍ以上の奥行きがある石畳の参道を進むと奥には庭園があります。境内は手入れが行き届き、静寂で荘厳な雰囲気の神社です。",
+    "address": "鯖江市下新庄町60-75",
+    "longitude": "136.212657",
+    "latitude": "35.936486",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/temples_019.jpg"
+  },
+  {
+    "id": "28",
+    "name": "刀那の滝",
+    "description": "刀那（とな）の滝は、まぼろしの村三峯をめざす山道の途中にあります。大正14年の滝開き以来、たくさんの人に安らぎを与えてきました。",
+    "address": "鯖江市上戸口町",
+    "longitude": "136.2645435",
+    "latitude": "35.97163317",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/nature_001.jpg"
+  },
+  {
+    "id": "29",
+    "name": "きらめきロード中河",
+    "description": "鯖江市の東部を流れる浅水川の堤防沿いの通り。桜並木と地域の人が植えた水仙が美しい花を咲かせます。4月上旬～中旬の頃が特に美しい景観となり、鯖江百景のひとつです。",
+    "address": "鯖江市中野町",
+    "longitude": "136.207561",
+    "latitude": "35.95254",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/nature_002.jpg"
+  },
+  {
+    "id": "30",
+    "name": "榎お清水",
+    "description": "春慶寺山麓にあるお清水です。千古の昔より湧き出ており、近松時代の頃は吉江藩のお泉水として利用されていました。旅人はお不動様に手を合わせ、このお清水で喉をうるおしたといわれています。前には近松の浄瑠璃をイメージした公園があります。このあたりは平成19年度より整備が進められ、平成22年に美しく完成しました。",
+    "address": "鯖江市米岡町",
+    "longitude": "136.177551",
+    "latitude": "35.98941",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/nature_003.jpg"
+  },
+  {
+    "id": "31",
+    "name": "桃源清水",
+    "description": "ラポーゼかわだより南東へ約２ｋｍ。継体大王が水源を求めて訪れたと伝わるこの谷の清水は、昔から飲料水として住民に利用されてきました。平成16年の福井豪雨により甚大な被害を受けましたが、多くの方の支援により美しく復興し、現在は市民の憩いの場として親しまれています。平成20年に「ふくいのおいしい水」に認定されました。",
+    "address": "鯖江市上河内町",
+    "longitude": "136.318862",
+    "latitude": "35.943402",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/nature_004.jpg"
+  },
+  {
+    "id": "32",
+    "name": "三場坂清水",
+    "description": "ラポーゼかわだより東へ約1.3ｋｍ。山道を300ｍほど登ると水場があります。岩清水とも呼ばれるように岩から湧き出る清水で、水質もよく、古くから地域住民の飲料水として用いられてきました。平成20年「ふくいのおいしい水」に認定されました。",
+    "address": "鯖江市上河内町",
+    "longitude": "136.312403",
+    "latitude": "35.949094",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/nature_005.jpg"
+  },
+  {
+    "id": "33",
+    "name": "福鉄鉄橋",
+    "description": "福井鉄道福武線の市道に架かる鉄橋橋で、大正13年ごろの建築です。無骨な橋脚と、元山大師が開いた「すりばちやいと」のお寺、中道院の杉の大木が絶妙のコントラストです。",
+    "address": "鯖江市長泉寺町2丁目",
+    "longitude": "136.185867",
+    "latitude": "35.95571",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/history_001.jpg"
+  },
+  {
+    "id": "34",
+    "name": "弁天橋",
+    "description": "鯖江市北部を東西に流れる浅水川の改修により架けられた橋で、朱色の高欄が美しい。また、近松門左衛門が住んでいたことをモチーフに高欄が造られています。",
+    "address": "鯖江市吉江町",
+    "longitude": "136.171316",
+    "latitude": "35.989189",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/history_002.jpg"
+  },
+  {
+    "id": "35",
+    "name": "地蔵橋",
+    "description": "天正年間に織田と朝倉の戦いで、橋を壊して長泉寺を守ろうとする朝倉勢に対し、織田勢は路傍にあった石地蔵を川に投げ込んで埋め、その上を踏み越えて進軍した。後年、長泉寺の僧が、「我が体を踏ませて、通る衆生に功徳を与えん」と夢のお告げを受け、谷底から引き上げて旧北陸道の小川の橋にしました。実際に、このお地蔵さんの磨り減った様子から、多くの人馬がこの上を通行したことが偲ばれます。",
+    "address": "鯖江市長泉寺１丁目",
+    "longitude": "136.185611",
+    "latitude": "35.950067",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/history_003.jpg"
+  },
+  {
+    "id": "36",
+    "name": "王山古墳群",
+    "description": "王山は標高62mの小山で、弥生時代から古墳時代の古墳約50基が散在しています。中でももっとも古いのは、弥生時代後期（3世紀）のもので、墳丘墓（方形周溝墓）になっており、その規模は一辺が8～12ｍ、高さ１～２ｍあります。集溝からは、東海や近畿地方の影響をうけた土器が出土しており、葬祭儀礼に関したものと思われます。また、古墳群のあたりは、史跡公園として整備され、野鳥の声を聞きながら心静かに散策できるスポットになっています。",
+    "address": "鯖江市日の出町",
+    "longitude": "136.18517",
+    "latitude": "35.939546",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/history_004.jpg"
+  },
+  {
+    "id": "37",
+    "name": "兜山古墳",
+    "description": "兜山古墳は、北陸最大級の円墳で、一重ねの鏡餅のような姿をしています。雑木で覆われた古墳の頂上には、「八幡神社」が鎮座し古墳全体がその境内になっています。築造年代はその巨大さからみて、4～5世紀と思われます。昭和52年国の指定史跡となりました。",
+    "address": "鯖江市神明町2丁目",
+    "longitude": "136.183393",
+    "latitude": "35.974425",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/history_005.jpg"
+  },
+  {
+    "id": "39",
+    "name": "恵美写真館洋館・表門",
+    "description": "明治38年建設の擬洋風建築物で、洋館は木造寄棟造瓦葺の２階建てで、前面中央に入母屋造桟瓦葺の2層車寄せを設けています。表門はアーチ上屋根に銅板を葺き、和風（薬医門形式）の門構えをしています。和風に洋風をうまく取り入れた見事な建築物で、外観に施された擬似大理石手法や鳳凰の漆喰模様などに優れた左官技術がうかがえます。平成10年に国の登録有形文化財に指定されました。",
+    "address": "鯖江市本町3丁目1-28",
+    "longitude": "136.186237",
+    "latitude": "35.946549",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/history_007.jpg"
+  },
+  {
+    "id": "40",
+    "name": "植田家長屋門",
+    "description": "植田家は、代々鯖江藩家老の家柄でした。長屋門というのは、門を兼ねた一つ屋根の横に長い門のことで、門をはさんで両脇にいくつかの部屋があるものです。植田家には、この長屋門が現存しており、旧藩時代の数少ない遺構の一つとして鯖江市文化財に指定されています。",
+    "address": "鯖江市旭町1丁目",
+    "longitude": "136.248632",
+    "latitude": "35.952655",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/history_008.jpg"
+  },
+  {
+    "id": "41",
+    "name": "近藤醤油店",
+    "description": "鯖江市水落町3丁目付近は、旧北陸街道の風情が感じられる建物が多く残っています。その中でもこの建物は、特に趣が感じられます。鯖江百景のひとつです。",
+    "address": "鯖江市水落町3丁目",
+    "longitude": "136.183044",
+    "latitude": "35.967001",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/history_009.jpg"
+  },
+  {
+    "id": "42",
+    "name": "あめや呉服店",
+    "description": "２階建ての店舗兼主屋は２階部分が黒漆喰塗りで木の柱が塗り込まれており、伝統的な造りのなかに近代的防火構造が見て取れ、平成１９年１２月に国の登録有形文化財となりました。店内にある横2.4ｍ、高さ96㎝の「呉服」の大看板の文字は、福田大観（後の北大路魯山人）によって大正2年9月に創業100周年記念として彫られたものです。",
+    "address": "鯖江市本町３丁目",
+    "longitude": "136.185287",
+    "latitude": "35.946723",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/s-021.jpg"
+  },
+  {
+    "id": "43",
+    "name": "旧鯖江地方織物検査所（現代アートセンター）",
+    "description": "明治時代、繊維産業が盛んで繊維王国とも呼ばれた鯖江の名残を留める建造物です。洋風木造2階建てで、館内は当時の造りが残されています。当時、鯖江近辺で生産された織物は、ここに集められ検査を受け、合格されたものだけが出荷されました。現在は、さばえ現代アートセンターとして個展や展示会が随時開かれています。",
+    "address": "鯖江市旭町1-6-6",
+    "longitude": "136.186234",
+    "latitude": "35.944607",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/s-000.jpg"
+  },
+  {
+    "id": "44",
+    "name": "ラポーゼかわだ",
+    "description": "全国でも珍しい、美人の湯と長寿の湯の混合泉「かわだ温泉」。ヨーロピアンスタイルの大浴場や露天風呂、ジャグジー風呂を楽しめます。宿泊以外にも、日帰り温泉としてもご利用いただけます。また、ラポーゼかわだには、バーベキューハウスや、パンやそば打ち、ハーブリース作りなど様々な体験講座が用意されています。空気のおいしい山里で、ゆっくり過ごしながら、いろいろな体験ができる滞在型アミューズメント施設です。",
+    "address": "鯖江市上河内町19-37-2",
+    "longitude": "136.3",
+    "latitude": "35.948047",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_001.jpg"
+  },
+  {
+    "id": "48",
+    "name": "装飾ガラス　オータム",
+    "description": "下絵をもとにガラスに透明色を使用した樹脂で世界で１つだけの素敵なガラスレター体験ができます。旅の思い出として、またいつまでも残るメモリアルガラスとして喜ばれています。修正が可能なのでお子様でも簡単に作ることができ、ご家族、カップル、グループでの体験が楽しめます。工房見学も無料でき、出張体験も可能です。",
+    "address": "鯖江市丸山町2-8-16",
+    "longitude": "136.183798",
+    "latitude": "35.983258",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_005.jpg"
+  },
+  {
+    "id": "49",
+    "name": "西山公園",
+    "description": "「日本の歴史公園１００選」認定のさばえのシンボル公園です。春には、約５万株のつつじが咲き乱れる日本海側随一のつつじの名所桜、つつじ、もみじ、雪吊り風景と四季を通じて多くの人で賑わいます。また、園内には、動物園、芝生広場、冒険の森、日本庭園などがあり、大人も子供も楽しめる楽しい憩いの公園です。鯖江市公園管理事務所　（TEL0778-51-1001）",
+    "address": "鯖江市桜町３丁目7－20",
+    "longitude": "136.182606",
+    "latitude": "35.950627",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_021.jpg"
+  },
+  {
+    "id": "50",
+    "name": "大谷公園（実のなる公園）",
+    "description": "鯖江市の北側に位置するこの公園は、グミ、栗、柿、イチジク等、実のなる樹木が植えられ、四季折々に収穫の喜びを実感でき、「実のなる公園」として親しまれています。また、2つの貯水池があり、春には桜のピンク色と池の水色のコントラストがとてもきれいです。",
+    "address": "鯖江市吉江町",
+    "longitude": "136.176446",
+    "latitude": "35.993169",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_022.jpg"
+  },
+  {
+    "id": "51",
+    "name": "丸山公園",
+    "description": "市営のグラウンドが併設した市民の憩いの公園です。四季折々に目を楽しませてくれる樹が植えられ、アスレチックなどの遊具があったり、ゆっくりくつろげます。遠足シーズンには子供たちがたくさん訪れます。",
+    "address": "鯖江市丸山町4丁目",
+    "longitude": "136.17919",
+    "latitude": "35.983111",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_023.jpg"
+  },
+  {
+    "id": "52",
+    "name": "三六公園",
+    "description": "鯖江歩兵三十六連隊兵営の跡地にできた公園です。園内には、当時の様子が描かれた大きさ縦３ｍ×横６ｍ看板が設置されています。また、子供が遊べる遊具もあります。",
+    "address": "鯖江市三六町１丁目430",
+    "longitude": "136.180375",
+    "latitude": "35.970869",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_024.jpg"
+  },
+  {
+    "id": "53",
+    "name": "日野川河川公園",
+    "description": "鯖江の中央部を南北に流れる日野川の美しい景観を感じることのできる、憩いの公園です。春は桜や菜の花が咲き乱れ、冬はコハクチョウが飛来します。ここを会場に、４月中旬には「さばえ菜花まつり」が開催されます。",
+    "address": "鯖江市有定町３丁目～小黒町２・３丁目",
+    "longitude": "136.172934",
+    "latitude": "35.948067",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_025.jpg"
+  },
+  {
+    "id": "54",
+    "name": "弁財天",
+    "description": "「べさいでん」「べててん」の名で親しまれている標高１２０ｍの山。遊歩道が整備されており、お散歩気分で散策できます。山頂には忠霊塔の広場があります。",
+    "address": "鯖江市磯部町・落井町",
+    "longitude": "136.238949",
+    "latitude": "35.955715",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_031.jpg"
+  },
+  {
+    "id": "55",
+    "name": "三床山",
+    "description": "鯖江市の西部にある標高約280ｍの山で御床山とも書きます。古くから要害の地で、山頂には延喜式神名帳にも記述のある佐々牟志神社が鎮座し山城跡も残っています。",
+    "address": "鯖江市西大井町、和田町、石生谷町",
+    "longitude": "136.129267",
+    "latitude": "35.947476",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_032.jpg"
+  },
+  {
+    "id": "56",
+    "name": "三峯山",
+    "description": "三峯山にあったとされる、三峯城は標高約４００ｍの山頂に南北朝戦乱で築かれました。金谷、西袋、上戸口方面から伸びた尾根が合流していることからこの名がきたと言われています。山頂からは一乗谷を望むことができます。また、三峯山にある大銀杏は、泰澄大師が植えたとされ、「乳授けの伝説」が伝わる樹齢数百年の大銀杏。５８豪雪により折れてしまったが、奇跡的に再生成長を続けています。",
+    "address": "鯖江市上戸口町",
+    "longitude": "136.270453",
+    "latitude": "35.977249",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_033.jpg"
+  },
+  {
+    "id": "57",
+    "name": "三里山",
+    "description": "鯖江市のどこからでも眺められ、四季を通じて春の新緑、秋の紅葉と様々な変化のある姿を見せてくれます。",
+    "address": "鯖江市下新庄町",
+    "longitude": "136.225458",
+    "latitude": "35.937776",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_034.jpg"
+  },
+  {
+    "id": "58",
+    "name": "文殊山",
+    "description": "北部にある標高約360ｍの山で、山頂に安置されている文殊菩薩が山名の由来となっています。古来より信仰の対象となってきた霊山で、遊歩道も整備されています。",
+    "address": "鯖江市南井町、大正寺町",
+    "longitude": "136.223783",
+    "latitude": "35.990083",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_035.jpg"
+  },
+  {
+    "id": "59",
+    "name": "三六温泉　神明苑",
+    "description": "天然温泉「三六の湯」は、神経痛・疲労回復に効果あり。寛ぎの空間で、ゆったりリフレッシュしてみては。体育館やフィットネスルームも併設しており、テニスや各種トレーニングマシン、エアロビ・ヨガなどのプログラムも楽しめます。",
+    "address": "鯖江市神明町2-8-4",
+    "longitude": "136.183041",
+    "latitude": "35.972545",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_040.jpg"
+  },
+  {
+    "id": "61",
+    "name": "吉川サイクリングロード",
+    "description": "田園風景や日野川を渡る橋、駅舎跡などを自転車で駆け抜けます。橋の道面には鯖江をイメージするイラストが描かれているのも楽しい。",
+    "address": "鯖江市吉川地区一帯",
+    "longitude": "136.16772",
+    "latitude": "35.955941",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_042.jpg"
+  },
+  {
+    "id": "62",
+    "name": "西番スポーツセンター",
+    "description": "県内ではめずらしく屋内テニスコートが4面あり、雨の日でもプレーすることができます。また、汗をかいた後は、クリーンセンターの余熱を利用したお風呂で疲れを癒してください。",
+    "address": "鯖江市西番町15-27",
+    "longitude": "136.159481",
+    "latitude": "35.991106",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_playing_043.jpg"
+  },
+  {
+    "id": "64",
+    "name": "GLASS GARDEN（グラスガーデン）",
+    "description": "県内最大規模の５０００点以上の品揃えを誇る「グラスガーデン｣。お値打ちのフレームからハイブランド、有名人御用達のインポートコレクションまで幅広い品揃えです。また、ショップの他にもアンティークめがねのコレクション展示や地元特産品の販売、休憩スペースも併設されゆっくりくつろいで頂けます。",
+    "address": "鯖江市神中町2丁目907-1",
+    "longitude": "136.192582",
+    "latitude": "35.971303",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_002.jpg"
+  },
+  {
+    "id": "65",
+    "name": "GATHRED（ギャザード）",
+    "description": "㈱長井のアンテナショップです。ファッショナブルな店内には長井発のブランド「THE291」、「ネクステンス」や「ラプタム」、「ウォーヴォ」、「ネオカーボン」など、人気ブランドがずらりと並びます。 また、最高品質とデザインを実現した「CRETE」は“眼鏡フレームの聖地”鯖江のギャザードでしか買えません。",
+    "address": "鯖江市吉江町413",
+    "longitude": "136.175371",
+    "latitude": "35.984337",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_003.jpg"
+  },
+  {
+    "id": "66",
+    "name": "田中眼鏡",
+    "description": "オーダーメイドめがね製作に対応してくれるお店。様々な板の生地から気に入ったものを選んで、世界に一つだけの自分のめがねが作れます。フレームデザインは相談にのってもらえるので安心です。また取り扱う商品は、めがねの産地さばえでつちかった目利きのオーナーが、厳選をした品揃え。さばえだからこそ作れるキラリと光る眼鏡に出会えますよ。",
+    "address": "鯖江市神明町1丁目2-8",
+    "longitude": "136.180878",
+    "latitude": "35.969875",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_004.jpg"
+  },
+  {
+    "id": "67",
+    "name": "田中眼鏡本舗　浪漫堂",
+    "description": "木・セルのフルオーダーや、サンプラチナ、ステンレスのセミ・オーダーメイドなど、いろいろな種類のオーダーメイドに対応してくれるお店。国産にこだわり、流行だけにとらわれることなく、長く使い続けられる品質やデザインのめがねが揃います。",
+    "address": "鯖江市上河端町18-4-6",
+    "longitude": "136.195566",
+    "latitude": "35.953291",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_005.jpg"
+  },
+  {
+    "id": "70",
+    "name": "自然工房　与十郎",
+    "description": "こだわりの品揃えで、手軽に楽しめる漆器を中心に食器やインテリア用品など多彩にそろえています。また、併設の喫茶コーナーでは漆器をおしゃれに使用しています。ネットショッピングもしております。",
+    "address": "越前市赤坂町3-22-1",
+    "longitude": "136.244611",
+    "latitude": "35.948042",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_102.jpg"
+  },
+  {
+    "id": "71",
+    "name": "漆遊館",
+    "description": "料亭・ホテル・レストラン向けの高級越前漆器から、祝儀用品、ギフト用品からふだん使いの用品まで幅広い品揃えで展示・販売しています。また、漆器工房の見学コーナーや体験工房もあります。",
+    "address": "鯖江市中野町256-1",
+    "longitude": "136.220993",
+    "latitude": "35.948611",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_103.jpg"
+  },
+  {
+    "id": "72",
+    "name": "ロブジェ",
+    "description": "ロブジェは(有)山口工芸が手がけるブランド「Hacoa(ハコア) 」のセレクトショップです。越前漆器の職人技が生み出した新しい作品は、木のぬくもりとOA製品がひとつになったり、何気ない日用品が木とのコラボにより思いがけない商品になったり、見るだけで楽しいお店です。ネットショップも充実の品揃えです。",
+    "address": "鯖江市西袋町503",
+    "longitude": "136.276594",
+    "latitude": "35.954552",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_104.jpg"
+  },
+  {
+    "id": "73",
+    "name": "ヤマト工芸",
+    "description": "時計やリモコンラックやダストボックスなど、カラフルに並ぶ商品は、越前漆器の職人がひとつひとつ手づくりしたものです。素地づくりの技とデザイナーとのユニークなコラボレーション商品は、品定めも楽しい時間です。主に、ネット販売をしています。またオリジナルブランドの雑貨商品は、日本のリードメーカーとして世界にも輸出され、徐々に伸びています。",
+    "address": "鯖江市莇生田町19-40",
+    "longitude": "136.275667",
+    "latitude": "35.945448",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_105.jpg"
+  },
+  {
+    "id": "74",
+    "name": "高野漆額店",
+    "description": "\"「沈金」で描かれた漆のアート作品に出会える店。それぞれの作品が見事な技法で描かれています。\"\"本物の美″を感じにぜひ立ち寄ってください。さまざまなご要望に応じてくれますので、ご相談ください。\"",
+    "address": "鯖江市片山町13-19",
+    "longitude": "136.273665",
+    "latitude": "35.949335",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_106.jpg"
+  },
+  {
+    "id": "75",
+    "name": "漆器のお店　うるし工芸　藤",
+    "description": "越前漆器の製造・直販店です。器だけでなく、漆家具やおしゃれなインテリアなど、常時８００点の商品がずらりと並んでします。また、オーダーメイドにも対応してくれるお店です。国道８号線・サンドーム福井東に直販ショップがあります。JR鯖江駅からは車で５分です。",
+    "address": "鯖江市定次町342-1",
+    "longitude": "136.190701",
+    "latitude": "35.930848",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_107.jpg"
+  },
+  {
+    "id": "76",
+    "name": "atakaya's gallery　(あたかや)",
+    "description": "漆器の魅力を現代の生活の中でもっと楽しんで欲しいと、。「和」や「伝統工芸」のすばらしい機能性や美しさだけにしばられる事なく、さらにそこから現代の生活にフィットできる要素をスポイルし、私たちの感性をフィルターに「温故知新」の理念を持って「現代の個性的な生活を演出するアイテム」 をコンセプトにデザインされています。",
+    "address": "鯖江市西袋町43-11",
+    "longitude": "136.276431",
+    "latitude": "35.952547",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_108.jpg"
+  },
+  {
+    "id": "77",
+    "name": "漆器さじべえ",
+    "description": "鯖江市河和田町の地で、１３０年余り前に家主であった澤田佐治兵衛が漆器の製造販売を創めるようになりました。ホテル割烹旅館用の業務用漆器から、記念品、座卓、飾り棚などの美術漆器まで幅広く扱っております。汁椀・お箸・カップ・お盆などに、お名前や記念日メッセージなどの文字入れも承っております。",
+    "address": "鯖江市河和田町17-8-1",
+    "longitude": "136.271091",
+    "latitude": "35.95115",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_109.jpg"
+  },
+  {
+    "id": "79",
+    "name": "亀屋萬年堂",
+    "description": "創業８０年の和洋菓子店。ここのワッフルは絶品。創業より味と製法を守り続ける素朴な味は、どこか懐かしくクセになるおいしさです。",
+    "address": "鯖江市本町１丁目2-13",
+    "longitude": "136.185983",
+    "latitude": "35.945123",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_202.jpg"
+  },
+  {
+    "id": "80",
+    "name": "ベルジェ・ダルカディ弁慶堂",
+    "description": "売り切れ必至の人気商品「朝焼きロールケーキ」は、しっとりもちもちとした生地に、甘さ控えめの上質な味わいのクリームに包まれ、いくらでも食べれてしまいそう。また、２種類のシュークリーム「弁慶のちからこぶ」と「弁慶のなきどころ」も人気商品です。そのほか、季節のフルーツを使ったケーキや和菓子もおいしい。",
+    "address": "鯖江市柳町4丁目1-16",
+    "longitude": "136.190907",
+    "latitude": "35.946577",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_203.jpg"
+  },
+  {
+    "id": "81",
+    "name": "鯖江菓撰　栄進堂　本店",
+    "description": "季節ごとに趣向をこらしたスイーツを提供する地元の人気店。「ちかもんくん」、「越前めがね」、など鯖江土産のお菓子は、鯖江みやげにもおすすめ。また、濃厚なチーズの風味を楽しめる「チーズスティック」は、名誉総裁賞を受賞した商品です。その他にも、季節のフルーツを使ったケーキや、店長一押しのスプーンで食べる「純なまドーナツ」もあります。もっちりのスポンジの上に、柔らかいフルーツのムースがかかる新食感のデザートで、季節によって色んな味が楽しめます。",
+    "address": "鯖江市本町２丁目3-3",
+    "longitude": "136.184235",
+    "latitude": "35.945331",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_204.jpg"
+  },
+  {
+    "id": "82",
+    "name": "鯖江菓撰　栄進堂　丸山店　",
+    "description": "季節ごとに趣向をこらしたスイーツを提供する地元の人気店。「ちかもんくん」、「越前めがね」、など鯖江土産のお菓子は、鯖江みやげにもおすすめ。また、濃厚なチーズの風味を楽しめる「チーズスティック」は、名誉総裁賞を受賞した商品です。その他にも、季節のフルーツを使ったケーキや、店長一押しのスプーンで食べる「純なまドーナツ」もあります。もっちりのスポンジの上に、柔らかいフルーツのムースがかかる新食感のデザートで、季節によって色んな味が楽しめます。",
+    "address": "鯖江市丸山1-107",
+    "longitude": "136.18146",
+    "latitude": "35.978149",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_204.jpg"
+  },
+  {
+    "id": "83",
+    "name": "福寿堂",
+    "description": "西山公園近く、サバエ・シティーホテルの隣にある和洋菓子のお店。鯖江産のこだわりの卵を贅沢に使った「福寿堂こだわりの生ロールケーキ」やラムレーズンとバタークリームをココア生地でサンドした｢スクエア｣などが人気。また、西山動物園のレッサーパンダにちなんだ商品や、さばえのおみやげスイーツがいっぱい揃っています。",
+    "address": "鯖江市桜町２丁目6-12",
+    "longitude": "136.181119",
+    "latitude": "35.946836",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_205.jpg"
+  },
+  {
+    "id": "84",
+    "name": "うさぎや",
+    "description": "材料はできるかぎり国内産を使用して、ひとつひとつ ていねいに、心をこめて手作りしています。看板商品は「もちパイ」。外はさくさく、中はもちもち、パイ生地とお餅とあんこが絶妙にマッチして美味しい。いろいろな味のあんのどら焼きも人気商品です。",
+    "address": "鯖江市持明寺町5-10-1",
+    "longitude": "136.147629",
+    "latitude": "35.963594",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_206.jpg"
+  },
+  {
+    "id": "85",
+    "name": "昭和堂",
+    "description": "創業７０年以上の歴史ある和菓子屋。JR鯖江駅から徒歩５分。鯖江銘菓「間部もなか」や「五万石」などを取り扱っているので、おみやげ選びにお立ち寄りください。また、洋菓子も手掛け、「レアチーズケーキ」や「生ロールケーキ」は人気商品です。",
+    "address": "鯖江市本町１丁目1-21",
+    "longitude": "136.185992",
+    "latitude": "35.944095",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_207.jpg"
+  },
+  {
+    "id": "86",
+    "name": "やまはつ",
+    "description": "「おいしい幸せ、鯖江から・・・」を発信し続けるお菓子屋さん。地元で人気の「スフレロール」は、独自の製法で焼き上げたふわふわのスポンジと上品な甘さのクリームがマッチしていくらでも食べれそう。プレーン、抹茶、チョコの三種の味に加えて、春はにイチゴなど、季節限定の味が楽しめます。",
+    "address": "鯖江市北野町２丁目19-20",
+    "longitude": "136.180464",
+    "latitude": "35.966828",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_208.jpg"
+  },
+  {
+    "id": "87",
+    "name": "福音堂",
+    "description": "うるしの里にある和菓子屋さん。産地ならではのお菓子「お椀もなか」やめがねの形をした「愛eyeもなか」を販売しているほか、地元のお米を使ったお菓子などもあります。うるしの里会館のすぐ近くにあるので、おみやげにぜひお立ち寄りください。",
+    "address": "鯖江市河和田町19-1-9",
+    "longitude": "136.274049",
+    "latitude": "35.951459",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_209.jpg"
+  },
+  {
+    "id": "88",
+    "name": "Little Deco",
+    "description": "サンドーム福井近くにあるヨーロッパ調のすてきな外観のケーキやさん。店内には、生菓子から焼き菓子、デコレーションケーキなど、パティシエが心を込めて作ったお菓子が並びます。店内のカフェスペースで食べることもできます。",
+    "address": "鯖江市宮前２丁目1801-2",
+    "longitude": "136.187135",
+    "latitude": "35.932194",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_210.jpg"
+  },
+  {
+    "id": "89",
+    "name": "Ben Famille",
+    "description": "おしゃれなコテージ風の外観のケーキ屋さん。手作りのケーキや焼き菓子は、お持ち帰りはもちろん、併設のすてきなカフェで食べることができます。夜遅くまで営業しているのがもとても魅力です。オーダーでかわいいデコレーションケーキも作ってくれますよ。",
+    "address": "鯖江市鳥羽３丁目1133-2",
+    "longitude": "136.186479",
+    "latitude": "35.989122",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_211.jpg"
+  },
+  {
+    "id": "90",
+    "name": "けーきやYANAGIMOTO",
+    "description": "ログハウス風の外観がとてもかわいい洋菓子専門店です。さらに店内には、かわいいお菓子がたくさん並び、まるでお菓子の国に訪れたようにワクワクする空間が広がります。お菓子の味はもちろん、ラッピングにもこだわっているそう。また、吹き抜けの２Fカフェスペースでは、スイーツを食べることもできます。",
+    "address": "鯖江市住吉町３丁目1-30",
+    "longitude": "136.179707",
+    "latitude": "35.943652",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_212.jpg"
+  },
+  {
+    "id": "91",
+    "name": "ペルシュ",
+    "description": "鯖江で人気のケーキ屋さんです。常時店内にはケーキ、焼き菓子あわせて100アイテムほど並び、中でも季節のフルーツをたっぷり使った生ケーキが自慢です。　毎月、旬のフルーツを使ったケーキが　数種類でて楽しみ。店内の一角にある喫茶スペースでケーキを食べることもできます。",
+    "address": "鯖江市神中町２丁目407-2",
+    "longitude": "136.188416",
+    "latitude": "35.972575",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_213.jpg"
+  },
+  {
+    "id": "92",
+    "name": "Sloeberry",
+    "description": "フルーツ専門店プロデュースのスイーツ＆自然派カフェ。1階には、生ジュースコーナーがあり、地元農家から直接仕入れた新鮮な野菜果物を絞って野菜ソムリエおすすめの一品を味わえます。２階のカフェでは、体を考えた野菜たっぷりのベジタブルランチがお勧めです。こちらは、成人が一日に必要な野菜の量350gの半分の量が採れるように、季節の野菜を盛りだくさんに使ったプレートランチです。",
+    "address": "鯖江市水落町２丁目28-25",
+    "longitude": "136.185895",
+    "latitude": "35.963919",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_214.jpg"
+  },
+  {
+    "id": "93",
+    "name": "のだや餅舗",
+    "description": "鯖江の街なか商店街にある地元に愛されるお餅屋さん。注文を受けてから作ってくれる「あべかわ餅」は、やわらかなお餅にきなこと黒蜜がたっぷりかかっておすすめの絶品。また、店内は食堂になっており、食事もできます。",
+    "address": "鯖江市本町４丁目3-22",
+    "longitude": "136.185459",
+    "latitude": "35.949442",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_215.jpg"
+  },
+  {
+    "id": "94",
+    "name": "よしむらのおかき",
+    "description": "福井の代表的なおみやげのひとつです。地元の人たちにも人気の商品で、店内には数十種類のおかきがずらりと並んでいます。『得助さん　サラダ鬼っ子』は一番人気商品で、ほどよく効いた塩味がお米の味を引き立てます。",
+    "address": "鯖江市丸山町4-8-30",
+    "longitude": "136.180716",
+    "latitude": "35.982892",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_216.jpg"
+  },
+  {
+    "id": "95",
+    "name": "安価堂",
+    "description": "昭和元年創業の歴史ある和菓子屋さん。旬の素材を使った四季折々のお菓子が自慢です。無添加のやさしい甘さの和菓子をどうぞ。西山公園のレッサーパンダが刻印された「パンダどらやき」大きな栗がまるごと一個入っていてボリュームたっぷり。小倉あん、柚子あん、栗入りの３種があります。",
+    "address": "鯖江市神中1丁目2-15",
+    "longitude": "136.195615",
+    "latitude": "35.968807",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_217.jpg"
+  },
+  {
+    "id": "96",
+    "name": "プリンセス＆プリンス",
+    "description": "サバエ・シティーホテルの１Fにあるプリン専門店です。旬の素材を使ったオススメの手作りプリンが常時１０種類以上揃っています。どれもこだわりの品ですが、中でも「とまとのプリン」は、目にも鮮やかなルビー色とクセになる味わい深い味です。また、インド王室御用達のアルフォンソマンゴーを贅沢に６０%も使用した「マンゴーの王様プリン」は、究極にとろとろな舌ざわりで、お取り寄せでも大人気の一品です。",
+    "address": "鯖江市桜町3丁目3-3（サバエ･シティーホテル内）",
+    "longitude": "136.181237",
+    "latitude": "35.947158",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_218.jpg"
+  },
+  {
+    "id": "97",
+    "name": "観光案内所",
+    "description": "JR鯖江駅構内にある観光案内所では、鯖江の観光パンフレットや地図などが設置され、鯖江の情報が収集できます。また、ベテランのガイドが常駐しています。気軽にお立ち寄りください。おみやげの販売も行なっています。",
+    "address": "鯖江市日の出町1-2",
+    "longitude": "136.188683",
+    "latitude": "35.942997",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_951.jpg"
+  },
+  {
+    "id": "98",
+    "name": "和（なごみ）",
+    "description": "市民ホールつつじの１階にあるカフェ。市民の憩いの場です。まち歩きの休憩においしいコーヒーはいかが？　さばえの特産物の販売も行っています。",
+    "address": "鯖江市本町2-2-16",
+    "longitude": "136.185072",
+    "latitude": "35.946292",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_952.jpg"
+  },
+  {
+    "id": "99",
+    "name": "久保田酒店",
+    "description": "JR鯖江駅前すぐにある酒店です。鯖江の酒「梵」をはじめ、志を同じくする四件の蔵元のお酒を本醸造から純米大吟醸まで取り揃えています。また、越前焼の酒器やお酒アイス、お酒ケーキなど、お酒を楽しむための商品もたくさんあります。",
+    "address": "鯖江市旭町1-1-4",
+    "longitude": "136.18776",
+    "latitude": "35.943508",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_953.jpg"
+  },
+  {
+    "id": "100",
+    "name": "加藤吉平商店",
+    "description": "創業万延元年。両替商・庄屋だった先祖が日本酒製造を始めて、現在１１代目となる老舗で、無添加の純米酒のみを造り続ける、鯖江が誇る酒蔵です。銘柄「梵」「日本の翼」は、日本国の重要な席をはじめ、政府専用機の正式機内酒となっていて、ＪＡＬ国際線・国内線ファーストクラスでは超ＶＩＰ用として採用されています。「梵」は、現在世界９０数ヶ国で正式商標登録されていて、そのうち３０数ヶ国以上に輸出されているなど、国内から世界中に日本の酒文化を発信し続けています。",
+    "address": "鯖江市吉江町1-11",
+    "longitude": "136.170193",
+    "latitude": "35.986403",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_954.jpg"
+  },
+  {
+    "id": "101",
+    "name": "与十郎",
+    "description": "こだわりの品揃えで、手軽に楽しめる漆器を中心に食器やインテリア用品など多彩にそろえています。また、併設の喫茶コーナーでは漆器をおしゃれに使用しています。",
+    "address": "越前市赤坂町3-22-1",
+    "longitude": "136.24465",
+    "latitude": "35.948023",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_001.jpg"
+  },
+  {
+    "id": "113",
+    "name": "スイーツ＆カフェ　Ｂｌａｎｃ（ぶらん）",
+    "description": "浅水川沿いの住宅街に建つ、隠れ家風のカフェ。ここは同じ鯖江市内にある「鯖江菓子工房Yamahatsu」が2010年にオープンしたカフェ。Yamahatsuのスイーツはもちろん、カフェだけのデザートメニューも楽しめる。ゆったりとした空間で、贅沢の時間を過ごしてみては。",
+    "address": "鯖江市丸山町2丁目7-13",
+    "longitude": "136.183565",
+    "latitude": "35.98379",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_012.jpg"
+  },
+  {
+    "id": "114",
+    "name": "極（きわみ）",
+    "description": "ＪＲ鯖江駅を出てすぐ、観光案内所の目の前にある甘味茶屋。時代劇に出てくるような団子屋をイメージしたそう。",
+    "address": "鯖江市日の出町2-1　駅前ビル1F",
+    "longitude": "136.188244",
+    "latitude": "35.94285",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_013.jpg"
+  },
+  {
+    "id": "120",
+    "name": "大黒屋",
+    "description": "江戸後期より上流階級の茶の湯等に用いられていた「菜花糖（さいかとう）」で知られる老舗。",
+    "address": "鯖江市本町２丁目1-13",
+    "longitude": "136.185523",
+    "latitude": "35.946253",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_019.jpg"
+  },
+  {
+    "id": "122",
+    "name": "ヨーロッパン･キムラヤ",
+    "description": "日本で１番堅いパン「軍隊堅麺麭（ぐんたいかたぱん）」大東亜戦争中当時、鯖江連帯の兵隊さんが当店で軍人用のパンを焼いていたものをそのまま復元！とても堅いのでかなづち等で割ってほおばってください。保存食にも最適です。ケーキショップのようにショーケースにパンが並び、スタッフとの会話を通した販売スタイルで、お客さんの好みにぴったり合ったパンを選んでくれたり、美味しい食べ方を教えてくれます。",
+    "address": "鯖江市旭町2-3-20",
+    "longitude": "136.187179",
+    "latitude": "35.946183",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_135.jpg"
+  },
+  {
+    "id": "123",
+    "name": "ベーカリーショップ上坂",
+    "description": "鯖江で昔から愛されるパン屋さん。懐かしい美味しさに出会える。",
+    "address": "鯖江市 屋形町3-3",
+    "longitude": "136.183156",
+    "latitude": "35.943977",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_203.jpg"
+  },
+  {
+    "id": "124",
+    "name": "ブーランジュリー　ル・パン",
+    "description": "真っ赤な屋根が一際目を引く、さばえの人気パン屋さん。",
+    "address": "鯖江市丸山町2-7-1",
+    "longitude": "136.184966",
+    "latitude": "35.983277",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_204.jpg"
+  },
+  {
+    "id": "125",
+    "name": "琥八（こはち）",
+    "description": "安心でおいしいパンを届けたいと極力添加物を使用しない商品を提供しているパン屋さん。",
+    "address": "鯖江市三六町２－５－１６小林ビル１階",
+    "longitude": "136.178588",
+    "latitude": "35.97263",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_205.jpg"
+  },
+  {
+    "id": "126",
+    "name": "マツヤベーカリー",
+    "description": "お惣菜パンの種類が豊富で、どれもおいしいと人気です。マツヤベーカリージャムおじさんが出迎えてくれるよ。",
+    "address": "鯖江市丸山町１丁目３０５",
+    "longitude": "136.179187",
+    "latitude": "35.979679",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_206.jpg"
+  },
+  {
+    "id": "127",
+    "name": "お食事の店　味見屋",
+    "description": "鯖江の街なかにある100年以上続く老舗食堂。メニューのどれもが懐かしい味で、優しい味わいは母の味のようです。人気メニューは「カレーうどん」。おなかが空いたらぜひ立ち寄ってください。",
+    "address": "鯖江市本町2丁目2-19",
+    "longitude": "136.185214",
+    "latitude": "35.946023",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_301.jpg"
+  },
+  {
+    "id": "128",
+    "name": "ヨーロッパ軒　神明分店",
+    "description": "越前カニ、越前そばに並ぶ福井の名物ソースカツ丼の老舗。創業は大正時代で、初代高畠増太郎氏がソースカツ丼を考案。やわらかジューシーなトンカツに、ウスターソースがベースの特製ソースそたっぷり絡めたご飯が食欲をそそります。福井県内に約20店舗展開し、各店独自のメニューがある。",
+    "address": "鯖江市水落町1丁目1239",
+    "longitude": "136.175934",
+    "latitude": "35.962791",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_302.jpg"
+  },
+  {
+    "id": "129",
+    "name": "富士屋会館",
+    "description": "西山公園近くにあり、婚礼、宴会、法事など様々対応してくれます。",
+    "address": "鯖江市桜町２丁目-２-２２",
+    "longitude": "136.180041",
+    "latitude": "35.945368",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_303.jpg"
+  },
+  {
+    "id": "130",
+    "name": "釜めし専門店　釜蔵",
+    "description": "福井県産コシヒカリと日本海の旬な素材を活かした釜めしの専門店。注文を受けてから炊き上げるので、ご飯はふっくら炊きたてを味わえます。釜めしならではのおこげも香ばしくて美味しいです。",
+    "address": "鯖江市柳町4-521",
+    "longitude": "136.193048",
+    "latitude": "35.947856",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_304.jpg"
+  },
+  {
+    "id": "131",
+    "name": "わらび　鯖江店",
+    "description": "旬の魚と旨い酒が味わえる居酒屋。新鮮なお刺身や、海鮮料理な豊富なメニューを揃えています。",
+    "address": "鯖江市小黒町1-5-16",
+    "longitude": "136.176349",
+    "latitude": "35.951044",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_401.jpg"
+  },
+  {
+    "id": "132",
+    "name": "當田屋",
+    "description": "鯖江のまちなかにある老舗料亭。元気の良い若女将が迎えてくれます。旬の食材を使った料理はもちろん、器にもこだわった趣あるお店です。",
+    "address": "鯖江市本町1-4-10",
+    "longitude": "136.184444",
+    "latitude": "35.945179",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_402.jpg"
+  },
+  {
+    "id": "133",
+    "name": "やきとりの名門　秋吉　鯖江店",
+    "description": "\"福井県は、実は焼き鳥消費量全国No",
+    "address": "1。それを支えるのが、全国に約120店を展開する秋吉で、福井には約30店舗ある。毎日一本一本手作りされる串を、じっくり炭火焼にして秘伝のタレを絡めた焼き鳥は、一般的なものよりは少し小ぶりで一人前は5本から。お店に入れば、男性なら「社長！」、女性なら「お嬢さん！」と威勢のいい掛け声が出迎えてくれる。持ち帰りも出来る。\"",
+    "longitude": "136.193016",
+    "latitude": "35.94276",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/g-244.gif"
+  },
+  {
+    "id": "134",
+    "name": "やきとりの名門　秋吉　神明店",
+    "description": "\"福井県は、実は焼き鳥消費量全国No",
+    "address": "1。それを支えるのが、全国に約120店を展開する秋吉で、福井には約30店舗ある。毎日一本一本手作りされる串を、じっくり炭火焼にして秘伝のタレを絡めた焼き鳥は、一般的なものよりは少し小ぶりで一人前は5本から。お店に入れば、男性なら「社長！」、女性なら「お嬢さん！」と威勢のいい掛け声が出迎えてくれる。持ち帰りも出来る。\"",
+    "longitude": "136.175935",
+    "latitude": "35.969939",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/g-244.gif"
+  },
+  {
+    "id": "135",
+    "name": "ぬ乃屋",
+    "description": "情緒ある〈さばえ歴史の道〉沿いある老舗料亭。笑顔のステキな若女将が出迎えてくれるあたたかな雰囲気のお店で、会席料理からお子様メニューまで用途に応じて対応してくれます。予約すればランチもOKです。",
+    "address": "鯖江市鯖江市水落町3－2－17",
+    "longitude": "136.183189",
+    "latitude": "35.967948",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_404.jpg"
+  },
+  {
+    "id": "136",
+    "name": "創作和食ダイニング　一の丸",
+    "description": "提携する魚屋から毎日仕入れている新鮮な魚介類が自慢の和食ダイニング。ズワイ蟹ご飯や旬のお造り盛り合わせなど鮮度抜群の海鮮料理と、品揃え豊富な酒類をこころゆくまで楽しんでみては。新作の創作料理を月替わりで出しているのでそちらも要チェック。",
+    "address": "鯖江市北野町2-9-3",
+    "longitude": "136.176023",
+    "latitude": "35.967171",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_405.jpg"
+  },
+  {
+    "id": "137",
+    "name": "当り矢",
+    "description": "幅広いメニューを揃えている居酒屋さん。もともと食堂だったので、定食メニューも豊富。ランチの日替わり定食は、ボリュームたっぷりでお得なセットでおすすめです。",
+    "address": "鯖江市三六町2?1?3",
+    "longitude": "136.180158",
+    "latitude": "35.972354",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_406.jpg"
+  },
+  {
+    "id": "138",
+    "name": "渕上食堂",
+    "description": "住宅街のなかにある隠れ家的なお店で、焼肉から、居酒屋料理、新鮮な刺身など豊富なメニューを取り揃えている。",
+    "address": "鯖江市新横江2-5-2-8",
+    "longitude": "136.198386",
+    "latitude": "35.941575",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_407.jpg"
+  },
+  {
+    "id": "139",
+    "name": "かんきち",
+    "description": "水産会社直営ならではの新鮮なお寿司と居酒屋メニューが人気のお店。質のいい活魚や刺身、寿司などの海の幸やステーキ、おろしそばなどたっぷり欲張りなプランもある。",
+    "address": "鯖江市三六町1-14-6",
+    "longitude": "136.176399",
+    "latitude": "35.971177",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_408.jpg"
+  },
+  {
+    "id": "140",
+    "name": "割烹よしのり",
+    "description": "四季折々の美味しい食材をふんだんに使った料理を楽しめるお店。会席料理なども対応してくれるので、冠婚葬祭や会合など様々な用途にあわせてご利用いただけます。",
+    "address": "鯖江市丸山町１丁目3-13",
+    "longitude": "136.179754",
+    "latitude": "35.980542",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_409.jpg"
+  },
+  {
+    "id": "141",
+    "name": "豚ちんかん",
+    "description": "美味しい豚料理を低価格で食べられるお店。しゃぶしゃぶや串揚げ、石焼きなど、様々な食べ方で旨い豚肉を味わえる。",
+    "address": "鯖江市三六町1-14-7",
+    "longitude": "136.176053",
+    "latitude": "35.970872",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_410.jpg"
+  },
+  {
+    "id": "142",
+    "name": "悠膳",
+    "description": "落ち着いた雰囲気の中で食事と会話を愉しむ、大人のための和食店。「居酒屋より落ち着いた空間で、料亭よりも手頃な価格でお客様に料理を愉しんで頂く」のがコンセプト。店内はカウンター席と４室の個室のみのゆったりとした造りで、時間や周りを気にせず食事を堪能できる。料理 は揚げたての天ぷらと鮮度抜群の刺身料理、他にも旬の食材で作る数々の品で、至るところに、こだわりやもてなしの心が感じられるこのお店では、きっと上質なひと時が過ごせるはずです。",
+    "address": "鯖江市糺町33-5-3",
+    "longitude": "136.175956",
+    "latitude": "35.973332",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_411.jpg"
+  },
+  {
+    "id": "143",
+    "name": "藤の家",
+    "description": "さばえのまちなかの石畳通りにたたずむ趣ある老舗料亭。明るい女将さんがあたたかく迎えてくれます。店内は個室と大広間の予約制で、ゆったりと四季折々のこだわりの料理をお楽しみいただけます。",
+    "address": "鯖江市旭町2丁目2?4",
+    "longitude": "136.18726",
+    "latitude": "35.945165",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_412.jpg"
+  },
+  {
+    "id": "144",
+    "name": "一乃松",
+    "description": "数々のメディアに取り上げられ、全国的に人気の高い「一乃松」の焼き鯖寿し。こちらのでは、焼き鯖寿しはもちろんのこと、美しく奥の深い四季の献立を味わうことが出来ます。みずみずしいカニ身をたっぷりのせ、カニ、イクラ、たまごを盛り込んだ贅沢な「越前かに寿し」や、福井県産若狭牛を自家製タレでつけ込み網焼きにしてのせた「牛棒寿し」など、一度は食べてみたい贅沢なお寿司もここにしかない味わいです。",
+    "address": "鯖江市下河端町4-6-1",
+    "longitude": "136.188025",
+    "latitude": "35.966375",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_413.jpg"
+  },
+  {
+    "id": "145",
+    "name": "料亭　中松",
+    "description": "かつての花街の面影を感じる、閑静な石畳小路に佇む料亭。四季折々の食材を、季節感、客の好み、会の趣向等によってアレンジしてくれる。落ち着いた個室でゆったりと、意匠をこらした美味料理を味わってみては。",
+    "address": "鯖江市旭町１丁目５?３",
+    "longitude": "136.187231",
+    "latitude": "35.944464",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_414.jpg"
+  },
+  {
+    "id": "146",
+    "name": "ほおずき",
+    "description": "市場で仕入れる鮮度のいい北陸の魚と、こうのとりの飛んでくる白山で作られるお米が自慢。おいしいシャリのお寿司は是非味わって頂きたい逸品です。また、焼き鳥や唐揚げなど居酒屋メニューも揃っています。お店のブログでは、仕入れた食材やおいしそうなものが紹介されていて要チェックです。",
+    "address": "鯖江市東鯖江1-4-21",
+    "longitude": "136.196227",
+    "latitude": "35.945302",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_415.jpg"
+  },
+  {
+    "id": "147",
+    "name": "寿司ダイニング　ひょうたん",
+    "description": "店主が毎朝市場へ出かけ見極めた、新鮮な食材が自慢のお店。ランチメニューも豊富で、女性のお客さんも入りやすい雰囲気のお寿司屋さん。おいしいお寿司を味わってもらうために、お米や醤油もごだわりの厳選したものを提供している。",
+    "address": "鯖江市水落町1丁目14-13",
+    "longitude": "136.175958",
+    "latitude": "35.959066",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_416.jpg"
+  },
+  {
+    "id": "148",
+    "name": "勇寿し",
+    "description": "越前漁港で直に見極めて仕入れた新鮮な魚を味わえるお店。コメは福井県の契約農家から直接購入している。なんとお店のホームページで、おすすめのネタを毎日更新しているので、行く前に確認することができる。価格も良心的でリピーターのお客さんも多いとか。",
+    "address": "鯖江市日の出町５－２４",
+    "longitude": "136.186364",
+    "latitude": "35.943324",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_417.jpg"
+  },
+  {
+    "id": "149",
+    "name": "廻る寿司　与加呂",
+    "description": "鯖江で長年愛される魚屋直営の回転寿司。自慢の「中トロ」をはじめ、「マグロの目玉の煮付け」など稀少なネタも食べられる。和室もあるので、宴会にも対応してくれる。",
+    "address": "鯖江市有定3丁目2-9",
+    "longitude": "136.176533",
+    "latitude": "35.948192",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_418.jpg"
+  },
+  {
+    "id": "150",
+    "name": "海鮮アトム　鯖江店",
+    "description": "福井で長年愛される回転寿司、海鮮アトム。産地や漁法まで吟味して魚を選ぶ。特に地元の味にはこだわりを持っており、厳選された食材を味わうことができる。毎日ネタによって変わるオススメメニューは要チェックです。",
+    "address": "鯖江市柳町4-714　",
+    "longitude": "136.193352",
+    "latitude": "35.948919",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_419.jpg"
+  },
+  {
+    "id": "151",
+    "name": "佐野蕎麦",
+    "description": "強烈！新感覚、三種類のそば。越前そばの本質を感じるオンリーワンな蕎麦。鮮度高い蕎麦を塩だけでとことん感じて下さい。",
+    "address": "鯖江市本町２丁目２－２２藤田ビル１Ｆ",
+    "longitude": "136.185183",
+    "latitude": "35.94559",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_420.jpg"
+  },
+  {
+    "id": "152",
+    "name": "そば処　二男坊",
+    "description": "石臼で挽いた福井県産のそばを提供するお店。そば以外のメニューやセットも豊富です。",
+    "address": "鯖江市吉江町512",
+    "longitude": "136.174415",
+    "latitude": "35.984794",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_421.jpg"
+  },
+  {
+    "id": "153",
+    "name": "漆里庵",
+    "description": "そば職人には珍しい女性そば職人が腕をふるう創業25年のお店。女性職人ならではの、硬くてコシがあるだけでなくソフトな歯ざわりのよい蕎麦が味わえます。福井名物のおろし蕎麦や、女性に人気の納豆そば、玉子カツ丼もシンプルに美味しいと人気です。",
+    "address": "鯖江市片山町7-1-1",
+    "longitude": "136.274227",
+    "latitude": "35.951391",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_422.jpg"
+  },
+  {
+    "id": "154",
+    "name": "蕎麦　旨酒　亀蔵",
+    "description": "福井県産のそば粉を丁寧に手打ちした十割そばと、地酒や焼酎などの旨い酒や、酒に合わせた豊富な一品メニューを楽しめるお店。こだわりのかきあげは、小エビと貝柱ふんだんに入れてボリュームたっぷりの厚み。木の香りが漂う居心地のいい店内は、カウンター席、テーブル席、座敷があります。",
+    "address": "鯖江市東鯖江1-1-3 MM6ﾋﾞﾙ1F",
+    "longitude": "136.19441",
+    "latitude": "35.943449",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_423.jpg"
+  },
+  {
+    "id": "155",
+    "name": "おはぐろ　そば処・惣平",
+    "description": "鯖江産の蕎麦の実を自作の石臼で挽いたあらびきの蕎麦。昔懐かしいあらびきの家蕎麦を味わえます。福井伝統のおろし蕎麦をぜひ味わってみてください。",
+    "address": "鯖江市吉江町18-31-4",
+    "longitude": "136.171805",
+    "latitude": "35.984362",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_424.jpg"
+  },
+  {
+    "id": "156",
+    "name": "聴琴亭",
+    "description": "おすすめは、聴琴そば。竹筒の器に３種の冷そば（おろしそば・山かけそば・ざるそば）と温そば（あんかけうどん）、お刺身がセットになっています。豪華なお膳で、大名気分が味わえますよ。",
+    "address": "鯖江市下新庄町63-44",
+    "longitude": "136.212371",
+    "latitude": "35.933136",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_037.jpg"
+  },
+  {
+    "id": "157",
+    "name": "タベルナ・ソリッゾ",
+    "description": "こだわりのパスタが自慢のイタリアン。料理を越前漆器で出してもらうこともでき、地元の人にも人気があります。おしゃれで居心地のいいお店です。",
+    "address": "鯖江市有定町3丁目2-28",
+    "longitude": "136.176912",
+    "latitude": "35.947767",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_501.jpg"
+  },
+  {
+    "id": "158",
+    "name": "ヴィヴァーチェ",
+    "description": "白を基調としたおしゃれな雰囲気のイタリアンのお店。もちもち食感の生パスタが人気。前菜からピッツァ、パスタ、リゾット、肉料理など豊富なメニューが揃う。",
+    "address": "鯖江市神明町4-7-21",
+    "longitude": "136.183701",
+    "latitude": "35.980042",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_502.jpg"
+  },
+  {
+    "id": "159",
+    "name": "ピッコロ・コッコロ",
+    "description": "美味しいイタリアンがカジュアルな雰囲気の中で食べられるお店。「手打ちパスタ」や「スモークサーモンとホタテのタルタル」、「黒毛和牛のグリルバルサミコソース」など、素材の良さを活かした料理が自慢。アルコールメニューも豊富に取り揃えています。カウンター席や窓際のカップルシート席があり、お一人様でもホッと落ち着ける雰囲気です。",
+    "address": "鯖江市水落町1-1-19",
+    "longitude": "136.182303",
+    "latitude": "35.959033",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_503.jpg"
+  },
+  {
+    "id": "160",
+    "name": "ピエトロ",
+    "description": "22年3月に移転ＯＰＥＮした生パスタ専門店のお店です。こだわりの生パスタは、もちもちとした食感のあるデュラム小麦粉・卵白・塩で作られた安心な麺。他にも自慢のPizzaや、お手頃価格のコースメニュー、手づくりデザート、イタリアンに合うおいしいワインなどメニュー豊富です。また、職場・友達同士・ご家族etc・・・パーティ・宴会に利用できるお部屋もあります。",
+    "address": "鯖江市有定町1-8 -10",
+    "longitude": "136.176562",
+    "latitude": "35.945037",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_504.jpg"
+  },
+  {
+    "id": "161",
+    "name": "メゾン･ド・レトワール",
+    "description": "世界料理オリンピック銅メダルのカリスマシェフが総料理長を勤めるフレンチレストラン。ネット通販で16万個以上を完売したという大評判の「マンゴーの王様プリン」を、ここではシャーベットや季節のフルーツをのせた贅沢なパフェで味わえます。",
+    "address": "鯖江市桜町3-3-3　サバエシティホテル８階",
+    "longitude": "136.181288",
+    "latitude": "35.947349",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_505.jpg"
+  },
+  {
+    "id": "162",
+    "name": "ビストロ　も・談屋",
+    "description": "隠れ家的なイタリアンのお店。パスタやピザ、キッシュ、サイコロステーキなどメニューも豊富です。",
+    "address": "鯖江市糺町25-12-2",
+    "longitude": "136.173649",
+    "latitude": "35.973119",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_506.jpg"
+  },
+  {
+    "id": "163",
+    "name": "ガッタ・ネーラ",
+    "description": "落ち着いた雰囲気で食事が楽しめる本格的イタリアン。ボリュームたっぷりでお得なランチセットが人気です。",
+    "address": "鯖江市幸町2丁目505－2",
+    "longitude": "136.181342",
+    "latitude": "35.977685",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_507.jpg"
+  },
+  {
+    "id": "164",
+    "name": "クアトロ・スタジォーネ",
+    "description": "さばえの人気イタリアンのお店。冬には、チーズフォンデュもあります。",
+    "address": "鯖江市東鯖江1-1-3",
+    "longitude": "136.194308",
+    "latitude": "35.943436",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_508.jpg"
+  },
+  {
+    "id": "165",
+    "name": "８番らーめん　鯖江店",
+    "description": "昭和42年国道8号線沿いの田んぼの真ん中に、掘っ立て小屋同然の粗末な店構えのラーメン店から始まったという８番ラーメン。今では北陸地方を中心に、関西圏、そして海外でも展開し、約250店の店舗数を誇る。福井人にとっては、小さい頃から食べ親しんだとっても馴染み深い味。8番印のなるとがトレードマーク。",
+    "address": "鯖江市北野町11字10番地",
+    "longitude": "136.175462",
+    "latitude": "35.963748",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_509.jpg"
+  },
+  {
+    "id": "166",
+    "name": "８番らーめん鯖江東店",
+    "description": "昭和42年国道8号線沿いの田んぼの真ん中に、掘っ立て小屋同然の粗末な店構えのラーメン店から始まったという８番ラーメン。今では北陸地方を中心に、関西圏、そして海外でも展開し、約250店の店舗数を誇る。福井人にとっては、小さい頃から食べ親しんだとっても馴染み深い味。8番印のなるとがトレードマーク。",
+    "address": "鯖江市東鯖江1-112",
+    "longitude": "136.194598",
+    "latitude": "35.944599",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_509.jpg"
+  },
+  {
+    "id": "167",
+    "name": "８番らーめん　神明店",
+    "description": "昭和42年国道8号線沿いの田んぼの真ん中に、掘っ立て小屋同然の粗末な店構えのラーメン店から始まったという８番ラーメン。今では北陸地方を中心に、関西圏、そして海外でも展開し、約250店の店舗数を誇る。福井人にとっては、小さい頃から食べ親しんだとっても馴染み深い味。8番印のなるとがトレードマーク。",
+    "address": "鯖江市幸町2-5-23",
+    "longitude": "136.18159",
+    "latitude": "35.977691",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_509.jpg"
+  },
+  {
+    "id": "169",
+    "name": "九龍飯店九龍飯店",
+    "description": "本格中華が味わえるお店。エビチリ、麻婆豆腐などの定番メニューから、北京ダック、フカヒレ、アワビなど高級中華まで堪能できます。お得なランチセットや、点心メニューも豊富で、少量ずついろんな点心を試したい方は点心おまかせセットがおすすめです。",
+    "address": "鯖江市有定町2-4-28-2",
+    "longitude": "136.176268",
+    "latitude": "35.944604",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_511.jpg"
+  },
+  {
+    "id": "170",
+    "name": "御園飯店",
+    "description": "本格的な中華料理をリーズナブルに味わえるお店。豊富なメニューがうれしい。個室もあります。人気の若鶏の唐揚げは、骨付きで旨みたっぷりジューシー。揚げたては最高と人気です。",
+    "address": "鯖江市水落町8-6",
+    "longitude": "136.175107",
+    "latitude": "35.960607",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_512.jpg"
+  },
+  {
+    "id": "171",
+    "name": "タインバーガー",
+    "description": "鯖江の住宅街にあるテイクアウトフード専門店。看板メニューの「三六サラダ焼き」（1個100円）はロースハム、カイワレ、マヨネーズがたっぷりはいってボリューム満点。昭和の頃から地元で愛され続けているこの味は、ここでしか味わえません。もちろんそのほかにも今川焼きや、お好み焼などテイクアウトメニューが揃っています。",
+    "address": "鯖江市三六町1丁目６－７",
+    "longitude": "136.179788",
+    "latitude": "35.971781",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_513.jpg"
+  },
+  {
+    "id": "172",
+    "name": "ミート＆デリカささき",
+    "description": "地元で人気の「サバエドッグ」は、まちなか商店街のお肉屋さんから生まれたB級グルメです。肉巻きおにぎりをフライにしてソースをたっぷりつけたもので、いわゆる“歩きながら食べれるソースかつ丼”。福井産コシヒカリを国産豚肉で巻き、サクサクに揚げて特製ソースにつけてあります。",
+    "address": "鯖江市本町3丁目1-5",
+    "longitude": "136.18556",
+    "latitude": "35.946505",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_514.jpg"
+  },
+  {
+    "id": "174",
+    "name": "たんぽぽ",
+    "description": "越前漆器で出される薬膳カレーが名物。",
+    "address": "鯖江市西袋町３９?１?１",
+    "longitude": "136.185155",
+    "latitude": "35.946266",
+    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_516.jpg"
+  },
+  {
+    "id": "175",
+    "name": ""
+  }
 ]
