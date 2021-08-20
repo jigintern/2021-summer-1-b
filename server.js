@@ -7,8 +7,6 @@ import {
 
 class MyServer extends Server {
   api(path, req) {
-    console.log(`1. path: ${path}`);
-    console.log(`2. req: ${req}`);
     switch(path) {
       case "/api/test":
         return test(path);

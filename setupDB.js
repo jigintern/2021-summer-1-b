@@ -1,6 +1,6 @@
 import { DB } from "./deps.js";
 
-const db = new DB("place.db");
+const db = new DB("places.db");
 
 //  {
 //     "id":"1",
