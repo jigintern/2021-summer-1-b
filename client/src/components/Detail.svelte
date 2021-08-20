@@ -6,6 +6,7 @@
 
   let success = false;
   let nearbyPlaces = [];
+  $: isNiche = place.likes < 10;
 
   const loadNearbyPlaces = async () => {
     const data = await fetch(
@@ -44,6 +45,11 @@
 
 <div class="mx-auto">
   <Image src={place.thumbnail} alt={place.name} />
+</div>
+<div class="text-xl mx-auto pt-2">
+  ニッチ度：<span class="{isNiche ? 'text-yellow-500' : ''} font-bold"
+    >{place.likes}</span
+  >
 </div>
 <div class="py-2">
   <h1 class="text-2xl">{place.name}</h1>

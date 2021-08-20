@@ -2,7 +2,7 @@
 <button class="h-16 w-16 bg-blue-400 rounded-full" on:click
   ><svg
     aria-hidden="true"
-    class="text-red-400 h-3/4 mx-auto"
+    class="text-gray-700 h-3/4 mx-auto"
     role="img"
     xmlns="http://www.w3.org/2000/svg"
     viewBox="0 0 352 512"

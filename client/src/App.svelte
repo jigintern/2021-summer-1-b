@@ -1,4 +1,5 @@
 <script>
+  import Header from "./components/Header.svelte";
   import ReviewPane from "./components/ReviewPane.svelte";
   import Detail from "./components/Detail.svelte";
 
@@ -24,7 +25,7 @@
 </script>
 
 <div class="grid grid-rows-8 h-screen">
-  <header class="bg-gray-200 z-10" />
+  <Header />
   <main
     id="place"
     class="row-span-6 {revealDetail
