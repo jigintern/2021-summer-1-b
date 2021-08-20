@@ -1,3 +1,4 @@
+import testDB from "../setupTestDB.js";
 import {
   shuffle,
   getQueries
@@ -7,8 +8,9 @@ import {
   assertNotEquals
 } from "../deps.js";
 
-const places = JSON.parse(Deno.readTextFileSync("./_data/data.json"));
+const places = testDB.queryEntries("SELECT * FROM places");
 
+// このテストは配列をシャッフルをテストしているため何回かに１回はerrorになるけど気にしない
 Deno.test({
   name: "test shuffle func",
   fn() {
