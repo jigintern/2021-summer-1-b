@@ -775,11 +775,11 @@
   },
   {
     "id": "96",
-    "name": "プリンセス＆プリンス",
-    "description": "サバエ・シティーホテルの１Fにあるプリン専門店です。旬の素材を使ったオススメの手作りプリンが常時１０種類以上揃っています。どれもこだわりの品ですが、中でも「とまとのプリン」は、目にも鮮やかなルビー色とクセになる味わい深い味です。また、インド王室御用達のアルフォンソマンゴーを贅沢に６０%も使用した「マンゴーの王様プリン」は、究極にとろとろな舌ざわりで、お取り寄せでも大人気の一品です。",
-    "address": "鯖江市桜町3丁目3-3（サバエ･シティーホテル内）",
-    "longitude": "136.181237",
-    "latitude": "35.947158",
+    "name": "メゾン・ド・レトワール",
+    "description": "サバエ・シティーホテルの向かいにあるプリン専門店です。旬の素材を使ったオススメの手作りプリンが常時１０種類以上揃っています。どれもこだわりの品ですが、中でも「とまとのプリン」は、目にも鮮やかなルビー色とクセになる味わい深い味です。また、インド王室御用達のアルフォンソマンゴーを贅沢に６０%も使用した「マンゴーの王様プリン」は、究極にとろとろな舌ざわりで、お取り寄せでも大人気の一品です。",
+    "address": "鯖江市桜町2丁目6-12",
+    "longitude": "136.18109747",
+    "latitude": "35.946861453",
     "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_218.jpg"
   },
   {
@@ -817,15 +817,6 @@
     "longitude": "136.170193",
     "latitude": "35.986403",
     "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_shopping_954.jpg"
-  },
-  {
-    "id": "101",
-    "name": "与十郎",
-    "description": "こだわりの品揃えで、手軽に楽しめる漆器を中心に食器やインテリア用品など多彩にそろえています。また、併設の喫茶コーナーでは漆器をおしゃれに使用しています。",
-    "address": "越前市赤坂町3-22-1",
-    "longitude": "136.24465",
-    "latitude": "35.948023",
-    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_001.jpg"
   },
   {
     "id": "113",
@@ -885,9 +876,9 @@
     "id": "125",
     "name": "琥八（こはち）",
     "description": "安心でおいしいパンを届けたいと極力添加物を使用しない商品を提供しているパン屋さん。",
-    "address": "鯖江市三六町２－５－１６小林ビル１階",
-    "longitude": "136.178588",
-    "latitude": "35.97263",
+    "address": "福井県鯖江市西山町1-613",
+    "longitude": "136.183413",
+    "latitude": "35.953115",
     "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_205.jpg"
   },
   {
@@ -1188,15 +1179,6 @@
     "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_502.jpg"
   },
   {
-    "id": "159",
-    "name": "ピッコロ・コッコロ",
-    "description": "美味しいイタリアンがカジュアルな雰囲気の中で食べられるお店。「手打ちパスタ」や「スモークサーモンとホタテのタルタル」、「黒毛和牛のグリルバルサミコソース」など、素材の良さを活かした料理が自慢。アルコールメニューも豊富に取り揃えています。カウンター席や窓際のカップルシート席があり、お一人様でもホッと落ち着ける雰囲気です。",
-    "address": "鯖江市水落町1-1-19",
-    "longitude": "136.182303",
-    "latitude": "35.959033",
-    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_503.jpg"
-  },
-  {
     "id": "160",
     "name": "ピエトロ",
     "description": "22年3月に移転ＯＰＥＮした生パスタ専門店のお店です。こだわりの生パスタは、もちもちとした食感のあるデュラム小麦粉・卵白・塩で作られた安心な麺。他にも自慢のPizzaや、お手頃価格のコースメニュー、手づくりデザート、イタリアンに合うおいしいワインなどメニュー豊富です。また、職場・友達同士・ご家族etc・・・パーティ・宴会に利用できるお部屋もあります。",
@@ -1231,15 +1213,6 @@
     "longitude": "136.181342",
     "latitude": "35.977685",
     "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_507.jpg"
-  },
-  {
-    "id": "164",
-    "name": "クアトロ・スタジォーネ",
-    "description": "さばえの人気イタリアンのお店。冬には、チーズフォンデュもあります。",
-    "address": "鯖江市東鯖江1-1-3",
-    "longitude": "136.194308",
-    "latitude": "35.943436",
-    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_508.jpg"
   },
   {
     "id": "165",
@@ -1287,15 +1260,6 @@
     "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_512.jpg"
   },
   {
-    "id": "171",
-    "name": "タインバーガー",
-    "description": "鯖江の住宅街にあるテイクアウトフード専門店。看板メニューの「三六サラダ焼き」（1個100円）はロースハム、カイワレ、マヨネーズがたっぷりはいってボリューム満点。昭和の頃から地元で愛され続けているこの味は、ここでしか味わえません。もちろんそのほかにも今川焼きや、お好み焼などテイクアウトメニューが揃っています。",
-    "address": "鯖江市三六町1丁目６－７",
-    "longitude": "136.179788",
-    "latitude": "35.971781",
-    "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_513.jpg"
-  },
-  {
     "id": "172",
     "name": "ミート＆デリカささき",
     "description": "地元で人気の「サバエドッグ」は、まちなか商店街のお肉屋さんから生まれたB級グルメです。肉巻きおにぎりをフライにしてソースをたっぷりつけたもので、いわゆる“歩きながら食べれるソースかつ丼”。福井産コシヒカリを国産豚肉で巻き、サクサクに揚げて特製ソースにつけてあります。",
@@ -1312,9 +1276,5 @@
     "longitude": "136.185155",
     "latitude": "35.946266",
     "thumbnail": "https://www.city.sabae.fukui.jp/xml/sabakan/simage/t_gourmet_516.jpg"
-  },
-  {
-    "id": "175",
-    "name": ""
   }
 ]
