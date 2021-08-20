@@ -1,5 +1,6 @@
-import { calcDistance } from "../utils/calc_dist.js";
 import db from "../setupDB.js";
+import { calcDistance } from "../utils/calc_dist.js";
+import { incrementLikes } from "../utils/increment_likes.js";
 import {
   shuffle,
   getQueries
@@ -11,10 +12,11 @@ export const test = (path) => {
   return path
 }
 
-/*
-  @desc get places
-  @route GET /api/places
-  @return Array or {error: err.message}
+/**
+ * 
+ * @desc get places
+ * @route GET /api/places/?longitude=number&latitude=number
+ * @return {object} object of success flag and places
 */
 export const getPlaces = () => {
   let responsePlaces = [];
@@ -42,11 +44,13 @@ export const getPlaces = () => {
   }
 }
 
-/*
-  @desc get place with 
-  @route GET /api/places/?longitude=number&latitude=number
-  @return Array of recommended places
+/**
+ * 
+ * @desc get place with recommended places
+ * @route GET /api/places/?longitude=number&latitude=number
+ * @return {object} object of success flag and recommended places
 */
+
 export const getPlace = (path, req) => {
   // 1. path: /api/places/
   // 2. req: longitude=222&latitude=222
@@ -57,14 +61,9 @@ export const getPlace = (path, req) => {
   // console.log(`recomended_places: ${recomended_places}`)
 
   // increment likes
-  // fint this place
-  const thisPlace = db.queryEntries(`SELECT * FROM places where longitude = ${longitude}`);
-  // increment likes
-  thisPlace[0].likes += 1;
-  // update database
-  db.query(`update places set likes = ${thisPlace[0].likes} where longitude = ${longitude}`);
+  const result = incrementLikes(longitude);
 
-  if (recomended_places) {
+  if (recomended_places && result) {
     return {
       success: true,
       data: recomended_places
