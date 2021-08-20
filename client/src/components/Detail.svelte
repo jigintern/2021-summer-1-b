@@ -6,6 +6,7 @@
 
   let success = false;
   let nearbyPlaces = [];
+  $: isNiche = place.likes < 10;
 
   const loadNearbyPlaces = async () => {
     const data = await fetch(
@@ -14,6 +15,8 @@
     const res = await data.json();
     success = res.success;
     nearbyPlaces = res.data;
+    for (const p of nearbyPlaces)
+      p.distance = (parseFloat(p.distance) * 1000).toFixed() + "m"; // km to m
   };
 
   let map;
@@ -43,35 +46,57 @@
 <div class="mx-auto">
   <Image src={place.thumbnail} alt={place.name} />
 </div>
+<div class="text-xl mx-auto pt-2">
+  ニッチ度：<span class="{isNiche ? 'text-yellow-500' : ''} font-bold"
+    >{place.likes}</span
+  >
+</div>
 <div class="py-2">
   <h1 class="text-2xl">{place.name}</h1>
   <p class="font-extralight">{place.address}</p>
   <p class="pt-1">{place.description}</p>
 </div>
 <div id="access-map" class="mx-4 md:mx-8" />
+<hr class="my-5" />
 {#await loadNearbyPlaces()}
   <div>loading...</div>
 {:then}
-  <div class="pt-2">
+  <section class="md:w-2/3 mx-auto">
     <h2 class="text-xl">近くの観光地</h2>
     {#if success}
-      <ul>
+      <div class="grid gap-y-5">
         {#each nearbyPlaces as nearbyPlace (nearbyPlace.id)}
-          <li on:click={() => updatePlace(nearbyPlace)}>
-            {nearbyPlace.name}: {`${(
-              parseFloat(nearbyPlace.distance) * 1000
-            ).toFixed()}m`}
-          </li>
+          <div class="grid">
+            <div
+              on:click={() => updatePlace(nearbyPlace)}
+              class="w-1/2 md:w-full mx-auto opacity-1 hover:opacity-75"
+            >
+              <Image src={nearbyPlace.thumbnail} alt={nearbyPlace.name} />
+            </div>
+            <div>
+              <h3 class="text-lg line-clamp-1 float-left">
+                {nearbyPlace.name}
+              </h3>
+              <p class="float-right">
+                ({nearbyPlace.distance})
+              </p>
+            </div>
+            <p class="line-clamp-1">{nearbyPlace.description}</p>
+          </div>
         {/each}
-      </ul>
+      </div>
     {:else}
       <div>Internal server error occurred.</div>
     {/if}
-  </div>
+  </section>
 {:catch error}
   <p class="text-red-500">{error.message}</p>
 {/await}
-<button on:click={restoreReviewing}>他の場所を探す</button>
+<button
+  on:click={restoreReviewing}
+  class="w-1/2 p-2 mt-4 mx-auto rounded-lg bg-blue-400 text-white text-lg font-medium"
+  >他の場所を探す</button
+>
 
 <style>
   #access-map {

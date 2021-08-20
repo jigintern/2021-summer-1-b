@@ -1,4 +1,5 @@
 <script>
+  import Header from "./components/Header.svelte";
   import ReviewPane from "./components/ReviewPane.svelte";
   import Detail from "./components/Detail.svelte";
 
@@ -24,12 +25,12 @@
 </script>
 
 <div class="grid grid-rows-8 h-screen">
-  <header class="bg-gray-200 z-10" />
+  <Header />
   <main
     id="place"
     class="row-span-6 {revealDetail
       ? 'flex flex-col'
-      : 'grid grid-rows-5 gap-y-3'} p-3 md:w-2/5 md:mx-auto overflow-y-scroll"
+      : 'grid grid-rows-5 gap-y-3'} p-3 md:w-2/5 md:mx-auto overflow-y-scroll scroll-bar-none"
   >
     {#await loadPlaces()}
       <div class="row-span-5 text-center">Loading...</div>
@@ -46,7 +47,7 @@
         {:else}
           <ReviewPane
             place={places[curIdx]}
-            on:dislike={nextPlace}
+            on:next={nextPlace}
             on:like={like}
           />
         {/if}
@@ -66,4 +67,15 @@
   @tailwind base;
   @tailwind components;
   @tailwind utilities;
+
+  .scroll-bar-none {
+    overflow-y: scroll;
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* Internet Explorer 10+ */
+  }
+  .scroll-bar-none::-webkit-scrollbar {
+    /* WebKit */
+    width: 0;
+    height: 0;
+  }
 </style>
