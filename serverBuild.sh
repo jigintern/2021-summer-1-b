@@ -1,5 +1,5 @@
 #!/bin/sh
 
 #server
-rm ./place.db
+rm ./places.db
 deno run -A seeder.js
