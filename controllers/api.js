@@ -15,7 +15,7 @@ export const test = (path) => {
 /**
  * 
  * @desc get places
- * @route GET /api/places/?longitude=number&latitude=number
+ * @route GET /api/places
  * @return {object} object of success flag and places
 */
 export const getPlaces = () => {
